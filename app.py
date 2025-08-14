@@ -349,10 +349,10 @@ if points_diff > 0 and position_diff > 0:
     st.markdown(
         f"""
         <p style='font-size:18px;'>
-        🔍 By being more clinical, <strong><span style='color:{xgcolor};'>{team_name}</span></strong> would have scored 
-        <span style='color:{xgcolor};'><strong>{goal_diff} more goals</strong></span>, gained 
-        <span style='color:{xgcolor};'><strong>{points_diff} more points</strong></span> and finished 
-        <span style='color:{xgcolor};'><strong>{position_diff} place{'s' if position_diff > 1 else ''} higher</strong></span> in the league.
+        🔍 By being more clinical, <strong><span style='color:{actual_color};'>{team_name}</span></strong> would have scored 
+        <span style='color:{actual_color};'><strong>{goal_diff} more goals</strong></span>, gained 
+        <span style='color:{actual_color};'><strong>{points_diff} more points</strong></span> and finished 
+        <span style='color:{actual_color};'><strong>{position_diff} place{'s' if position_diff > 1 else ''} higher</strong></span> in the league.
         </p>
         """, unsafe_allow_html=True
     )
@@ -360,9 +360,9 @@ elif points_diff > 0:
     st.markdown(
         f"""
         <p style='font-size:18px;'>
-        🔍 By being more clinical, <strong><span style='color:{xgcolor};'>{team_name}</span></strong> would have scored 
-        <span style='color:{xgcolor};'><strong>{goal_diff} more goals</strong></span> and gained 
-        <span style='color:{xgcolor};'><strong>{points_diff} more points</strong></span>, 
+        🔍 By being more clinical, <strong><span style='color:{actual_color};'>{team_name}</span></strong> would have scored 
+        <span style='color:{actual_color};'><strong>{goal_diff} more goals</strong></span> and gained 
+        <span style='color:{actual_color};'><strong>{points_diff} more points</strong></span>, 
         but it wouldn’t have helped them finish any higher in the league.
         </p>
         """, unsafe_allow_html=True
@@ -371,8 +371,8 @@ else:
     st.markdown(
         f"""
         <p style='font-size:18px;'>
-        🔍 By being more clinical, <strong><span style='color:{xgcolor};'>{team_name}</span></strong> would have scored 
-        <span style='color:{xgcolor};'><strong>{goal_diff} more goals</strong></span>, 
+        🔍 By being more clinical, <strong><span style='color:{actual_color};'>{team_name}</span></strong> would have scored 
+        <span style='color:{actual_color};'><strong>{goal_diff} more goals</strong></span>, 
         but it wouldn’t have gained them more points or improved their league position.
         </p>
         """, unsafe_allow_html=True

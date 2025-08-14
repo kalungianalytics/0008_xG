@@ -162,6 +162,16 @@ def plot_cumulative_xg_diff_all_teams(df):
 # =========================================================
 a, b, c, d, e, f = 'Liverpool', 'Southampton', 'Chelsea', 'Bournemouth', 'Forest', 'Crystal Palace'
 
+st.markdown(
+    """
+    <p style='font-size:14px; color:#ccc; text-align:right;'>
+    Built by <strong>Kalungi Analytics</strong> | 
+    <a href='https://www.linkedin.com/in/ben-sharpe-49659a207/' target='_blank' style='color:#4FA2B4;'>LinkedIn</a>
+    </p>
+    """,
+    unsafe_allow_html=True
+)
+
 st.title("Premier League xG Headline Statistics")
 st.subheader("Total Goals scored vs xG with no adjustments - Sorted by final ACTUAL league position")
 st.markdown(

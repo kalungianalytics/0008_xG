@@ -59,6 +59,18 @@ team_totals = (
 # =========================================================
 # SIDEBAR CONTROLS
 # =========================================================
+
+st.sidebar.markdown(
+    """
+    <hr style="margin-top: 0.5em; margin-bottom: 0.5em; border: 0; border-top: 1px solid #666;">
+    <p style='font-size:14px; color:#ccc; text-align:center;'>
+    Built by <strong>Kalungi Analytics</strong><br>
+    <a href='https://www.linkedin.com/in/ben-sharpe-49659a207//' target='_blank' style='color:#4FA2B4;'>Connect on LinkedIn</a>
+    </p>
+    <hr style="margin-top: 0.5em; margin-bottom: 0.5em; border: 0; border-top: 1px solid #666;">
+    """,
+    unsafe_allow_html=True
+)
 st.sidebar.title("xG Adjustment Method")
 csv_option = st.sidebar.radio(
     "Select xG Adjustment Method:",

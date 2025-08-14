@@ -1,0 +1,31 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Environment & secret files
+*.env
+.env*
+
+# Streamlit generated files
+.streamlit/secrets.toml
+
+#images folder
+images/

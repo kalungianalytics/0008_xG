@@ -1,0 +1,761 @@
+week,team,opponent,home_away,goals,goals_conceded,xg,xg_conceded,home,away,home_goals,away_goals,home_xg,away_xg,score,result,points,adj_goals,xg_result,xg_points,xg_diff,cumulative_points,cumulative_xg_points,cumulative_xg_diff,points_vs_xg_points,cumulative_xg_goals,cumulative_xg_conceded,xg_goal_diff,position,xg_score,result_changed
+1,Arsenal,Wolves,Home,2,0,1.2,0.5,Arsenal,Wolves,2,0,1.2,0.5,      2-0,Win,3,2,Win,3,0.8,3,3,0.8,0,1.2,0.5,0.7,2,      2-0,0
+2,Arsenal,Aston Villa,Away,2,0,0.9,1.2,Aston Villa,Arsenal,0,2,1.2,0.9,      0-2,Win,3,2,Win,3,1.1,6,6,1.9000000000000001,0,2.1,1.7,0.40000000000000013,3,      0-2,0
+3,Arsenal,Brighton,Home,1,1,2.1,1.7,Arsenal,Brighton,1,1,2.1,1.7,      1-1,Draw,1,2,Win,3,-1.1,7,9,0.8,-2,4.2,3.4,0.8000000000000003,4,      2-1,1
+4,Arsenal,Tottenham,Away,1,0,0.7,0.7,Tottenham,Arsenal,0,1,0.7,0.7,      0-1,Win,3,1,Win,3,0.30000000000000004,10,12,1.1,-2,4.9,4.1,0.8000000000000007,2,      0-1,0
+5,Arsenal,Manchester City,Away,2,2,0.7,2.1,Manchester City,Arsenal,2,2,2.1,0.7,      2-2,Draw,1,2,Draw,1,1.3,11,13,2.4000000000000004,-2,5.6,6.2,-0.6,4,      2-2,0
+6,Arsenal,Leicester City,Home,4,2,4.4,0.3,Arsenal,Leicester City,4,2,4.4,0.3,      4-2,Win,3,4,Win,3,-0.4,14,16,1.9999999999999998,-2,10,6.5,3.5,3,      4-2,0
+7,Arsenal,Southampton,Home,3,1,2.8,0.6,Arsenal,Southampton,3,1,2.8,0.6,      3-1,Win,3,3,Win,3,0.20000000000000018,17,19,2.2,-2,12.8,7.1,5.700000000000001,3,      3-1,0
+8,Arsenal,Bournemouth,Away,0,2,0.7,1.8,Bournemouth,Arsenal,2,0,1.8,0.7,      2-0,Loss,0,0,Loss,0,-0.7,17,19,1.5,-2,13.5,8.9,4.6,3,      2-0,0
+9,Arsenal,Liverpool,Home,2,2,0.9,0.8,Arsenal,Liverpool,2,2,0.9,0.8,      2-2,Draw,1,2,Draw,1,1.1,18,20,2.6,-2,14.4,9.7,4.700000000000001,3,      2-2,0
+10,Arsenal,Newcastle Utd,Away,0,1,1.1,0.5,Newcastle Utd,Arsenal,1,0,0.5,1.1,      1-0,Loss,0,1,Draw,1,-1.1,18,21,1.5,-3,15.5,10.2,5.300000000000001,5,      1-1,1
+11,Arsenal,Chelsea,Away,1,1,1.5,1.5,Chelsea,Arsenal,1,1,1.5,1.5,      1-1,Draw,1,1,Draw,1,-0.5,19,22,1,-3,17,11.7,5.300000000000001,4,      1-1,0
+12,Arsenal,Forest,Home,3,0,1.2,0.3,Arsenal,Forest,3,0,1.2,0.3,      3-0,Win,3,3,Win,3,1.8,22,25,2.8,-3,18.2,12,6.199999999999999,4,      3-0,0
+13,Arsenal,West Ham,Away,5,2,3.5,1.5,West Ham,Arsenal,2,5,1.5,3.5,      2-5,Win,3,5,Win,3,1.5,25,28,4.3,-3,21.7,13.5,8.2,2,      2-5,0
+14,Arsenal,Manchester Utd,Home,2,0,2.1,0.2,Arsenal,Manchester Utd,2,0,2.1,0.2,      2-0,Win,3,2,Win,3,-0.1,28,31,4.2,-3,23.8,13.700000000000001,10.1,3,      2-0,0
+15,Arsenal,Fulham,Away,1,1,1.8,0.2,Fulham,Arsenal,1,1,0.2,1.8,      1-1,Draw,1,1,Draw,1,-0.8,29,32,3.4,-3,25.6,13.9,11.700000000000001,3,      1-1,0
+16,Arsenal,Everton,Home,0,0,1.2,0.1,Arsenal,Everton,0,0,1.2,0.1,      0-0,Draw,1,1,Win,3,-1.2,30,35,2.2,-5,26.8,14,12.8,3,      1-0,1
+17,Arsenal,Crystal Palace,Away,5,1,2.5,1.6,Crystal Palace,Arsenal,1,5,1.6,2.5,      1-5,Win,3,5,Win,3,2.5,33,38,4.7,-5,29.3,15.6,13.700000000000001,3,      1-5,0
+18,Arsenal,Ipswich Town,Home,1,0,1.8,0.2,Arsenal,Ipswich Town,1,0,1.8,0.2,      1-0,Win,3,1,Win,3,-0.8,36,41,3.9000000000000004,-5,31.1,15.8,15.3,2,      1-0,0
+19,Arsenal,Brentford,Away,3,1,1.9,0.3,Brentford,Arsenal,1,3,0.3,1.9,      1-3,Win,3,3,Win,3,1.1,39,44,5,-5,33,16.1,16.9,2,      1-3,0
+20,Arsenal,Brighton,Away,1,1,0.9,1.5,Brighton,Arsenal,1,1,1.5,0.9,      1-1,Draw,1,1,Draw,1,0.1,40,45,5.1000000000000005,-5,33.9,17.6,16.299999999999997,2,      1-1,0
+21,Arsenal,Tottenham,Home,2,1,1.4,0.8,Arsenal,Tottenham,2,1,1.4,0.8,      2-1,Win,3,2,Win,3,0.6000000000000001,43,48,5.7,-5,35.3,18.4,16.9,2,      2-1,0
+22,Arsenal,Aston Villa,Home,2,2,1.3,1,Arsenal,Aston Villa,2,2,1.3,1,      2-2,Draw,1,2,Draw,1,0.7,44,49,6.4,-5,36.6,19.4,17.200000000000003,2,      2-2,0
+23,Arsenal,Wolves,Away,1,0,1,0.7,Wolves,Arsenal,0,1,0.7,1,      0-1,Win,3,1,Win,3,0,47,52,6.4,-5,37.6,20.1,17.5,2,      0-1,0
+24,Arsenal,Manchester City,Home,5,1,1,0.8,Arsenal,Manchester City,5,1,1,0.8,      5-1,Win,3,5,Win,3,4,50,55,10.4,-5,38.6,20.9,17.700000000000003,2,      5-1,0
+25,Arsenal,Leicester City,Away,2,0,1.4,0.2,Leicester City,Arsenal,0,2,0.2,1.4,      0-2,Win,3,2,Win,3,0.6000000000000001,53,58,11,-5,40,21.1,18.9,2,      0-2,0
+26,Arsenal,West Ham,Home,0,1,1.2,1.1,Arsenal,West Ham,0,1,1.2,1.1,      0-1,Loss,0,1,Draw,1,-1.2,53,59,9.8,-6,41.2,22.2,19.000000000000004,2,      1-1,1
+27,Arsenal,Forest,Away,0,0,1,0.4,Forest,Arsenal,0,0,0.4,1,      0-0,Draw,1,1,Win,3,-1,54,62,8.8,-8,42.2,22.6,19.6,2,      0-1,1
+28,Arsenal,Manchester Utd,Away,1,1,1.6,1.5,Manchester Utd,Arsenal,1,1,1.5,1.6,      1-1,Draw,1,1,Draw,1,-0.6,55,63,8.200000000000001,-8,43.8,24.1,19.699999999999996,2,      1-1,0
+29,Arsenal,Chelsea,Home,1,0,0.7,0.4,Arsenal,Chelsea,1,0,0.7,0.4,      1-0,Win,3,1,Win,3,0.30000000000000004,58,66,8.5,-8,44.5,24.5,20,2,      1-0,0
+30,Arsenal,Fulham,Home,2,1,2.2,1,Arsenal,Fulham,2,1,2.2,1,      2-1,Win,3,2,Win,3,-0.2,61,69,8.3,-8,46.7,25.5,21.200000000000003,2,      2-1,0
+31,Arsenal,Everton,Away,1,1,1.8,1.1,Everton,Arsenal,1,1,1.1,1.8,      1-1,Draw,1,1,Draw,1,-0.8,62,70,7.5,-8,48.5,26.6,21.9,2,      1-1,0
+32,Arsenal,Brentford,Home,1,1,1,0.2,Arsenal,Brentford,1,1,1,0.2,      1-1,Draw,1,1,Draw,1,0,63,71,7.5,-8,49.5,26.8,22.7,2,      1-1,0
+33,Arsenal,Ipswich Town,Away,4,0,2.4,0.2,Ipswich Town,Arsenal,0,4,0.2,2.4,      0-4,Win,3,4,Win,3,1.6,66,74,9.1,-8,51.9,27,24.9,2,      0-4,0
+34,Arsenal,Crystal Palace,Home,2,2,1.2,1.7,Arsenal,Crystal Palace,2,2,1.2,1.7,      2-2,Draw,1,2,Draw,1,0.8,67,75,9.9,-8,53.1,28.7,24.400000000000002,2,      2-2,0
+35,Arsenal,Bournemouth,Home,1,2,1.4,0.9,Arsenal,Bournemouth,1,2,1.4,0.9,      1-2,Loss,0,1,Loss,0,-0.4,67,75,9.5,-8,54.5,29.6,24.9,2,      1-2,0
+36,Arsenal,Liverpool,Away,2,2,2.6,2.4,Liverpool,Arsenal,2,2,2.4,2.6,      2-2,Draw,1,2,Draw,1,-0.6,68,76,8.9,-8,57.1,32,25.1,2,      2-2,0
+37,Arsenal,Newcastle Utd,Home,1,0,0.6,1.5,Arsenal,Newcastle Utd,1,0,0.6,1.5,      1-0,Win,3,1,Win,3,0.4,71,79,9.3,-8,57.7,33.5,24.200000000000003,2,      1-0,0
+38,Arsenal,Southampton,Away,2,1,2.3,0.6,Southampton,Arsenal,1,2,0.6,2.3,      1-2,Win,3,2,Win,3,-0.3,74,82,9,-8,60,34.1,25.9,2,      1-2,0
+1,Aston Villa,West Ham,Away,2,1,2,2.3,West Ham,Aston Villa,1,2,2.3,2,      1-2,Win,3,2,Win,3,0,3,3,0,0,2,2.3,-0.3,5,      1-2,0
+2,Aston Villa,Arsenal,Home,0,2,1.2,0.9,Aston Villa,Arsenal,0,2,1.2,0.9,      0-2,Loss,0,1,Loss,0,-1.2,3,3,-1.2,0,3.2,3.1999999999999997,4.440892098500626e-16,12,      1-2,0
+3,Aston Villa,Leicester City,Away,2,1,1.4,0.4,Leicester City,Aston Villa,1,2,0.4,1.4,      1-2,Win,3,2,Win,3,0.6000000000000001,6,6,-0.6,0,4.6,3.5999999999999996,1,7,      1-2,0
+4,Aston Villa,Everton,Home,3,2,2.1,0.9,Aston Villa,Everton,3,2,2.1,0.9,      3-2,Win,3,3,Win,3,0.8999999999999999,9,9,0.30000000000000004,0,6.7,4.5,2.2,5,      3-2,0
+5,Aston Villa,Wolves,Home,3,1,1.7,0.5,Aston Villa,Wolves,3,1,1.7,0.5,      3-1,Win,3,3,Win,3,1.3,12,12,1.6,0,8.4,5,3.4000000000000004,3,      3-1,0
+6,Aston Villa,Ipswich Town,Away,2,2,0.8,1.2,Ipswich Town,Aston Villa,2,2,1.2,0.8,      2-2,Draw,1,2,Draw,1,1.2,13,13,2.8,0,9.2,6.199999999999999,3,5,      2-2,0
+7,Aston Villa,Manchester Utd,Home,0,0,0.5,0.6,Aston Villa,Manchester Utd,0,0,0.5,0.6,      0-0,Draw,1,0,Draw,1,-0.5,14,14,2.3,0,9.7,6.8,2.8999999999999995,5,      0-0,0
+8,Aston Villa,Fulham,Away,3,1,1.6,1.8,Fulham,Aston Villa,1,3,1.8,1.6,      1-3,Win,3,3,Win,3,1.4,17,17,3.7,0,11.3,8.6,2.700000000000001,4,      1-3,0
+9,Aston Villa,Bournemouth,Home,1,1,1.8,0.3,Aston Villa,Bournemouth,1,1,1.8,0.3,      1-1,Draw,1,1,Draw,1,-0.8,18,18,2.9,0,13.1,8.9,4.199999999999999,4,      1-1,0
+10,Aston Villa,Tottenham,Away,1,4,1.8,2.4,Tottenham,Aston Villa,4,1,2.4,1.8,      4-1,Loss,0,1,Loss,0,-0.8,18,18,2.0999999999999996,0,14.9,11.299999999999999,3.6000000000000014,6,      4-1,0
+11,Aston Villa,Liverpool,Away,0,2,1.2,2,Liverpool,Aston Villa,2,0,2,1.2,      2-0,Loss,0,1,Loss,0,-1.2,18,18,0.8999999999999999,0,16.1,13.299999999999999,2.8000000000000025,9,      2-1,0
+12,Aston Villa,Crystal Palace,Home,2,2,3,1.3,Aston Villa,Crystal Palace,2,2,3,1.3,      2-2,Draw,1,3,Win,3,-1,19,21,-0.1,-2,19.1,14.6,4.500000000000002,8,      3-2,1
+13,Aston Villa,Chelsea,Away,0,3,1.2,1.6,Chelsea,Aston Villa,3,0,1.6,1.2,      3-0,Loss,0,1,Loss,0,-1.2,19,21,-1.3,-2,20.3,16.2,4.100000000000001,12,      3-1,0
+14,Aston Villa,Brentford,Home,3,1,2.4,0.9,Aston Villa,Brentford,3,1,2.4,0.9,      3-1,Win,3,3,Win,3,0.6000000000000001,22,24,-0.7,-2,22.7,17.099999999999998,5.600000000000001,8,      3-1,0
+15,Aston Villa,Southampton,Home,1,0,2.3,0.3,Aston Villa,Southampton,1,0,2.3,0.3,      1-0,Win,3,2,Win,3,-1.3,25,27,-2,-2,25,17.4,7.600000000000001,6,      2-0,0
+16,Aston Villa,Forest,Away,1,2,0.4,1.7,Forest,Aston Villa,2,1,1.7,0.4,      2-1,Loss,0,1,Loss,0,0.6,25,27,-1.4,-2,25.4,19.099999999999998,6.300000000000001,7,      2-1,0
+17,Aston Villa,Manchester City,Home,2,1,1.6,1,Aston Villa,Manchester City,2,1,1.6,1,      2-1,Win,3,2,Win,3,0.3999999999999999,28,30,-1,-2,27,20.099999999999998,6.900000000000002,6,      2-1,0
+18,Aston Villa,Newcastle Utd,Away,0,3,0.3,2.7,Newcastle Utd,Aston Villa,3,0,2.7,0.3,      3-0,Loss,0,0,Loss,0,-0.3,28,30,-1.3,-2,27.3,22.8,4.5,9,      3-0,0
+19,Aston Villa,Brighton,Home,2,2,1.8,1.1,Aston Villa,Brighton,2,2,1.8,1.1,      2-2,Draw,1,2,Draw,1,0.19999999999999996,29,31,-1.1,-2,29.1,23.9,5.200000000000003,9,      2-2,0
+20,Aston Villa,Leicester City,Home,2,1,1.4,0.4,Aston Villa,Leicester City,2,1,1.4,0.4,      2-1,Win,3,2,Win,3,0.6000000000000001,32,34,-0.5,-2,30.5,24.3,6.199999999999999,8,      2-1,0
+21,Aston Villa,Everton,Away,1,0,1.2,1.1,Everton,Aston Villa,0,1,1.1,1.2,      0-1,Win,3,1,Win,3,-0.2,35,37,-0.7,-2,31.7,25.4,6.300000000000001,7,      0-1,0
+22,Aston Villa,Arsenal,Away,2,2,1,1.3,Arsenal,Aston Villa,2,2,1.3,1,      2-2,Draw,1,2,Draw,1,1,36,38,0.30000000000000027,-2,32.7,26.7,6.0000000000000036,8,      2-2,0
+23,Aston Villa,West Ham,Home,1,1,0.9,1.3,Aston Villa,West Ham,1,1,0.9,1.3,      1-1,Draw,1,1,Draw,1,0.1,37,39,0.40000000000000024,-2,33.6,28,5.600000000000001,8,      1-1,0
+24,Aston Villa,Wolves,Away,0,2,0.4,1.6,Wolves,Aston Villa,2,0,1.6,0.4,      2-0,Loss,0,0,Loss,0,-0.4,37,39,2.220446049250313e-16,-2,34,29.6,4.399999999999999,8,      2-0,0
+25,Aston Villa,Ipswich Town,Home,1,1,2.4,0.4,Aston Villa,Ipswich Town,1,1,2.4,0.4,      1-1,Draw,1,2,Win,3,-1.4,38,42,-1.4,-4,36.4,30,6.399999999999999,9,      2-1,1
+26,Aston Villa,Chelsea,Home,2,1,2.3,2.3,Aston Villa,Chelsea,2,1,2.3,2.3,      2-1,Win,3,2,Win,3,-0.3,41,45,-1.7,-4,38.7,32.3,6.400000000000006,8,      2-1,0
+27,Aston Villa,Crystal Palace,Away,1,4,0.4,4.3,Crystal Palace,Aston Villa,4,1,4.3,0.4,      4-1,Loss,0,1,Loss,0,0.6,41,45,-1.1,-4,39.1,36.6,2.5,10,      4-1,0
+28,Aston Villa,Brentford,Away,1,0,1.3,0.8,Brentford,Aston Villa,0,1,0.8,1.3,      0-1,Win,3,1,Win,3,-0.3,44,48,-1.4,-4,40.4,37.4,3,9,      0-1,0
+29,Aston Villa,Liverpool,Home,2,2,0.6,2.5,Aston Villa,Liverpool,2,2,0.6,2.5,      2-2,Draw,1,2,Draw,1,1.4,45,49,4.440892098500626e-16,-4,41,39.9,1.1000000000000014,9,      2-2,0
+30,Aston Villa,Brighton,Away,3,0,1.2,0.9,Brighton,Aston Villa,0,3,0.9,1.2,      0-3,Win,3,3,Win,3,1.8,48,52,1.8000000000000005,-4,42.2,40.8,1.4000000000000057,7,      0-3,0
+31,Aston Villa,Forest,Home,2,1,3,1.5,Aston Villa,Forest,2,1,3,1.5,      2-1,Win,3,3,Win,3,-1,51,55,0.8000000000000005,-4,45.2,42.3,2.9000000000000057,7,      3-1,0
+32,Aston Villa,Southampton,Away,3,0,3,0.3,Southampton,Aston Villa,0,3,0.3,3,      0-3,Win,3,3,Win,3,0,54,58,0.8000000000000005,-4,48.2,42.6,5.600000000000001,7,      0-3,0
+33,Aston Villa,Newcastle Utd,Home,4,1,2.2,1,Aston Villa,Newcastle Utd,4,1,2.2,1,      4-1,Win,3,4,Win,3,1.7999999999999998,57,61,2.6000000000000005,-4,50.4,43.6,6.799999999999997,7,      4-1,0
+34,Aston Villa,Manchester City,Away,1,2,1.8,1.3,Manchester City,Aston Villa,2,1,1.3,1.8,      2-1,Loss,0,1,Loss,0,-0.8,57,61,1.8000000000000003,-4,52.2,44.9,7.300000000000004,7,      2-1,0
+35,Aston Villa,Fulham,Home,1,0,1,0.9,Aston Villa,Fulham,1,0,1,0.9,      1-0,Win,3,1,Win,3,0,60,64,1.8000000000000003,-4,53.2,45.8,7.400000000000006,7,      1-0,0
+36,Aston Villa,Bournemouth,Away,1,0,1,0.8,Bournemouth,Aston Villa,0,1,0.8,1,      0-1,Win,3,1,Win,3,0,63,67,1.8000000000000003,-4,54.2,46.6,7.600000000000001,6,      0-1,0
+37,Aston Villa,Tottenham,Home,2,0,1.4,0.5,Aston Villa,Tottenham,2,0,1.4,0.5,      2-0,Win,3,2,Win,3,0.6000000000000001,66,70,2.4000000000000004,-4,55.6,47.1,8.5,6,      2-0,0
+38,Aston Villa,Manchester Utd,Away,0,2,0.4,2.9,Manchester Utd,Aston Villa,2,0,2.9,0.4,      2-0,Loss,0,0,Loss,0,-0.4,66,70,2.0000000000000004,-4,56,50,6,6,      2-0,0
+1,Bournemouth,Forest,Away,1,1,1.2,1.3,Forest,Bournemouth,1,1,1.3,1.2,      1-1,Draw,1,1,Draw,1,-0.2,1,1,-0.2,0,1.2,1.3,-0.1,9,      1-1,0
+2,Bournemouth,Newcastle Utd,Home,1,1,2.2,1.6,Bournemouth,Newcastle Utd,1,1,2.2,1.6,      1-1,Draw,1,2,Win,3,-1.2,2,4,-1.4,-2,3.4000000000000004,2.9000000000000004,0.5,14,      2-1,1
+3,Bournemouth,Everton,Away,3,2,2.4,1.8,Everton,Bournemouth,2,3,1.8,2.4,      2-3,Win,3,3,Win,3,0.6000000000000001,5,7,-0.8,-2,5.800000000000001,4.7,1.1000000000000005,8,      2-3,0
+4,Bournemouth,Chelsea,Home,0,1,1.7,0.8,Bournemouth,Chelsea,0,1,1.7,0.8,      0-1,Loss,0,1,Draw,1,-1.7,5,8,-2.5,-3,7.5,5.5,2,11,      1-1,1
+5,Bournemouth,Liverpool,Away,0,3,1.1,2,Liverpool,Bournemouth,3,0,2,1.1,      3-0,Loss,0,1,Loss,0,-1.1,5,8,-3.6,-3,8.6,7.5,1.0999999999999996,13,      3-1,0
+6,Bournemouth,Southampton,Home,3,1,1.3,0.6,Bournemouth,Southampton,3,1,1.3,0.6,      3-1,Win,3,3,Win,3,1.7,8,11,-1.9,-3,9.9,8.1,1.8000000000000007,11,      3-1,0
+7,Bournemouth,Leicester City,Away,0,1,2.1,0.8,Leicester City,Bournemouth,1,0,0.8,2.1,      1-0,Loss,0,2,Win,3,-2.1,8,14,-4,-6,12,8.9,3.0999999999999996,13,      1-2,1
+8,Bournemouth,Arsenal,Home,2,0,1.8,0.7,Bournemouth,Arsenal,2,0,1.8,0.7,      2-0,Win,3,2,Win,3,0.19999999999999996,11,17,-3.8,-6,13.8,9.6,4.200000000000001,11,      2-0,0
+9,Bournemouth,Aston Villa,Away,1,1,0.3,1.8,Aston Villa,Bournemouth,1,1,1.8,0.3,      1-1,Draw,1,1,Draw,1,0.7,12,18,-3.1,-6,14.1,11.4,2.6999999999999993,11,      1-1,0
+10,Bournemouth,Manchester City,Home,2,1,2,1.6,Bournemouth,Manchester City,2,1,2,1.6,      2-1,Win,3,2,Win,3,0,15,21,-3.1,-6,16.1,13,3.1000000000000014,10,      2-1,0
+11,Bournemouth,Brentford,Away,2,3,2.6,1.5,Brentford,Bournemouth,3,2,1.5,2.6,      3-2,Loss,0,2,Loss,0,-0.6,15,21,-3.7,-6,18.7,14.5,4.199999999999999,12,      3-2,0
+12,Bournemouth,Brighton,Home,1,2,1.6,0.9,Bournemouth,Brighton,1,2,1.6,0.9,      1-2,Loss,0,1,Loss,0,-0.6,15,21,-4.3,-6,20.3,15.4,4.9,13,      1-2,0
+13,Bournemouth,Wolves,Away,4,2,3.3,0.5,Wolves,Bournemouth,2,4,0.5,3.3,      2-4,Win,3,4,Win,3,0.7000000000000002,18,24,-3.6,-6,23.6,15.9,7.700000000000001,13,      2-4,0
+14,Bournemouth,Tottenham,Home,1,0,3.5,0.9,Bournemouth,Tottenham,1,0,3.5,0.9,      1-0,Win,3,3,Win,3,-2.5,21,27,-6.1,-6,27.1,16.8,10.3,9,      3-0,0
+15,Bournemouth,Ipswich Town,Away,2,1,3.2,1.3,Ipswich Town,Bournemouth,1,2,1.3,3.2,      1-2,Win,3,3,Win,3,-1.2,24,30,-7.3,-6,30.3,18.1,12.2,8,      1-3,0
+16,Bournemouth,West Ham,Home,1,1,1.9,2.1,Bournemouth,West Ham,1,1,1.9,2.1,      1-1,Draw,1,1,Draw,1,-0.9,25,31,-8.2,-6,32.2,20.2,12.000000000000004,6,      1-1,0
+17,Bournemouth,Manchester Utd,Away,3,0,1.6,2.2,Manchester Utd,Bournemouth,0,3,2.2,1.6,      0-3,Win,3,3,Win,3,1.4,28,34,-6.8,-6,33.8,22.4,11.399999999999999,5,      0-3,0
+18,Bournemouth,Crystal Palace,Home,0,0,1.4,0.4,Bournemouth,Crystal Palace,0,0,1.4,0.4,      0-0,Draw,1,1,Win,3,-1.4,29,37,-8.2,-8,35.2,22.8,12.400000000000002,6,      1-0,1
+19,Bournemouth,Fulham,Away,2,2,2,1.1,Fulham,Bournemouth,2,2,1.1,2,      2-2,Draw,1,2,Draw,1,0,30,38,-8.2,-8,37.2,23.9,13.300000000000004,7,      2-2,0
+20,Bournemouth,Everton,Home,1,0,1.8,0.7,Bournemouth,Everton,1,0,1.8,0.7,      1-0,Win,3,1,Win,3,-0.8,33,41,-9,-8,39,24.6,14.399999999999999,7,      1-0,0
+21,Bournemouth,Chelsea,Away,2,2,1.2,2.5,Chelsea,Bournemouth,2,2,2.5,1.2,      2-2,Draw,1,2,Draw,1,0.8,34,42,-8.2,-8,40.2,27.1,13.100000000000001,8,      2-2,0
+22,Bournemouth,Newcastle Utd,Away,4,1,2,0.8,Newcastle Utd,Bournemouth,1,4,0.8,2,      1-4,Win,3,4,Win,3,2,37,45,-6.2,-8,42.2,27.900000000000002,14.3,7,      1-4,0
+23,Bournemouth,Forest,Home,5,0,1.7,1,Bournemouth,Forest,5,0,1.7,1,      5-0,Win,3,5,Win,3,3.3,40,48,-2.9,-8,43.9,28.900000000000002,14.999999999999996,7,      5-0,0
+24,Bournemouth,Liverpool,Home,0,2,1.6,2.5,Bournemouth,Liverpool,0,2,1.6,2.5,      0-2,Loss,0,1,Loss,0,-1.6,40,48,-4.5,-8,45.5,31.4,14.100000000000001,7,      1-2,0
+25,Bournemouth,Southampton,Away,3,1,1.2,0.8,Southampton,Bournemouth,1,3,0.8,1.2,      1-3,Win,3,3,Win,3,1.8,43,51,-2.7,-8,46.7,32.2,14.5,5,      1-3,0
+26,Bournemouth,Wolves,Home,0,1,0.9,2,Bournemouth,Wolves,0,1,0.9,2,      0-1,Loss,0,0,Loss,0,-0.9,43,51,-3.6,-8,47.6,34.2,13.399999999999999,6,      0-1,0
+27,Bournemouth,Brighton,Away,1,2,1.5,2.4,Brighton,Bournemouth,2,1,2.4,1.5,      2-1,Loss,0,1,Loss,0,-0.5,43,51,-4.1,-8,49.1,36.6,12.5,7,      2-1,0
+28,Bournemouth,Tottenham,Away,2,2,2.2,1.5,Tottenham,Bournemouth,2,2,1.5,2.2,      2-2,Draw,1,2,Draw,1,-0.2,44,52,-4.3,-8,51.3,38.1,13.199999999999996,8,      2-2,0
+29,Bournemouth,Brentford,Home,1,2,1.6,0.8,Bournemouth,Brentford,1,2,1.6,0.8,      1-2,Loss,0,1,Loss,0,-0.6,44,52,-4.9,-8,52.9,38.9,14,10,      1-2,0
+30,Bournemouth,Ipswich Town,Home,1,2,1.8,1.2,Bournemouth,Ipswich Town,1,2,1.8,1.2,      1-2,Loss,0,1,Loss,0,-0.8,44,52,-5.7,-8,54.7,40.1,14.600000000000001,10,      1-2,0
+31,Bournemouth,West Ham,Away,2,2,2.1,0.7,West Ham,Bournemouth,2,2,0.7,2.1,      2-2,Draw,1,2,Draw,1,-0.1,45,53,-5.8,-8,56.8,40.8,16,10,      2-2,0
+32,Bournemouth,Fulham,Home,1,0,1.4,1,Bournemouth,Fulham,1,0,1.4,1,      1-0,Win,3,1,Win,3,-0.4,48,56,-6.2,-8,58.2,41.8,16.400000000000006,8,      1-0,0
+33,Bournemouth,Crystal Palace,Away,0,0,0.7,0.4,Crystal Palace,Bournemouth,0,0,0.4,0.7,      0-0,Draw,1,0,Draw,1,-0.7,49,57,-6.9,-8,58.9,42.2,16.699999999999996,8,      0-0,0
+34,Bournemouth,Manchester Utd,Home,1,1,0.5,2.3,Bournemouth,Manchester Utd,1,1,0.5,2.3,      1-1,Draw,1,1,Draw,1,0.5,50,58,-6.4,-8,59.4,44.5,14.899999999999999,10,      1-1,0
+35,Bournemouth,Arsenal,Away,2,1,0.9,1.4,Arsenal,Bournemouth,1,2,1.4,0.9,      1-2,Win,3,2,Win,3,1.1,53,61,-5.3,-8,60.3,45.9,14.399999999999999,8,      1-2,0
+36,Bournemouth,Aston Villa,Home,0,1,0.8,1,Bournemouth,Aston Villa,0,1,0.8,1,      0-1,Loss,0,0,Loss,0,-0.8,53,61,-6.1,-8,61.1,46.9,14.200000000000003,10,      0-1,0
+37,Bournemouth,Manchester City,Away,1,3,1.1,1.5,Manchester City,Bournemouth,3,1,1.5,1.1,      3-1,Loss,0,1,Loss,0,-0.1,53,61,-6.2,-8,62.2,48.4,13.800000000000004,11,      3-1,0
+38,Bournemouth,Leicester City,Home,2,0,1.6,0.3,Bournemouth,Leicester City,2,0,1.6,0.3,      2-0,Win,3,2,Win,3,0.3999999999999999,56,64,-5.8,-8,63.8,48.7,15.099999999999994,9,      2-0,0
+1,Brentford,Crystal Palace,Home,2,1,1.6,1.2,Brentford,Crystal Palace,2,1,1.6,1.2,      2-1,Win,3,2,Win,3,0.3999999999999999,3,3,0.3999999999999999,0,1.6,1.2,0.40000000000000013,5,      2-1,0
+2,Brentford,Liverpool,Away,0,2,0.5,2.5,Liverpool,Brentford,2,0,2.5,0.5,      2-0,Loss,0,0,Loss,0,-0.5,3,3,-0.1,0,2.1,3.7,-1.6,12,      2-0,0
+3,Brentford,Southampton,Home,3,1,2.8,1.5,Brentford,Southampton,3,1,2.8,1.5,      3-1,Win,3,3,Win,3,0.20000000000000018,6,6,0.10000000000000009,0,4.9,5.2,-0.3,6,      3-1,0
+4,Brentford,Manchester City,Away,1,2,1,2.1,Manchester City,Brentford,2,1,2.1,1,      2-1,Loss,0,1,Loss,0,0,6,6,0.10000000000000009,0,5.9,7.300000000000001,-1.4,9,      2-1,0
+5,Brentford,Tottenham,Away,1,3,0.8,3.5,Tottenham,Brentford,3,1,3.5,0.8,      3-1,Loss,0,1,Loss,0,0.19999999999999996,6,6,0.30000000000000004,0,6.7,10.8,-4.1,12,      3-1,0
+6,Brentford,West Ham,Home,1,1,0.4,1,Brentford,West Ham,1,1,0.4,1,      1-1,Draw,1,1,Draw,1,0.6,7,7,0.9,0,7.1,11.8,-4.7,12,      1-1,0
+7,Brentford,Wolves,Home,5,3,4.2,1,Brentford,Wolves,5,3,4.2,1,      5-3,Win,3,5,Win,3,0.7999999999999998,10,10,1.6999999999999997,0,11.3,12.8,-1.5,11,      5-3,0
+8,Brentford,Manchester Utd,Away,1,2,0.9,1.3,Manchester Utd,Brentford,2,1,1.3,0.9,      2-1,Loss,0,1,Loss,0,0.1,10,10,1.7999999999999998,0,12.2,14.1,-1.9,13,      2-1,0
+9,Brentford,Ipswich Town,Home,4,3,4,1.3,Brentford,Ipswich Town,4,3,4,1.3,      4-3,Win,3,4,Win,3,0,13,13,1.7999999999999998,0,16.2,15.4,0.7999999999999989,9,      4-3,0
+10,Brentford,Fulham,Away,1,2,0.6,1.3,Fulham,Brentford,2,1,1.3,0.6,      2-1,Loss,0,1,Loss,0,0.4,13,13,2.1999999999999997,0,16.8,16.7,0.10000000000000142,12,      2-1,0
+11,Brentford,Bournemouth,Home,3,2,1.5,2.6,Brentford,Bournemouth,3,2,1.5,2.6,      3-2,Win,3,3,Win,3,1.5,16,16,3.6999999999999997,0,18.3,19.3,-1,11,      3-2,0
+12,Brentford,Everton,Away,0,0,1.1,1.2,Everton,Brentford,0,0,1.2,1.1,      0-0,Draw,1,1,Win,3,-1.1,17,19,2.5999999999999996,-2,19.4,20.5,-1.1,11,      0-1,1
+13,Brentford,Leicester City,Home,4,1,2.4,1.1,Brentford,Leicester City,4,1,2.4,1.1,      4-1,Win,3,4,Win,3,1.6,20,22,4.199999999999999,-2,21.8,21.6,0.1999999999999993,8,      4-1,0
+14,Brentford,Aston Villa,Away,1,3,0.9,2.4,Aston Villa,Brentford,3,1,2.4,0.9,      3-1,Loss,0,1,Loss,0,0.1,20,22,4.3,-2,22.7,24,-1.3,11,      3-1,0
+15,Brentford,Newcastle Utd,Home,4,2,1.2,1.5,Brentford,Newcastle Utd,4,2,1.2,1.5,      4-2,Win,3,4,Win,3,2.8,23,25,7.1,-2,23.9,25.5,-1.6,9,      4-2,0
+16,Brentford,Chelsea,Away,1,2,1.6,2.2,Chelsea,Brentford,2,1,2.2,1.6,      2-1,Loss,0,1,Loss,0,-0.6,23,25,6.5,-2,25.5,27.700000000000003,-2.2,11,      2-1,0
+17,Brentford,Forest,Home,0,2,0.7,0.9,Brentford,Forest,0,2,0.7,0.9,      0-2,Loss,0,0,Loss,0,-0.7,23,25,5.8,-2,26.2,28.6,-2.4,12,      0-2,0
+18,Brentford,Brighton,Away,0,0,1.1,1.3,Brighton,Brentford,0,0,1.3,1.1,      0-0,Draw,1,1,Win,3,-1.1,24,28,4.699999999999999,-4,27.3,29.900000000000002,-2.6,11,      0-1,1
+19,Brentford,Arsenal,Home,1,3,0.3,1.9,Brentford,Arsenal,1,3,0.3,1.9,      1-3,Loss,0,1,Loss,0,0.7,24,28,5.3999999999999995,-4,27.6,31.8,-4.2,12,      1-3,0
+20,Brentford,Southampton,Away,5,0,4.4,0.3,Southampton,Brentford,0,5,0.3,4.4,      0-5,Win,3,5,Win,3,0.5999999999999996,27,31,5.999999999999999,-4,32,32.1,-0.1,11,      0-5,0
+21,Brentford,Manchester City,Home,2,2,2.5,2.2,Brentford,Manchester City,2,2,2.5,2.2,      2-2,Draw,1,2,Draw,1,-0.5,28,32,5.499999999999999,-4,34.5,34.300000000000004,0.19999999999999574,11,      2-2,0
+22,Brentford,Liverpool,Home,0,2,0.7,3.4,Brentford,Liverpool,0,2,0.7,3.4,      0-2,Loss,0,0,Loss,0,-0.7,28,32,4.799999999999999,-4,35.2,37.7,-2.5,11,      0-2,0
+23,Brentford,Crystal Palace,Away,2,1,1.3,1.1,Crystal Palace,Brentford,1,2,1.1,1.3,      1-2,Win,3,2,Win,3,0.7,31,35,5.499999999999999,-4,36.5,38.800000000000004,-2.3,11,      1-2,0
+24,Brentford,Tottenham,Home,0,2,2.1,0.8,Brentford,Tottenham,0,2,2.1,0.8,      0-2,Loss,0,2,Draw,1,-2.1,31,36,3.399999999999999,-5,38.6,39.6,-1,11,      2-2,1
+25,Brentford,West Ham,Away,1,0,1.6,0.8,West Ham,Brentford,0,1,0.8,1.6,      0-1,Win,3,1,Win,3,-0.6,34,39,2.799999999999999,-5,40.2,40.4,-0.2,11,      0-1,0
+26,Brentford,Leicester City,Away,4,0,1.5,0.5,Leicester City,Brentford,0,4,0.5,1.5,      0-4,Win,3,4,Win,3,2.5,37,42,5.299999999999999,-5,41.7,40.9,0.8000000000000043,11,      0-4,0
+27,Brentford,Everton,Home,1,1,1.4,1.5,Brentford,Everton,1,1,1.4,1.5,      1-1,Draw,1,1,Draw,1,-0.4,38,43,4.899999999999999,-5,43.1,42.4,0.7000000000000028,11,      1-1,0
+28,Brentford,Aston Villa,Home,0,1,0.8,1.3,Brentford,Aston Villa,0,1,0.8,1.3,      0-1,Loss,0,0,Loss,0,-0.8,38,43,4.099999999999999,-5,43.9,43.7,0.19999999999999574,12,      0-1,0
+29,Brentford,Bournemouth,Away,2,1,0.8,1.6,Bournemouth,Brentford,1,2,1.6,0.8,      1-2,Win,3,2,Win,3,1.2,41,46,5.299999999999999,-5,44.7,45.300000000000004,-0.6,11,      1-2,0
+30,Brentford,Newcastle Utd,Away,1,2,1.5,1.3,Newcastle Utd,Brentford,2,1,1.3,1.5,      2-1,Loss,0,1,Loss,0,-0.5,41,46,4.799999999999999,-5,46.2,46.6,-0.4,11,      2-1,0
+31,Brentford,Chelsea,Home,0,0,1.1,1.2,Brentford,Chelsea,0,0,1.1,1.2,      0-0,Draw,1,1,Win,3,-1.1,42,49,3.699999999999999,-7,47.300000000000004,47.800000000000004,-0.5,12,      1-0,1
+32,Brentford,Arsenal,Away,1,1,0.2,1,Arsenal,Brentford,1,1,1,0.2,      1-1,Draw,1,1,Draw,1,0.8,43,50,4.499999999999999,-7,47.5,48.800000000000004,-1.3,11,      1-1,0
+33,Brentford,Brighton,Home,4,2,2.1,1.4,Brentford,Brighton,4,2,2.1,1.4,      4-2,Win,3,4,Win,3,1.9,46,53,6.399999999999999,-7,49.6,50.2,-0.6,11,      4-2,0
+34,Brentford,Forest,Away,2,0,1.3,0.9,Forest,Brentford,0,2,0.9,1.3,      0-2,Win,3,2,Win,3,0.7,49,56,7.099999999999999,-7,50.9,51.1,-0.2,11,      0-2,0
+35,Brentford,Manchester Utd,Home,4,3,2.8,1.5,Brentford,Manchester Utd,4,3,2.8,1.5,      4-3,Win,3,4,Win,3,1.2000000000000002,52,59,8.299999999999999,-7,53.7,52.6,1.1000000000000014,9,      4-3,0
+36,Brentford,Ipswich Town,Away,1,0,1.4,0.9,Ipswich Town,Brentford,0,1,0.9,1.4,      0-1,Win,3,1,Win,3,-0.4,55,62,7.899999999999999,-7,55.1,53.5,1.6000000000000014,8,      0-1,0
+37,Brentford,Fulham,Home,2,3,2.5,1,Brentford,Fulham,2,3,2.5,1,      2-3,Loss,0,2,Loss,0,-0.5,55,62,7.399999999999999,-7,57.6,54.5,3.1000000000000014,9,      2-3,0
+38,Brentford,Wolves,Away,1,1,1.4,1,Wolves,Brentford,1,1,1,1.4,      1-1,Draw,1,1,Draw,1,-0.4,56,63,6.999999999999999,-7,59,55.5,3.5,10,      1-1,0
+1,Brighton,Everton,Away,3,0,1.4,0.5,Everton,Brighton,0,3,0.5,1.4,      0-3,Win,3,3,Win,3,1.6,3,3,1.6,0,1.4,0.5,0.8999999999999999,1,      0-3,0
+2,Brighton,Manchester Utd,Home,2,1,2.1,1.4,Brighton,Manchester Utd,2,1,2.1,1.4,      2-1,Win,3,2,Win,3,-0.1,6,6,1.5,0,3.5,1.9,1.6,2,      2-1,0
+3,Brighton,Arsenal,Away,1,1,1.7,2.1,Arsenal,Brighton,1,1,2.1,1.7,      1-1,Draw,1,1,Draw,1,-0.7,7,7,0.8,0,5.2,4,1.2000000000000002,3,      1-1,0
+4,Brighton,Ipswich Town,Home,0,0,1.6,0.3,Brighton,Ipswich Town,0,0,1.6,0.3,      0-0,Draw,1,1,Win,3,-1.6,8,10,-0.8,-2,6.8,4.3,2.5,6,      1-0,1
+5,Brighton,Forest,Home,2,2,1,1.4,Brighton,Forest,2,2,1,1.4,      2-2,Draw,1,2,Draw,1,1,9,11,0.19999999999999996,-2,7.8,5.7,2.0999999999999996,7,      2-2,0
+6,Brighton,Chelsea,Away,2,4,1.1,4.2,Chelsea,Brighton,4,2,4.2,1.1,      4-2,Loss,0,2,Loss,0,0.8999999999999999,9,11,1.0999999999999999,-2,8.9,9.9,-1,9,      4-2,0
+7,Brighton,Tottenham,Home,3,2,1.8,1.3,Brighton,Tottenham,3,2,1.8,1.3,      3-2,Win,3,3,Win,3,1.2,12,14,2.3,-2,10.7,11.200000000000001,-0.5,6,      3-2,0
+8,Brighton,Newcastle Utd,Away,1,0,1.1,2,Newcastle Utd,Brighton,0,1,2,1.1,      0-1,Win,3,1,Win,3,-0.1,15,17,2.1999999999999997,-2,11.8,13.200000000000001,-1.4,5,      0-1,0
+9,Brighton,Wolves,Home,2,2,1.3,1.3,Brighton,Wolves,2,2,1.3,1.3,      2-2,Draw,1,2,Draw,1,0.7,16,18,2.8999999999999995,-2,13.1,14.5,-1.4,6,      2-2,0
+10,Brighton,Liverpool,Away,1,2,1,1.6,Liverpool,Brighton,2,1,1.6,1,      2-1,Loss,0,1,Loss,0,0,16,18,2.8999999999999995,-2,14.1,16.1,-2,8,      2-1,0
+11,Brighton,Manchester City,Home,2,1,2.3,2.1,Brighton,Manchester City,2,1,2.3,2.1,      2-1,Win,3,2,Win,3,-0.3,19,21,2.5999999999999996,-2,16.4,18.2,-1.8,6,      2-1,0
+12,Brighton,Bournemouth,Away,2,1,0.9,1.6,Bournemouth,Brighton,1,2,1.6,0.9,      1-2,Win,3,2,Win,3,1.1,22,24,3.7,-2,17.3,19.8,-2.5,5,      1-2,0
+13,Brighton,Southampton,Home,1,1,1.7,1,Brighton,Southampton,1,1,1.7,1,      1-1,Draw,1,1,Draw,1,-0.7,23,25,3,-2,19,20.8,-1.8,4,      1-1,0
+14,Brighton,Fulham,Away,1,3,1.4,1.1,Fulham,Brighton,3,1,1.1,1.4,      3-1,Loss,0,1,Loss,0,-0.4,23,25,2.6,-2,20.4,21.900000000000002,-1.5,5,      3-1,0
+15,Brighton,Leicester City,Away,2,2,1.5,1.3,Leicester City,Brighton,2,2,1.3,1.5,      2-2,Draw,1,2,Draw,1,0.5,24,26,3.1,-2,21.9,23.2,-1.3,7,      2-2,0
+16,Brighton,Crystal Palace,Home,1,3,1,2.2,Brighton,Crystal Palace,1,3,1,2.2,      1-3,Loss,0,1,Loss,0,0,24,26,3.1,-2,22.9,25.400000000000002,-2.5,9,      1-3,0
+17,Brighton,West Ham,Away,1,1,0.9,1.2,West Ham,Brighton,1,1,1.2,0.9,      1-1,Draw,1,1,Draw,1,0.1,25,27,3.2,-2,23.8,26.6,-2.8,10,      1-1,0
+18,Brighton,Brentford,Home,0,0,1.3,1.1,Brighton,Brentford,0,0,1.3,1.1,      0-0,Draw,1,1,Win,3,-1.3,26,30,1.9,-4,25.1,27.700000000000003,-2.6,10,      1-0,1
+19,Brighton,Aston Villa,Away,2,2,1.1,1.8,Aston Villa,Brighton,2,2,1.8,1.1,      2-2,Draw,1,2,Draw,1,0.8999999999999999,27,31,2.8,-4,26.2,29.5,-3.3,10,      2-2,0
+20,Brighton,Arsenal,Home,1,1,1.5,0.9,Brighton,Arsenal,1,1,1.5,0.9,      1-1,Draw,1,1,Draw,1,-0.5,28,32,2.3,-4,27.7,30.400000000000002,-2.7,10,      1-1,0
+21,Brighton,Ipswich Town,Away,2,0,1,0.3,Ipswich Town,Brighton,0,2,0.3,1,      0-2,Win,3,2,Win,3,1,31,35,3.3,-4,28.7,30.700000000000003,-2,9,      0-2,0
+22,Brighton,Manchester Utd,Away,3,1,1.9,1.5,Manchester Utd,Brighton,1,3,1.5,1.9,      1-3,Win,3,3,Win,3,1.1,34,38,4.4,-4,30.6,32.2,-1.6,9,      1-3,0
+23,Brighton,Everton,Home,0,1,0.7,0.8,Brighton,Everton,0,1,0.7,0.8,      0-1,Loss,0,0,Loss,0,-0.7,34,38,3.7,-4,31.3,33,-1.7,9,      0-1,0
+24,Brighton,Forest,Away,0,7,0.9,3.3,Forest,Brighton,7,0,3.3,0.9,      7-0,Loss,0,0,Loss,0,-0.9,34,38,2.8,-4,32.2,36.300000000000004,-4.1,10,      7-0,0
+25,Brighton,Chelsea,Home,3,0,1.4,0.5,Brighton,Chelsea,3,0,1.4,0.5,      3-0,Win,3,3,Win,3,1.6,37,41,4.4,-4,33.6,36.800000000000004,-3.2,10,      3-0,0
+26,Brighton,Southampton,Away,4,0,3.9,0.1,Southampton,Brighton,0,4,0.1,3.9,      0-4,Win,3,4,Win,3,0.10000000000000009,40,44,4.5,-4,37.5,36.9,0.6000000000000014,9,      0-4,0
+27,Brighton,Bournemouth,Home,2,1,2.4,1.5,Brighton,Bournemouth,2,1,2.4,1.5,      2-1,Win,3,2,Win,3,-0.4,43,47,4.1,-4,39.9,38.4,1.5,8,      2-1,0
+28,Brighton,Fulham,Home,2,1,1.5,0.9,Brighton,Fulham,2,1,1.5,0.9,      2-1,Win,3,2,Win,3,0.5,46,50,4.6,-4,41.4,39.300000000000004,2.0999999999999943,7,      2-1,0
+29,Brighton,Manchester City,Away,2,2,2,1.7,Manchester City,Brighton,2,2,1.7,2,      2-2,Draw,1,2,Draw,1,0,47,51,4.6,-4,43.4,41,2.3999999999999986,7,      2-2,0
+30,Brighton,Aston Villa,Home,0,3,0.9,1.2,Brighton,Aston Villa,0,3,0.9,1.2,      0-3,Loss,0,0,Loss,0,-0.9,47,51,3.7,-4,44.3,42.2,2.0999999999999943,8,      0-3,0
+31,Brighton,Crystal Palace,Away,1,2,1,0.6,Crystal Palace,Brighton,2,1,0.6,1,      2-1,Loss,0,1,Loss,0,0,47,51,3.7,-4,45.3,42.800000000000004,2.499999999999993,9,      2-1,0
+32,Brighton,Leicester City,Home,2,2,3.8,1.5,Brighton,Leicester City,2,2,3.8,1.5,      2-2,Draw,1,3,Win,3,-1.8,48,54,1.9000000000000004,-6,49.1,44.300000000000004,4.799999999999997,10,      3-2,1
+33,Brighton,Brentford,Away,2,4,1.4,2.1,Brentford,Brighton,4,2,2.1,1.4,      4-2,Loss,0,2,Loss,0,0.6000000000000001,48,54,2.5000000000000004,-6,50.5,46.4,4.100000000000001,10,      4-2,0
+34,Brighton,West Ham,Home,3,2,1.3,1.3,Brighton,West Ham,3,2,1.3,1.3,      3-2,Win,3,3,Win,3,1.7,51,57,4.2,-6,51.8,47.7,4.099999999999994,9,      3-2,0
+35,Brighton,Newcastle Utd,Home,1,1,0.7,1.7,Brighton,Newcastle Utd,1,1,0.7,1.7,      1-1,Draw,1,1,Draw,1,0.30000000000000004,52,58,4.5,-6,52.5,49.4,3.1000000000000014,10,      1-1,0
+36,Brighton,Wolves,Away,2,0,1.6,0.9,Wolves,Brighton,0,2,0.9,1.6,      0-2,Win,3,2,Win,3,0.3999999999999999,55,61,4.9,-6,54.1,50.300000000000004,3.799999999999997,9,      0-2,0
+37,Brighton,Liverpool,Home,3,2,2.2,2.2,Brighton,Liverpool,3,2,2.2,2.2,      3-2,Win,3,3,Win,3,0.7999999999999998,58,64,5.7,-6,56.3,52.5,3.799999999999997,8,      3-2,0
+38,Brighton,Tottenham,Away,4,1,2.2,2,Tottenham,Brighton,1,4,2,2.2,      1-4,Win,3,4,Win,3,1.7999999999999998,61,67,7.5,-6,58.5,54.5,4,8,      1-4,0
+1,Chelsea,Manchester City,Home,0,2,1,0.8,Chelsea,Manchester City,0,2,1,0.8,      0-2,Loss,0,1,Loss,0,-1,0,0,-1,0,1,0.8,0.19999999999999996,17,      1-2,0
+2,Chelsea,Wolves,Away,6,2,1.6,1.9,Wolves,Chelsea,2,6,1.9,1.6,      2-6,Win,3,6,Win,3,4.4,3,3,3.4000000000000004,0,2.6,2.7,-0.1,8,      2-6,0
+3,Chelsea,Crystal Palace,Home,1,1,2.4,0.5,Chelsea,Crystal Palace,1,1,2.4,0.5,      1-1,Draw,1,2,Win,3,-1.4,4,6,2.0000000000000004,-2,5,3.2,1.7999999999999998,11,      2-1,1
+4,Chelsea,Bournemouth,Away,1,0,0.8,1.7,Bournemouth,Chelsea,0,1,1.7,0.8,      0-1,Win,3,1,Win,3,0.19999999999999996,7,9,2.2,-2,5.8,4.9,0.8999999999999995,8,      0-1,0
+5,Chelsea,West Ham,Away,3,0,2.2,0.9,West Ham,Chelsea,0,3,0.9,2.2,      0-3,Win,3,3,Win,3,0.7999999999999998,10,12,3,-2,8,5.8,2.2,5,      0-3,0
+6,Chelsea,Brighton,Home,4,2,4.2,1.1,Chelsea,Brighton,4,2,4.2,1.1,      4-2,Win,3,4,Win,3,-0.2,13,15,2.8,-2,12.2,6.9,5.299999999999999,4,      4-2,0
+7,Chelsea,Forest,Home,1,1,2.3,0.9,Chelsea,Forest,1,1,2.3,0.9,      1-1,Draw,1,2,Win,3,-1.3,14,18,1.5000000000000002,-4,14.5,7.8,6.7,4,      2-1,1
+8,Chelsea,Liverpool,Away,1,2,1,1.9,Liverpool,Chelsea,2,1,1.9,1,      2-1,Loss,0,1,Loss,0,0,14,18,1.5000000000000002,-4,15.5,9.7,5.800000000000001,6,      2-1,0
+9,Chelsea,Newcastle Utd,Home,2,1,1.6,1.8,Chelsea,Newcastle Utd,2,1,1.6,1.8,      2-1,Win,3,2,Win,3,0.3999999999999999,17,21,1.9000000000000001,-4,17.1,11.5,5.600000000000001,5,      2-1,0
+10,Chelsea,Manchester Utd,Away,1,1,1.1,2,Manchester Utd,Chelsea,1,1,2,1.1,      1-1,Draw,1,1,Draw,1,-0.1,18,22,1.8,-4,18.2,13.5,4.699999999999999,4,      1-1,0
+11,Chelsea,Arsenal,Home,1,1,1.5,1.5,Chelsea,Arsenal,1,1,1.5,1.5,      1-1,Draw,1,1,Draw,1,-0.5,19,23,1.3,-4,19.7,15,4.699999999999999,3,      1-1,0
+12,Chelsea,Leicester City,Away,2,1,2.7,1.1,Leicester City,Chelsea,1,2,1.1,2.7,      1-2,Win,3,2,Win,3,-0.7,22,26,0.5999999999999999,-4,22.4,16.1,6.299999999999997,3,      1-2,0
+13,Chelsea,Aston Villa,Home,3,0,1.6,1.2,Chelsea,Aston Villa,3,0,1.6,1.2,      3-0,Win,3,3,Win,3,1.4,25,29,1.9999999999999998,-4,24,17.3,6.699999999999999,2,      3-0,0
+14,Chelsea,Southampton,Away,5,1,5.2,1.6,Southampton,Chelsea,1,5,1.6,5.2,      1-5,Win,3,5,Win,3,-0.2,28,32,1.7999999999999996,-4,29.200000000000003,18.9,10.300000000000004,2,      1-5,0
+15,Chelsea,Tottenham,Away,4,3,2.8,2.8,Tottenham,Chelsea,3,4,2.8,2.8,      3-4,Win,3,4,Win,3,1.2000000000000002,31,35,3,-4,32,21.7,10.3,2,      3-4,0
+16,Chelsea,Brentford,Home,2,1,2.2,1.6,Chelsea,Brentford,2,1,2.2,1.6,      2-1,Win,3,2,Win,3,-0.2,34,38,2.8,-4,34.2,23.3,10.900000000000002,2,      2-1,0
+17,Chelsea,Everton,Away,0,0,1.2,1,Everton,Chelsea,0,0,1,1.2,      0-0,Draw,1,1,Win,3,-1.2,35,41,1.5999999999999996,-6,35.4,24.3,11.099999999999998,2,      0-1,1
+18,Chelsea,Fulham,Home,1,2,1.1,1.8,Chelsea,Fulham,1,2,1.1,1.8,      1-2,Loss,0,1,Loss,0,-0.1,35,41,1.4999999999999996,-6,36.5,26.1,10.399999999999999,3,      1-2,0
+19,Chelsea,Ipswich Town,Away,0,2,2,1.6,Ipswich Town,Chelsea,2,0,1.6,2,      2-0,Loss,0,2,Draw,1,-2,35,42,-0.5,-7,38.5,27.7,10.8,4,      2-2,1
+20,Chelsea,Crystal Palace,Away,1,1,1.2,1.1,Crystal Palace,Chelsea,1,1,1.1,1.2,      1-1,Draw,1,1,Draw,1,-0.2,36,43,-0.7,-7,39.7,28.8,10.900000000000002,4,      1-1,0
+21,Chelsea,Bournemouth,Home,2,2,2.5,1.2,Chelsea,Bournemouth,2,2,2.5,1.2,      2-2,Draw,1,2,Draw,1,-0.5,37,44,-1.2,-7,42.2,30,12.200000000000003,5,      2-2,0
+22,Chelsea,Wolves,Home,3,1,3.1,0.8,Chelsea,Wolves,3,1,3.1,0.8,      3-1,Win,3,3,Win,3,-0.1,40,47,-1.3,-7,45.300000000000004,30.8,14.500000000000004,4,      3-1,0
+23,Chelsea,Manchester City,Away,1,3,1.8,2.2,Manchester City,Chelsea,3,1,2.2,1.8,      3-1,Loss,0,1,Loss,0,-0.8,40,47,-2.1,-7,47.1,33,14.100000000000001,6,      3-1,0
+24,Chelsea,West Ham,Home,2,1,1.6,1.2,Chelsea,West Ham,2,1,1.6,1.2,      2-1,Win,3,2,Win,3,0.3999999999999999,43,50,-1.7,-7,48.7,34.2,14.5,4,      2-1,0
+25,Chelsea,Brighton,Away,0,3,0.5,1.4,Brighton,Chelsea,3,0,1.4,0.5,      3-0,Loss,0,0,Loss,0,-0.5,43,50,-2.2,-7,49.2,35.6,13.600000000000001,6,      3-0,0
+26,Chelsea,Aston Villa,Away,1,2,2.3,2.3,Aston Villa,Chelsea,2,1,2.3,2.3,      2-1,Loss,0,2,Draw,1,-1.3,43,51,-3.5,-8,51.5,37.9,13.600000000000001,7,      2-2,1
+27,Chelsea,Southampton,Home,4,0,2.4,0.7,Chelsea,Southampton,4,0,2.4,0.7,      4-0,Win,3,4,Win,3,1.6,46,54,-1.9,-8,53.9,38.6,15.299999999999997,5,      4-0,0
+28,Chelsea,Leicester City,Home,1,0,1.7,0.1,Chelsea,Leicester City,1,0,1.7,0.1,      1-0,Win,3,1,Win,3,-0.7,49,57,-2.6,-8,55.6,38.7,16.9,4,      1-0,0
+29,Chelsea,Arsenal,Away,0,1,0.4,0.7,Arsenal,Chelsea,1,0,0.7,0.4,      1-0,Loss,0,0,Loss,0,-0.4,49,57,-3,-8,56,39.4,16.6,5,      1-0,0
+30,Chelsea,Tottenham,Home,1,0,1,0.9,Chelsea,Tottenham,1,0,1,0.9,      1-0,Win,3,1,Win,3,0,52,60,-3,-8,57,40.3,16.700000000000003,5,      1-0,0
+31,Chelsea,Brentford,Away,0,0,1.2,1.1,Brentford,Chelsea,0,0,1.1,1.2,      0-0,Draw,1,1,Win,3,-1.2,53,63,-4.2,-10,58.2,41.4,16.800000000000004,5,      0-1,1
+32,Chelsea,Ipswich Town,Home,2,2,2.2,1.1,Chelsea,Ipswich Town,2,2,2.2,1.1,      2-2,Draw,1,2,Draw,1,-0.2,54,64,-4.4,-10,60.4,42.5,17.9,6,      2-2,0
+33,Chelsea,Fulham,Away,2,1,0.9,0.3,Fulham,Chelsea,1,2,0.3,0.9,      1-2,Win,3,2,Win,3,1.1,57,67,-3.3,-10,61.300000000000004,42.8,18.500000000000007,6,      1-2,0
+34,Chelsea,Everton,Home,1,0,0.8,0.4,Chelsea,Everton,1,0,0.8,0.4,      1-0,Win,3,1,Win,3,0.19999999999999996,60,70,-3.1,-10,62.1,43.2,18.9,5,      1-0,0
+35,Chelsea,Liverpool,Home,3,1,3.1,1,Chelsea,Liverpool,3,1,3.1,1,      3-1,Win,3,3,Win,3,-0.1,63,73,-3.2,-10,65.2,44.2,21,5,      3-1,0
+36,Chelsea,Newcastle Utd,Away,0,2,0.7,1.6,Newcastle Utd,Chelsea,2,0,1.6,0.7,      2-0,Loss,0,0,Loss,0,-0.7,63,73,-3.9,-10,65.9,45.8,20.10000000000001,5,      2-0,0
+37,Chelsea,Manchester Utd,Home,1,0,0.8,0.3,Chelsea,Manchester Utd,1,0,0.8,0.3,      1-0,Win,3,1,Win,3,0.19999999999999996,66,76,-3.7,-10,66.7,46.1,20.6,5,      1-0,0
+38,Chelsea,Forest,Away,1,0,1.1,1.2,Forest,Chelsea,0,1,1.2,1.1,      0-1,Win,3,1,Win,3,-0.1,69,79,-3.8,-10,67.8,47.3,20.5,4,      0-1,0
+1,Crystal Palace,Brentford,Away,1,2,1.2,1.6,Brentford,Crystal Palace,2,1,1.6,1.2,      2-1,Loss,0,1,Loss,0,-0.2,0,0,-0.2,0,1.2,1.6,-0.4,13,      2-1,0
+2,Crystal Palace,West Ham,Home,0,2,1.3,1.4,Crystal Palace,West Ham,0,2,1.3,1.4,      0-2,Loss,0,1,Loss,0,-1.3,0,0,-1.5,0,2.5,3,-0.5,17,      1-2,0
+3,Crystal Palace,Chelsea,Away,1,1,0.5,2.4,Chelsea,Crystal Palace,1,1,2.4,0.5,      1-1,Draw,1,1,Draw,1,0.5,1,1,-1,0,3,5.4,-2.4,16,      1-1,0
+4,Crystal Palace,Leicester City,Home,2,2,2.5,1.2,Crystal Palace,Leicester City,2,2,2.5,1.2,      2-2,Draw,1,2,Draw,1,-0.5,2,2,-1.5,0,5.5,6.6,-1.1,16,      2-2,0
+5,Crystal Palace,Manchester Utd,Home,0,0,1,1.6,Crystal Palace,Manchester Utd,0,0,1,1.6,      0-0,Draw,1,1,Win,3,-1,3,5,-2.5,-2,6.5,8.2,-1.7,16,      1-0,1
+6,Crystal Palace,Everton,Away,1,2,0.9,0.9,Everton,Crystal Palace,2,1,0.9,0.9,      2-1,Loss,0,1,Loss,0,0.1,3,5,-2.4,-2,7.4,9.1,-1.7,18,      2-1,0
+7,Crystal Palace,Liverpool,Home,0,1,0.6,1.4,Crystal Palace,Liverpool,0,1,0.6,1.4,      0-1,Loss,0,0,Loss,0,-0.6,3,5,-3,-2,8,10.5,-2.5,18,      0-1,0
+8,Crystal Palace,Forest,Away,0,1,1,1.7,Forest,Crystal Palace,1,0,1.7,1,      1-0,Loss,0,1,Draw,1,-1,3,6,-4,-3,9,12.2,-3.2,18,      1-1,1
+9,Crystal Palace,Tottenham,Home,1,0,0.8,0.7,Crystal Palace,Tottenham,1,0,0.8,0.7,      1-0,Win,3,1,Win,3,0.19999999999999996,6,9,-3.8,-3,9.8,12.9,-3.1,17,      1-0,0
+10,Crystal Palace,Wolves,Away,2,2,2.4,1.5,Wolves,Crystal Palace,2,2,1.5,2.4,      2-2,Draw,1,2,Draw,1,-0.4,7,10,-4.2,-3,12.2,14.4,-2.2,17,      2-2,0
+11,Crystal Palace,Fulham,Home,0,2,1.5,1.8,Crystal Palace,Fulham,0,2,1.5,1.8,      0-2,Loss,0,1,Loss,0,-1.5,7,10,-5.7,-3,13.7,16.2,-2.5,18,      1-2,0
+12,Crystal Palace,Aston Villa,Away,2,2,1.3,3,Aston Villa,Crystal Palace,2,2,3,1.3,      2-2,Draw,1,2,Draw,1,0.7,8,11,-5,-3,15,19.2,-4.2,19,      2-2,0
+13,Crystal Palace,Newcastle Utd,Home,1,1,1.7,0,Crystal Palace,Newcastle Utd,1,1,1.7,0,      1-1,Draw,1,1,Draw,1,-0.7,9,12,-5.7,-3,16.7,19.2,-2.5,17,      1-1,0
+14,Crystal Palace,Ipswich Town,Away,1,0,1.6,0.5,Ipswich Town,Crystal Palace,0,1,0.5,1.6,      0-1,Win,3,1,Win,3,-0.6,12,15,-6.3,-3,18.3,19.7,-1.4,17,      0-1,0
+15,Crystal Palace,Manchester City,Home,2,2,1.3,1.4,Crystal Palace,Manchester City,2,2,1.3,1.4,      2-2,Draw,1,2,Draw,1,0.7,13,16,-5.6,-3,19.6,21.1,-1.5,17,      2-2,0
+16,Crystal Palace,Brighton,Away,3,1,2.2,1,Brighton,Crystal Palace,1,3,1,2.2,      1-3,Win,3,3,Win,3,0.7999999999999998,16,19,-4.8,-3,21.8,22.1,-0.3,15,      1-3,0
+17,Crystal Palace,Arsenal,Home,1,5,1.6,2.5,Crystal Palace,Arsenal,1,5,1.6,2.5,      1-5,Loss,0,1,Loss,0,-0.6,16,19,-5.4,-3,23.400000000000002,24.6,-1.2,16,      1-5,0
+18,Crystal Palace,Bournemouth,Away,0,0,0.4,1.4,Bournemouth,Crystal Palace,0,0,1.4,0.4,      0-0,Draw,1,0,Draw,1,-0.4,17,20,-5.8,-3,23.8,26,-2.2,16,      0-0,0
+19,Crystal Palace,Southampton,Home,2,1,2,0.9,Crystal Palace,Southampton,2,1,2,0.9,      2-1,Win,3,2,Win,3,0,20,23,-5.8,-3,25.8,26.9,-1.1,15,      2-1,0
+20,Crystal Palace,Chelsea,Home,1,1,1.1,1.2,Crystal Palace,Chelsea,1,1,1.1,1.2,      1-1,Draw,1,1,Draw,1,-0.1,21,24,-5.9,-3,26.900000000000002,28.1,-1.2,15,      1-1,0
+21,Crystal Palace,Leicester City,Away,2,0,1.8,1.7,Leicester City,Crystal Palace,0,2,1.7,1.8,      0-2,Win,3,2,Win,3,0.19999999999999996,24,27,-5.7,-3,28.7,29.8,-1.1,15,      0-2,0
+22,Crystal Palace,West Ham,Away,2,0,1.3,0.3,West Ham,Crystal Palace,0,2,0.3,1.3,      0-2,Win,3,2,Win,3,0.7,27,30,-5,-3,30,30.1,-0.1,12,      0-2,0
+23,Crystal Palace,Brentford,Home,1,2,1.1,1.3,Crystal Palace,Brentford,1,2,1.1,1.3,      1-2,Loss,0,1,Loss,0,-0.1,27,30,-5.1,-3,31.1,31.4,-0.3,13,      1-2,0
+24,Crystal Palace,Manchester Utd,Away,2,0,2.6,1.1,Manchester Utd,Crystal Palace,0,2,1.1,2.6,      0-2,Win,3,2,Win,3,-0.6,30,33,-5.7,-3,33.7,32.5,1.2000000000000028,12,      0-2,0
+25,Crystal Palace,Everton,Home,1,2,1.6,0.9,Crystal Palace,Everton,1,2,1.6,0.9,      1-2,Loss,0,1,Loss,0,-0.6,30,33,-6.3,-3,35.300000000000004,33.4,1.9000000000000057,13,      1-2,0
+26,Crystal Palace,Fulham,Away,2,0,1.3,0.2,Fulham,Crystal Palace,0,2,0.2,1.3,      0-2,Win,3,2,Win,3,0.7,33,36,-5.6,-3,36.6,33.6,3,13,      0-2,0
+27,Crystal Palace,Aston Villa,Home,4,1,4.3,0.4,Crystal Palace,Aston Villa,4,1,4.3,0.4,      4-1,Win,3,4,Win,3,-0.3,36,39,-5.9,-3,40.9,34,6.899999999999999,12,      4-1,0
+28,Crystal Palace,Ipswich Town,Home,1,0,3.2,1.5,Crystal Palace,Ipswich Town,1,0,3.2,1.5,      1-0,Win,3,3,Win,3,-2.2,39,42,-8.1,-3,44.1,35.5,8.600000000000001,11,      3-0,0
+29,Crystal Palace,Newcastle Utd,Away,0,5,2,1.5,Newcastle Utd,Crystal Palace,5,0,1.5,2,      5-0,Loss,0,2,Loss,0,-2,39,42,-10.1,-3,46.1,37,9.100000000000001,12,      5-2,0
+30,Crystal Palace,Southampton,Away,1,1,0.7,0.7,Southampton,Crystal Palace,1,1,0.7,0.7,      1-1,Draw,1,1,Draw,1,0.30000000000000004,40,43,-9.8,-3,46.800000000000004,37.7,9.100000000000001,12,      1-1,0
+31,Crystal Palace,Brighton,Home,2,1,0.6,1,Crystal Palace,Brighton,2,1,0.6,1,      2-1,Win,3,2,Win,3,1.4,43,46,-8.4,-3,47.4,38.7,8.699999999999996,11,      2-1,0
+32,Crystal Palace,Manchester City,Away,2,5,1.8,3.7,Manchester City,Crystal Palace,5,2,3.7,1.8,      5-2,Loss,0,2,Loss,0,0.19999999999999996,43,46,-8.2,-3,49.2,42.4,6.800000000000004,12,      5-2,0
+33,Crystal Palace,Bournemouth,Home,0,0,0.4,0.7,Crystal Palace,Bournemouth,0,0,0.4,0.7,      0-0,Draw,1,0,Draw,1,-0.4,44,47,-8.6,-3,49.6,43.1,6.5,12,      0-0,0
+34,Crystal Palace,Arsenal,Away,2,2,1.7,1.2,Arsenal,Crystal Palace,2,2,1.2,1.7,      2-2,Draw,1,2,Draw,1,0.30000000000000004,45,48,-8.3,-3,51.300000000000004,44.3,7.000000000000007,12,      2-2,0
+35,Crystal Palace,Forest,Home,1,1,2.3,0.7,Crystal Palace,Forest,1,1,2.3,0.7,      1-1,Draw,1,2,Win,3,-1.3,46,51,-9.6,-5,53.6,45,8.600000000000001,12,      2-1,1
+36,Crystal Palace,Tottenham,Away,2,0,3.4,0.7,Tottenham,Crystal Palace,0,2,0.7,3.4,      0-2,Win,3,3,Win,3,-1.4,49,54,-11,-5,57,45.7,11.299999999999997,12,      0-3,0
+37,Crystal Palace,Wolves,Home,4,2,1.7,1.4,Crystal Palace,Wolves,4,2,1.7,1.4,      4-2,Win,3,4,Win,3,2.3,52,57,-8.7,-5,58.7,47.1,11.600000000000001,12,      4-2,0
+38,Crystal Palace,Liverpool,Away,1,1,1.8,2.1,Liverpool,Crystal Palace,1,1,2.1,1.8,      1-1,Draw,1,1,Draw,1,-0.8,53,58,-9.5,-5,60.5,49.2,11.299999999999997,12,      1-1,0
+1,Everton,Brighton,Home,0,3,0.5,1.4,Everton,Brighton,0,3,0.5,1.4,      0-3,Loss,0,0,Loss,0,-0.5,0,0,-0.5,0,0.5,1.4,-0.9,20,      0-3,0
+2,Everton,Tottenham,Away,0,4,1,2.4,Tottenham,Everton,4,0,2.4,1,      4-0,Loss,0,1,Loss,0,-1,0,0,-1.5,0,1.5,3.8,-2.3,20,      4-1,0
+3,Everton,Bournemouth,Home,2,3,1.8,2.4,Everton,Bournemouth,2,3,1.8,2.4,      2-3,Loss,0,2,Loss,0,0.19999999999999996,0,0,-1.3,0,3.3,6.199999999999999,-2.9,20,      2-3,0
+4,Everton,Aston Villa,Away,2,3,0.9,2.1,Aston Villa,Everton,3,2,2.1,0.9,      3-2,Loss,0,2,Loss,0,1.1,0,0,-0.2,0,4.2,8.3,-4.1,20,      3-2,0
+5,Everton,Leicester City,Away,1,1,1.1,0.7,Leicester City,Everton,1,1,0.7,1.1,      1-1,Draw,1,1,Draw,1,-0.1,1,1,-0.3,0,5.300000000000001,9,-3.7,19,      1-1,0
+6,Everton,Crystal Palace,Home,2,1,0.9,0.9,Everton,Crystal Palace,2,1,0.9,0.9,      2-1,Win,3,2,Win,3,1.1,4,4,0.8,0,6.2,9.9,-3.7,16,      2-1,0
+7,Everton,Newcastle Utd,Home,0,0,0.7,2.1,Everton,Newcastle Utd,0,0,0.7,2.1,      0-0,Draw,1,0,Draw,1,-0.7,5,5,0.10000000000000009,0,6.9,12,-5.1,16,      0-0,0
+8,Everton,Ipswich Town,Away,2,0,1.7,1.3,Ipswich Town,Everton,0,2,1.3,1.7,      0-2,Win,3,2,Win,3,0.30000000000000004,8,8,0.40000000000000013,0,8.6,13.3,-4.7,16,      0-2,0
+9,Everton,Fulham,Home,1,1,0.8,1.2,Everton,Fulham,1,1,0.8,1.2,      1-1,Draw,1,1,Draw,1,0.19999999999999996,9,9,0.6000000000000001,0,9.4,14.5,-5.1,16,      1-1,0
+10,Everton,Southampton,Away,0,1,1.6,0.7,Southampton,Everton,1,0,0.7,1.6,      1-0,Loss,0,1,Draw,1,-1.6,9,10,-1,-1,11,15.2,-4.2,16,      1-1,1
+11,Everton,West Ham,Away,0,0,1.1,0.8,West Ham,Everton,0,0,0.8,1.1,      0-0,Draw,1,1,Win,3,-1.1,10,13,-2.1,-3,12.1,16,-3.9,16,      0-1,1
+12,Everton,Brentford,Home,0,0,1.2,1.1,Everton,Brentford,0,0,1.2,1.1,      0-0,Draw,1,1,Win,3,-1.2,11,16,-3.3,-5,13.3,17.1,-3.8,15,      1-0,1
+13,Everton,Manchester Utd,Away,0,4,0.6,1.1,Manchester Utd,Everton,4,0,1.1,0.6,      4-0,Loss,0,0,Loss,0,-0.6,11,16,-3.9,-5,13.9,18.2,-4.3,15,      4-0,0
+14,Everton,Wolves,Home,4,0,1,0.8,Everton,Wolves,4,0,1,0.8,      4-0,Win,3,4,Win,3,3,14,19,-0.9,-5,14.9,19,-4.1,15,      4-0,0
+15,Everton,Liverpool,Home,2,2,1,0.6,Everton,Liverpool,2,2,1,0.6,      2-2,Draw,1,2,Draw,1,1,15,20,0.10000000000000009,-5,15.9,19.6,-3.7,15,      2-2,0
+16,Everton,Arsenal,Away,0,0,0.1,1.2,Arsenal,Everton,0,0,1.2,0.1,      0-0,Draw,1,0,Draw,1,-0.1,16,21,8.326672684688674e-17,-5,16,20.8,-4.8,16,      0-0,0
+17,Everton,Chelsea,Home,0,0,1,1.2,Everton,Chelsea,0,0,1,1.2,      0-0,Draw,1,1,Win,3,-1,17,24,-1,-7,17,22,-5,15,      1-0,1
+18,Everton,Manchester City,Away,1,1,0.7,2.1,Manchester City,Everton,1,1,2.1,0.7,      1-1,Draw,1,1,Draw,1,0.30000000000000004,18,25,-0.7,-7,17.7,24.1,-6.4,15,      1-1,0
+19,Everton,Forest,Home,0,2,0.9,1.5,Everton,Forest,0,2,0.9,1.5,      0-2,Loss,0,0,Loss,0,-0.9,18,25,-1.6,-7,18.6,25.6,-7,16,      0-2,0
+20,Everton,Bournemouth,Away,0,1,0.7,1.8,Bournemouth,Everton,1,0,1.8,0.7,      1-0,Loss,0,0,Loss,0,-0.7,18,25,-2.3,-7,19.3,27.400000000000002,-8.1,16,      1-0,0
+21,Everton,Aston Villa,Home,0,1,1.1,1.2,Everton,Aston Villa,0,1,1.1,1.2,      0-1,Loss,0,1,Draw,1,-1.1,18,26,-3.4,-8,20.4,28.6,-8.2,16,      1-1,1
+22,Everton,Tottenham,Home,3,2,1.8,1.1,Everton,Tottenham,3,2,1.8,1.1,      3-2,Win,3,3,Win,3,1.2,21,29,-2.2,-8,22.2,29.7,-7.5,16,      3-2,0
+23,Everton,Brighton,Away,1,0,0.8,0.7,Brighton,Everton,0,1,0.7,0.8,      0-1,Win,3,1,Win,3,0.19999999999999996,24,32,-2,-8,23,30.400000000000002,-7.4,16,      0-1,0
+24,Everton,Leicester City,Home,4,0,2.5,0.3,Everton,Leicester City,4,0,2.5,0.3,      4-0,Win,3,4,Win,3,1.5,27,35,-0.5,-8,25.5,30.7,-5.2,15,      4-0,0
+25,Everton,Crystal Palace,Away,2,1,0.9,1.6,Crystal Palace,Everton,1,2,1.6,0.9,      1-2,Win,3,2,Win,3,1.1,30,38,0.6000000000000001,-8,26.400000000000002,32.3,-5.9,14,      1-2,0
+26,Everton,Manchester Utd,Home,2,2,1.6,0.4,Everton,Manchester Utd,2,2,1.6,0.4,      2-2,Draw,1,2,Draw,1,0.3999999999999999,31,39,1,-8,28,32.7,-4.7,14,      2-2,0
+27,Everton,Brentford,Away,1,1,1.5,1.4,Brentford,Everton,1,1,1.4,1.5,      1-1,Draw,1,1,Draw,1,-0.5,32,40,0.5,-8,29.5,34.1,-4.6,16,      1-1,0
+28,Everton,Wolves,Away,1,1,1.2,0.8,Wolves,Everton,1,1,0.8,1.2,      1-1,Draw,1,1,Draw,1,-0.2,33,41,0.30000000000000004,-8,30.7,34.9,-4.2,15,      1-1,0
+29,Everton,West Ham,Home,1,1,1,0.8,Everton,West Ham,1,1,1,0.8,      1-1,Draw,1,1,Draw,1,0,34,42,0.30000000000000004,-8,31.7,35.7,-4,15,      1-1,0
+30,Everton,Liverpool,Away,0,1,0.9,1.5,Liverpool,Everton,1,0,1.5,0.9,      1-0,Loss,0,0,Loss,0,-0.9,34,42,-0.6,-8,32.6,37.2,-4.6,15,      1-0,0
+31,Everton,Arsenal,Home,1,1,1.1,1.8,Everton,Arsenal,1,1,1.1,1.8,      1-1,Draw,1,1,Draw,1,-0.1,35,43,-0.7,-8,33.7,39,-5.3,15,      1-1,0
+32,Everton,Forest,Away,1,0,1.4,0.5,Forest,Everton,0,1,0.5,1.4,      0-1,Win,3,1,Win,3,-0.4,38,46,-1.1,-8,35.1,39.5,-4.4,13,      0-1,0
+33,Everton,Manchester City,Home,0,2,0.9,2,Everton,Manchester City,0,2,0.9,2,      0-2,Loss,0,0,Loss,0,-0.9,38,46,-2,-8,36,41.5,-5.5,13,      0-2,0
+34,Everton,Chelsea,Away,0,1,0.4,0.8,Chelsea,Everton,1,0,0.8,0.4,      1-0,Loss,0,0,Loss,0,-0.4,38,46,-2.4,-8,36.4,42.300000000000004,-5.9,15,      1-0,0
+35,Everton,Ipswich Town,Home,2,2,0.6,0.8,Everton,Ipswich Town,2,2,0.6,0.8,      2-2,Draw,1,2,Draw,1,1.4,39,47,-1,-8,37,43.1,-6.1,14,      2-2,0
+36,Everton,Fulham,Away,3,1,1.1,0.8,Fulham,Everton,1,3,0.8,1.1,      1-3,Win,3,3,Win,3,1.9,42,50,0.8999999999999999,-8,38.1,43.9,-5.8,13,      1-3,0
+37,Everton,Southampton,Home,2,0,2.7,1.2,Everton,Southampton,2,0,2.7,1.2,      2-0,Win,3,2,Win,3,-0.7,45,53,0.19999999999999973,-8,40.8,45.1,-4.3,13,      2-0,0
+38,Everton,Newcastle Utd,Away,1,0,1.2,1.2,Newcastle Utd,Everton,0,1,1.2,1.2,      0-1,Win,3,1,Win,3,-0.2,48,56,-2.22E-16,-8,42,46.300000000000004,-4.3,13,      0-1,0
+1,Forest,Bournemouth,Home,1,1,1.3,1.2,Forest,Bournemouth,1,1,1.3,1.2,      1-1,Draw,1,1,Draw,1,-0.3,1,1,-0.3,0,1.3,1.2,0.10000000000000009,9,      1-1,0
+2,Forest,Southampton,Away,1,0,2.2,0.1,Southampton,Forest,0,1,0.1,2.2,      0-1,Win,3,2,Win,3,-1.2,4,4,-1.5,0,3.5,1.3,2.2,6,      0-2,0
+3,Forest,Wolves,Home,1,1,1,0.7,Forest,Wolves,1,1,1,0.7,      1-1,Draw,1,1,Draw,1,0,5,5,-1.5,0,4.5,2,2.5,9,      1-1,0
+4,Forest,Liverpool,Away,1,0,0.4,0.9,Liverpool,Forest,0,1,0.9,0.4,      0-1,Win,3,1,Win,3,0.6,8,8,-0.9,0,4.9,2.9,2.0000000000000004,7,      0-1,0
+5,Forest,Brighton,Away,2,2,1.4,1,Brighton,Forest,2,2,1,1.4,      2-2,Draw,1,2,Draw,1,0.6000000000000001,9,9,-0.3,0,6.3,3.9,2.4,8,      2-2,0
+6,Forest,Fulham,Home,0,1,0.8,1.3,Forest,Fulham,0,1,0.8,1.3,      0-1,Loss,0,0,Loss,0,-0.8,9,9,-1.1,0,7.1,5.2,1.8999999999999995,10,      0-1,0
+7,Forest,Chelsea,Away,1,1,0.9,2.3,Chelsea,Forest,1,1,2.3,0.9,      1-1,Draw,1,1,Draw,1,0.1,10,10,-1,0,8,7.5,0.5,10,      1-1,0
+8,Forest,Crystal Palace,Home,1,0,1.7,1,Forest,Crystal Palace,1,0,1.7,1,      1-0,Win,3,1,Win,3,-0.7,13,13,-1.7,0,9.7,8.5,1.1999999999999993,8,      1-0,0
+9,Forest,Leicester City,Away,3,1,1.7,0.8,Leicester City,Forest,1,3,0.8,1.7,      1-3,Win,3,3,Win,3,1.3,16,16,-0.4,0,11.4,9.3,2.0999999999999996,7,      1-3,0
+10,Forest,West Ham,Home,3,0,2.2,0.1,Forest,West Ham,3,0,2.2,0.1,      3-0,Win,3,3,Win,3,0.7999999999999998,19,19,0.3999999999999997,0,13.6,9.4,4.199999999999999,3,      3-0,0
+11,Forest,Newcastle Utd,Home,1,3,0.6,1.6,Forest,Newcastle Utd,1,3,0.6,1.6,      1-3,Loss,0,1,Loss,0,0.4,19,19,0.7999999999999997,0,14.2,11,3.1999999999999993,5,      1-3,0
+12,Forest,Arsenal,Away,0,3,0.3,1.2,Arsenal,Forest,3,0,1.2,0.3,      3-0,Loss,0,0,Loss,0,-0.3,19,19,0.4999999999999997,0,14.5,12.2,2.3000000000000007,7,      3-0,0
+13,Forest,Ipswich Town,Home,1,0,1.6,0.6,Forest,Ipswich Town,1,0,1.6,0.6,      1-0,Win,3,1,Win,3,-0.6,22,22,-0.1,0,16.1,12.8,3.3000000000000007,6,      1-0,0
+14,Forest,Manchester City,Away,0,3,1,2.4,Manchester City,Forest,3,0,2.4,1,      3-0,Loss,0,1,Loss,0,-1,22,22,-1.1,0,17.1,15.2,1.9000000000000021,7,      3-1,0
+15,Forest,Manchester Utd,Away,3,2,0.8,1.6,Manchester Utd,Forest,2,3,1.6,0.8,      2-3,Win,3,3,Win,3,2.2,25,25,1.0999999999999999,0,17.9,16.8,1.0999999999999979,5,      2-3,0
+16,Forest,Aston Villa,Home,2,1,1.7,0.4,Forest,Aston Villa,2,1,1.7,0.4,      2-1,Win,3,2,Win,3,0.30000000000000004,28,28,1.4,0,19.6,17.2,2.400000000000002,4,      2-1,0
+17,Forest,Brentford,Away,2,0,0.9,0.7,Brentford,Forest,0,2,0.7,0.9,      0-2,Win,3,2,Win,3,1.1,31,31,2.5,0,20.5,17.9,2.6000000000000014,4,      0-2,0
+18,Forest,Tottenham,Home,1,0,1.1,0.9,Forest,Tottenham,1,0,1.1,0.9,      1-0,Win,3,1,Win,3,-0.1,34,34,2.4,0,21.6,18.8,2.8000000000000007,4,      1-0,0
+19,Forest,Everton,Away,2,0,1.5,0.9,Everton,Forest,0,2,0.9,1.5,      0-2,Win,3,2,Win,3,0.5,37,37,2.9,0,23.1,19.7,3.400000000000002,3,      0-2,0
+20,Forest,Wolves,Away,3,0,2.1,1.5,Wolves,Forest,0,3,1.5,2.1,      0-3,Win,3,3,Win,3,0.8999999999999999,40,40,3.8,0,25.2,21.2,4,3,      0-3,0
+21,Forest,Liverpool,Home,1,1,0.3,2,Forest,Liverpool,1,1,0.3,2,      1-1,Draw,1,1,Draw,1,0.7,41,41,4.5,0,25.5,23.2,2.3000000000000007,3,      1-1,0
+22,Forest,Southampton,Home,3,2,1.8,0.9,Forest,Southampton,3,2,1.8,0.9,      3-2,Win,3,3,Win,3,1.2,44,44,5.699999999999999,0,27.3,24.1,3.1999999999999993,3,      3-2,0
+23,Forest,Bournemouth,Away,0,5,1,1.7,Bournemouth,Forest,5,0,1.7,1,      5-0,Loss,0,1,Loss,0,-1,44,44,4.699999999999999,0,28.3,25.8,2.5,3,      5-1,0
+24,Forest,Brighton,Home,7,0,3.3,0.9,Forest,Brighton,7,0,3.3,0.9,      7-0,Win,3,7,Win,3,3.7,47,47,8.4,0,31.6,26.7,4.900000000000002,3,      7-0,0
+25,Forest,Fulham,Away,1,2,0.4,2.1,Fulham,Forest,2,1,2.1,0.4,      2-1,Loss,0,1,Loss,0,0.6,47,47,9,0,32,28.8,3.1999999999999993,3,      2-1,0
+26,Forest,Newcastle Utd,Away,3,4,1.7,2.9,Newcastle Utd,Forest,4,3,2.9,1.7,      4-3,Loss,0,3,Loss,0,1.3,47,47,10.3,0,33.7,31.7,2.0000000000000036,3,      4-3,0
+27,Forest,Arsenal,Home,0,0,0.4,1,Forest,Arsenal,0,0,0.4,1,      0-0,Draw,1,0,Draw,1,-0.4,48,48,9.9,0,34.1,32.7,1.3999999999999986,3,      0-0,0
+28,Forest,Manchester City,Home,1,0,0.7,0.9,Forest,Manchester City,1,0,0.7,0.9,      1-0,Win,3,1,Win,3,0.30000000000000004,51,51,10.2,0,34.8,33.6,1.1999999999999957,3,      1-0,0
+29,Forest,Ipswich Town,Away,4,2,1.5,0.4,Ipswich Town,Forest,2,4,0.4,1.5,      2-4,Win,3,4,Win,3,2.5,54,54,12.7,0,36.3,34,2.299999999999997,3,      2-4,0
+30,Forest,Manchester Utd,Home,1,0,0.5,1.6,Forest,Manchester Utd,1,0,0.5,1.6,      1-0,Win,3,1,Win,3,0.5,57,57,13.2,0,36.8,35.6,1.1999999999999957,3,      1-0,0
+31,Forest,Aston Villa,Away,1,2,1.5,3,Aston Villa,Forest,2,1,3,1.5,      2-1,Loss,0,1,Loss,0,-0.5,57,57,12.7,0,38.3,38.6,-0.3,3,      2-1,0
+32,Forest,Everton,Home,0,1,0.5,1.4,Forest,Everton,0,1,0.5,1.4,      0-1,Loss,0,0,Loss,0,-0.5,57,57,12.2,0,38.8,40,-1.2,4,      0-1,0
+33,Forest,Tottenham,Away,2,1,0.5,2.1,Tottenham,Forest,1,2,2.1,0.5,      1-2,Win,3,2,Win,3,1.5,60,60,13.7,0,39.3,42.1,-2.8,3,      1-2,0
+34,Forest,Brentford,Home,0,2,0.9,1.3,Forest,Brentford,0,2,0.9,1.3,      0-2,Loss,0,0,Loss,0,-0.9,60,60,12.799999999999999,0,40.2,43.4,-3.2,6,      0-2,0
+35,Forest,Crystal Palace,Away,1,1,0.7,2.3,Crystal Palace,Forest,1,1,2.3,0.7,      1-1,Draw,1,1,Draw,1,0.30000000000000004,61,61,13.1,0,40.9,45.7,-4.8,6,      1-1,0
+36,Forest,Leicester City,Home,2,2,1.3,1.1,Forest,Leicester City,2,2,1.3,1.1,      2-2,Draw,1,2,Draw,1,0.7,62,62,13.799999999999999,0,42.2,46.8,-4.6,7,      2-2,0
+37,Forest,West Ham,Away,2,1,1.9,1.1,West Ham,Forest,1,2,1.1,1.9,      1-2,Win,3,2,Win,3,0.10000000000000009,65,65,13.9,0,44.1,47.9,-3.8,7,      1-2,0
+38,Forest,Chelsea,Home,0,1,1.2,1.1,Forest,Chelsea,0,1,1.2,1.1,      0-1,Loss,0,1,Draw,1,-1.2,65,66,12.7,-1,45.3,49,-3.7,7,      1-1,1
+1,Fulham,Manchester Utd,Away,0,1,0.4,2.4,Manchester Utd,Fulham,1,0,2.4,0.4,      1-0,Loss,0,0,Loss,0,-0.4,0,0,-0.4,0,0.4,2.4,-2,15,      1-0,0
+2,Fulham,Leicester City,Home,2,1,1.8,0.6,Fulham,Leicester City,2,1,1.8,0.6,      2-1,Win,3,2,Win,3,0.19999999999999996,3,3,-0.2,0,2.2,3,-0.8,10,      2-1,0
+3,Fulham,Ipswich Town,Away,1,1,0.9,0.4,Ipswich Town,Fulham,1,1,0.4,0.9,      1-1,Draw,1,1,Draw,1,0.1,4,4,-0.1,0,3.1,3.4,-0.3,12,      1-1,0
+4,Fulham,West Ham,Home,1,1,1.5,0.8,Fulham,West Ham,1,1,1.5,0.8,      1-1,Draw,1,1,Draw,1,-0.5,5,5,-0.6,0,4.6,4.2,0.39999999999999947,12,      1-1,0
+5,Fulham,Newcastle Utd,Home,3,1,2.2,1.5,Fulham,Newcastle Utd,3,1,2.2,1.5,      3-1,Win,3,3,Win,3,0.7999999999999998,8,8,0.19999999999999973,0,6.800000000000001,5.7,1.1000000000000005,9,      3-1,0
+6,Fulham,Forest,Away,1,0,1.3,0.8,Forest,Fulham,0,1,0.8,1.3,      0-1,Win,3,1,Win,3,-0.3,11,11,-0.1,0,8.1,6.5,1.5999999999999996,6,      0-1,0
+7,Fulham,Manchester City,Away,2,3,2.6,1.6,Manchester City,Fulham,3,2,1.6,2.6,      3-2,Loss,0,2,Loss,0,-0.6,11,11,-0.7,0,10.7,8.1,2.5999999999999996,8,      3-2,0
+8,Fulham,Aston Villa,Home,1,3,1.8,1.6,Fulham,Aston Villa,1,3,1.8,1.6,      1-3,Loss,0,1,Loss,0,-0.8,11,11,-1.5,0,12.5,9.7,2.8000000000000007,10,      1-3,0
+9,Fulham,Everton,Away,1,1,1.2,0.8,Everton,Fulham,1,1,0.8,1.2,      1-1,Draw,1,1,Draw,1,-0.2,12,12,-1.7,0,13.7,10.5,3.1999999999999993,10,      1-1,0
+10,Fulham,Brentford,Home,2,1,1.3,0.6,Fulham,Brentford,2,1,1.3,0.6,      2-1,Win,3,2,Win,3,0.7,15,15,-1,0,15,11.1,3.9000000000000004,9,      2-1,0
+11,Fulham,Crystal Palace,Away,2,0,1.8,1.5,Crystal Palace,Fulham,0,2,1.5,1.8,      0-2,Win,3,2,Win,3,0.19999999999999996,18,18,-0.8,0,16.8,12.6,4.200000000000001,7,      0-2,0
+12,Fulham,Wolves,Home,1,4,1,1.3,Fulham,Wolves,1,4,1,1.3,      1-4,Loss,0,1,Loss,0,0,18,18,-0.8,0,17.8,13.9,3.9000000000000004,9,      1-4,0
+13,Fulham,Tottenham,Away,1,1,1.5,0.8,Tottenham,Fulham,1,1,0.8,1.5,      1-1,Draw,1,1,Draw,1,-0.5,19,19,-1.3,0,19.3,14.7,4.600000000000001,10,      1-1,0
+14,Fulham,Brighton,Home,3,1,1.1,1.4,Fulham,Brighton,3,1,1.1,1.4,      3-1,Win,3,3,Win,3,1.9,22,22,0.5999999999999994,0,20.4,16.1,4.299999999999997,6,      3-1,0
+15,Fulham,Arsenal,Home,1,1,0.2,1.8,Fulham,Arsenal,1,1,0.2,1.8,      1-1,Draw,1,1,Draw,1,0.8,23,23,1.3999999999999995,0,20.6,17.9,2.700000000000003,10,      1-1,0
+16,Fulham,Liverpool,Away,2,2,1.2,2.1,Liverpool,Fulham,2,2,2.1,1.2,      2-2,Draw,1,2,Draw,1,0.8,24,24,2.1999999999999993,0,21.8,20,1.8000000000000007,8,      2-2,0
+17,Fulham,Southampton,Home,0,0,0.9,0.3,Fulham,Southampton,0,0,0.9,0.3,      0-0,Draw,1,0,Draw,1,-0.9,25,25,1.2999999999999994,0,22.7,20.3,2.3999999999999986,9,      0-0,0
+18,Fulham,Chelsea,Away,2,1,1.8,1.1,Chelsea,Fulham,1,2,1.1,1.8,      1-2,Win,3,2,Win,3,0.19999999999999996,28,28,1.4999999999999996,0,24.5,21.4,3.1000000000000014,8,      1-2,0
+19,Fulham,Bournemouth,Home,2,2,1.1,2,Fulham,Bournemouth,2,2,1.1,2,      2-2,Draw,1,2,Draw,1,0.8999999999999999,29,29,2.3999999999999995,0,25.6,23.4,2.200000000000003,8,      2-2,0
+20,Fulham,Ipswich Town,Home,2,2,2.2,1.5,Fulham,Ipswich Town,2,2,2.2,1.5,      2-2,Draw,1,2,Draw,1,-0.2,30,30,2.1999999999999993,0,27.8,24.9,2.900000000000002,9,      2-2,0
+21,Fulham,West Ham,Away,2,3,1.7,1,West Ham,Fulham,3,2,1,1.7,      3-2,Loss,0,2,Loss,0,0.30000000000000004,30,30,2.499999999999999,0,29.5,25.9,3.6000000000000014,10,      3-2,0
+22,Fulham,Leicester City,Away,2,0,2,0.6,Leicester City,Fulham,0,2,0.6,2,      0-2,Win,3,2,Win,3,0,33,33,2.499999999999999,0,31.5,26.5,5,10,      0-2,0
+23,Fulham,Manchester Utd,Home,0,1,0.7,0.3,Fulham,Manchester Utd,0,1,0.7,0.3,      0-1,Loss,0,0,Loss,0,-0.7,33,33,1.7999999999999994,0,32.2,26.8,5.400000000000002,10,      0-1,0
+24,Fulham,Newcastle Utd,Away,2,1,1.6,0.8,Newcastle Utd,Fulham,1,2,0.8,1.6,      1-2,Win,3,2,Win,3,0.3999999999999999,36,36,2.1999999999999993,0,33.800000000000004,27.6,6.200000000000003,9,      1-2,0
+25,Fulham,Forest,Home,2,1,2.1,0.4,Fulham,Forest,2,1,2.1,0.4,      2-1,Win,3,2,Win,3,-0.1,39,39,2.099999999999999,0,35.9,28,7.899999999999999,8,      2-1,0
+26,Fulham,Crystal Palace,Home,0,2,0.2,1.3,Fulham,Crystal Palace,0,2,0.2,1.3,      0-2,Loss,0,0,Loss,0,-0.2,39,39,1.899999999999999,0,36.1,29.3,6.800000000000001,10,      0-2,0
+27,Fulham,Wolves,Away,2,1,1.7,1.3,Wolves,Fulham,1,2,1.3,1.7,      1-2,Win,3,2,Win,3,0.30000000000000004,42,42,2.1999999999999993,0,37.800000000000004,30.6,7.200000000000003,9,      1-2,0
+28,Fulham,Brighton,Away,1,2,0.9,1.5,Brighton,Fulham,2,1,1.5,0.9,      2-1,Loss,0,1,Loss,0,0.1,42,42,2.299999999999999,0,38.7,32.1,6.600000000000001,10,      2-1,0
+29,Fulham,Tottenham,Home,2,0,1,0.9,Fulham,Tottenham,2,0,1,0.9,      2-0,Win,3,2,Win,3,1,45,45,3.299999999999999,0,39.7,33,6.700000000000003,8,      2-0,0
+30,Fulham,Arsenal,Away,1,2,1,2.2,Arsenal,Fulham,2,1,2.2,1,      2-1,Loss,0,1,Loss,0,0,45,45,3.299999999999999,0,40.7,35.2,5.5,9,      2-1,0
+31,Fulham,Liverpool,Home,3,2,0.7,1.5,Fulham,Liverpool,3,2,0.7,1.5,      3-2,Win,3,3,Win,3,2.3,48,48,5.599999999999999,0,41.4,36.7,4.699999999999996,8,      3-2,0
+32,Fulham,Bournemouth,Away,0,1,1,1.4,Bournemouth,Fulham,1,0,1.4,1,      1-0,Loss,0,1,Draw,1,-1,48,49,4.599999999999999,-1,42.4,38.1,4.299999999999997,9,      1-1,1
+33,Fulham,Chelsea,Home,1,2,0.3,0.9,Fulham,Chelsea,1,2,0.3,0.9,      1-2,Loss,0,1,Loss,0,0.7,48,49,5.299999999999999,-1,42.7,39,3.700000000000003,9,      1-2,0
+34,Fulham,Southampton,Away,2,1,2.4,0.6,Southampton,Fulham,1,2,0.6,2.4,      1-2,Win,3,2,Win,3,-0.4,51,52,4.899999999999999,-1,45.1,39.6,5.5,8,      1-2,0
+35,Fulham,Aston Villa,Away,0,1,0.9,1,Aston Villa,Fulham,1,0,1,0.9,      1-0,Loss,0,0,Loss,0,-0.9,51,52,3.9999999999999987,-1,46,40.6,5.399999999999999,11,      1-0,0
+36,Fulham,Everton,Home,1,3,0.8,1.1,Fulham,Everton,1,3,0.8,1.1,      1-3,Loss,0,1,Loss,0,0.19999999999999996,51,52,4.199999999999998,-1,46.800000000000004,41.7,5.100000000000001,11,      1-3,0
+37,Fulham,Brentford,Away,3,2,1,2.5,Brentford,Fulham,2,3,2.5,1,      2-3,Win,3,3,Win,3,2,54,55,6.199999999999999,-1,47.800000000000004,44.2,3.6000000000000014,10,      2-3,0
+38,Fulham,Manchester City,Home,0,2,1.3,3,Fulham,Manchester City,0,2,1.3,3,      0-2,Loss,0,1,Loss,0,-1.3,54,55,4.899999999999999,-1,49.1,47.2,1.8999999999999986,11,      1-2,0
+1,Ipswich Town,Liverpool,Home,0,2,0.5,2.6,Ipswich Town,Liverpool,0,2,0.5,2.6,      0-2,Loss,0,0,Loss,0,-0.5,0,0,-0.5,0,0.5,2.6,-2.1,17,      0-2,0
+2,Ipswich Town,Manchester City,Away,1,4,0.3,3.3,Manchester City,Ipswich Town,4,1,3.3,0.3,      4-1,Loss,0,1,Loss,0,0.7,0,0,0.19999999999999996,0,0.8,5.9,-5.1,18,      4-1,0
+3,Ipswich Town,Fulham,Home,1,1,0.4,0.9,Ipswich Town,Fulham,1,1,0.4,0.9,      1-1,Draw,1,1,Draw,1,0.6,1,1,0.7999999999999999,0,1.2,6.8,-5.6,17,      1-1,0
+4,Ipswich Town,Brighton,Away,0,0,0.3,1.6,Brighton,Ipswich Town,0,0,1.6,0.3,      0-0,Draw,1,0,Draw,1,-0.3,2,2,0.49999999999999994,0,1.5,8.4,-6.9,17,      0-0,0
+5,Ipswich Town,Southampton,Away,1,1,1.6,2.4,Southampton,Ipswich Town,1,1,2.4,1.6,      1-1,Draw,1,1,Draw,1,-0.6,3,3,-0.1,0,3.1,10.8,-7.7,17,      1-1,0
+6,Ipswich Town,Aston Villa,Home,2,2,1.2,0.8,Ipswich Town,Aston Villa,2,2,1.2,0.8,      2-2,Draw,1,2,Draw,1,0.8,4,4,0.7,0,4.3,11.6,-7.3,15,      2-2,0
+7,Ipswich Town,West Ham,Away,1,4,0.6,3.6,West Ham,Ipswich Town,4,1,3.6,0.6,      4-1,Loss,0,1,Loss,0,0.4,4,4,1.1,0,4.9,15.2,-10.3,17,      4-1,0
+8,Ipswich Town,Everton,Home,0,2,1.3,1.7,Ipswich Town,Everton,0,2,1.3,1.7,      0-2,Loss,0,1,Loss,0,-1.3,4,4,-0.2,0,6.2,16.9,-10.7,17,      1-2,0
+9,Ipswich Town,Brentford,Away,3,4,1.3,4,Brentford,Ipswich Town,4,3,4,1.3,      4-3,Loss,0,3,Loss,0,1.7,4,4,1.4999999999999998,0,7.5,20.9,-13.4,18,      4-3,0
+10,Ipswich Town,Leicester City,Home,1,1,1,1.5,Ipswich Town,Leicester City,1,1,1,1.5,      1-1,Draw,1,1,Draw,1,0,5,5,1.4999999999999998,0,8.5,22.4,-13.9,18,      1-1,0
+11,Ipswich Town,Tottenham,Away,2,1,1.6,1.5,Tottenham,Ipswich Town,1,2,1.5,1.6,      1-2,Win,3,2,Win,3,0.3999999999999999,8,8,1.8999999999999997,0,10.1,23.9,-13.8,17,      1-2,0
+12,Ipswich Town,Manchester Utd,Home,1,1,1.6,0.8,Ipswich Town,Manchester Utd,1,1,1.6,0.8,      1-1,Draw,1,1,Draw,1,-0.6,9,9,1.2999999999999996,0,11.700000000000001,24.7,-13,18,      1-1,0
+13,Ipswich Town,Forest,Away,0,1,0.6,1.6,Forest,Ipswich Town,1,0,1.6,0.6,      1-0,Loss,0,0,Loss,0,-0.6,9,9,0.6999999999999996,0,12.3,26.3,-14,19,      1-0,0
+14,Ipswich Town,Crystal Palace,Home,0,1,0.5,1.6,Ipswich Town,Crystal Palace,0,1,0.5,1.6,      0-1,Loss,0,0,Loss,0,-0.5,9,9,0.19999999999999962,0,12.8,27.900000000000002,-15.1,18,      0-1,0
+15,Ipswich Town,Bournemouth,Home,1,2,1.3,3.2,Ipswich Town,Bournemouth,1,2,1.3,3.2,      1-2,Loss,0,1,Loss,0,-0.3,9,9,-0.1,0,14.100000000000001,31.1,-17,18,      1-2,0
+16,Ipswich Town,Wolves,Away,2,1,1.1,1.3,Wolves,Ipswich Town,1,2,1.3,1.1,      1-2,Win,3,2,Win,3,0.8999999999999999,12,12,0.7999999999999995,0,15.200000000000001,32.4,-17.2,18,      1-2,0
+17,Ipswich Town,Newcastle Utd,Home,0,4,0.7,2.3,Ipswich Town,Newcastle Utd,0,4,0.7,2.3,      0-4,Loss,0,0,Loss,0,-0.7,12,12,0.1,0,15.9,34.7,-18.8,19,      0-4,0
+18,Ipswich Town,Arsenal,Away,0,1,0.2,1.8,Arsenal,Ipswich Town,1,0,1.8,0.2,      1-0,Loss,0,0,Loss,0,-0.2,12,12,-0.1,0,16.1,36.5,-20.4,19,      1-0,0
+19,Ipswich Town,Chelsea,Home,2,0,1.6,2,Ipswich Town,Chelsea,2,0,1.6,2,      2-0,Win,3,2,Win,3,0.3999999999999999,15,15,0.29999999999999943,0,17.7,38.5,-20.8,18,      2-0,0
+20,Ipswich Town,Fulham,Away,2,2,1.5,2.2,Fulham,Ipswich Town,2,2,2.2,1.5,      2-2,Draw,1,2,Draw,1,0.5,16,16,0.7999999999999994,0,19.2,40.7,-21.5,18,      2-2,0
+21,Ipswich Town,Brighton,Home,0,2,0.3,1,Ipswich Town,Brighton,0,2,0.3,1,      0-2,Loss,0,0,Loss,0,-0.3,16,16,0.49999999999999944,0,19.5,41.7,-22.2,18,      0-2,0
+22,Ipswich Town,Manchester City,Home,0,6,0.5,3,Ipswich Town,Manchester City,0,6,0.5,3,      0-6,Loss,0,0,Loss,0,-0.5,16,16,-5.55E-16,0,20,44.7,-24.7,18,      0-6,0
+23,Ipswich Town,Liverpool,Away,1,4,0.5,2,Liverpool,Ipswich Town,4,1,2,0.5,      4-1,Loss,0,1,Loss,0,0.5,16,16,0.49999999999999944,0,20.5,46.7,-26.2,19,      4-1,0
+24,Ipswich Town,Southampton,Home,1,2,1.8,0.9,Ipswich Town,Southampton,1,2,1.8,0.9,      1-2,Loss,0,1,Loss,0,-0.8,16,16,-0.3,0,22.3,47.6,-25.3,19,      1-2,0
+25,Ipswich Town,Aston Villa,Away,1,1,0.4,2.4,Aston Villa,Ipswich Town,1,1,2.4,0.4,      1-1,Draw,1,1,Draw,1,0.6,17,17,0.2999999999999994,0,22.7,50,-27.3,18,      1-1,0
+26,Ipswich Town,Tottenham,Home,1,4,1.1,1.7,Ipswich Town,Tottenham,1,4,1.1,1.7,      1-4,Loss,0,1,Loss,0,-0.1,17,17,0.1999999999999993,0,23.8,51.7,-27.9,18,      1-4,0
+27,Ipswich Town,Manchester Utd,Away,2,3,1.4,0.7,Manchester Utd,Ipswich Town,3,2,0.7,1.4,      3-2,Loss,0,2,Loss,0,0.6000000000000001,17,17,0.7999999999999994,0,25.2,52.4,-27.2,18,      3-2,0
+28,Ipswich Town,Crystal Palace,Away,0,1,1.5,3.2,Crystal Palace,Ipswich Town,1,0,3.2,1.5,      1-0,Loss,0,1,Draw,1,-1.5,17,18,-0.7,-1,26.7,55.6,-28.9,18,      1-1,1
+29,Ipswich Town,Forest,Home,2,4,0.4,1.5,Ipswich Town,Forest,2,4,0.4,1.5,      2-4,Loss,0,2,Loss,0,1.6,17,18,0.8999999999999995,-1,27.1,57.1,-30,18,      2-4,0
+30,Ipswich Town,Bournemouth,Away,2,1,1.2,1.8,Bournemouth,Ipswich Town,1,2,1.8,1.2,      1-2,Win,3,2,Win,3,0.8,20,21,1.6999999999999995,-1,28.3,58.9,-30.6,18,      1-2,0
+31,Ipswich Town,Wolves,Home,1,2,0.8,2.6,Ipswich Town,Wolves,1,2,0.8,2.6,      1-2,Loss,0,1,Loss,0,0.19999999999999996,20,21,1.8999999999999995,-1,29.1,61.5,-32.4,18,      1-2,0
+32,Ipswich Town,Chelsea,Away,2,2,1.1,2.2,Chelsea,Ipswich Town,2,2,2.2,1.1,      2-2,Draw,1,2,Draw,1,0.8999999999999999,21,22,2.7999999999999994,-1,30.2,63.7,-33.5,18,      2-2,0
+33,Ipswich Town,Arsenal,Home,0,4,0.2,2.4,Ipswich Town,Arsenal,0,4,0.2,2.4,      0-4,Loss,0,0,Loss,0,-0.2,21,22,2.599999999999999,-1,30.400000000000002,66.1,-35.7,18,      0-4,0
+34,Ipswich Town,Newcastle Utd,Away,0,3,0.1,2.4,Newcastle Utd,Ipswich Town,3,0,2.4,0.1,      3-0,Loss,0,0,Loss,0,-0.1,21,22,2.4999999999999996,-1,30.5,68.5,-38,18,      3-0,0
+35,Ipswich Town,Everton,Away,2,2,0.8,0.6,Everton,Ipswich Town,2,2,0.6,0.8,      2-2,Draw,1,2,Draw,1,1.2,22,23,3.6999999999999993,-1,31.3,69.1,-37.8,18,      2-2,0
+36,Ipswich Town,Brentford,Home,0,1,0.9,1.4,Ipswich Town,Brentford,0,1,0.9,1.4,      0-1,Loss,0,0,Loss,0,-0.9,22,23,2.7999999999999994,-1,32.2,70.5,-38.3,18,      0-1,0
+37,Ipswich Town,Leicester City,Away,0,2,1.4,0.8,Leicester City,Ipswich Town,2,0,0.8,1.4,      2-0,Loss,0,1,Loss,0,-1.4,22,23,1.3999999999999995,-1,33.6,71.3,-37.7,19,      2-1,0
+38,Ipswich Town,West Ham,Home,1,3,0.7,1.1,Ipswich Town,West Ham,1,3,0.7,1.1,      1-3,Loss,0,1,Loss,0,0.30000000000000004,22,23,1.6999999999999995,-1,34.300000000000004,72.4,-38.1,19,      1-3,0
+1,Leicester City,Tottenham,Home,1,1,1,1.2,Leicester City,Tottenham,1,1,1,1.2,      1-1,Draw,1,1,Draw,1,0,1,1,0,0,1,1.2,-0.2,9,      1-1,0
+2,Leicester City,Fulham,Away,1,2,0.6,1.8,Fulham,Leicester City,2,1,1.8,0.6,      2-1,Loss,0,1,Loss,0,0.4,1,1,0.4,0,1.6,3,-1.4,15,      2-1,0
+3,Leicester City,Aston Villa,Home,1,2,0.4,1.4,Leicester City,Aston Villa,1,2,0.4,1.4,      1-2,Loss,0,1,Loss,0,0.6,1,1,1,0,2,4.4,-2.4,15,      1-2,0
+4,Leicester City,Crystal Palace,Away,2,2,1.2,2.5,Crystal Palace,Leicester City,2,2,2.5,1.2,      2-2,Draw,1,2,Draw,1,0.8,2,2,1.8,0,3.2,6.9,-3.7,15,      2-2,0
+5,Leicester City,Everton,Home,1,1,0.7,1.1,Leicester City,Everton,1,1,0.7,1.1,      1-1,Draw,1,1,Draw,1,0.30000000000000004,3,3,2.1,0,3.9,8,-4.1,15,      1-1,0
+6,Leicester City,Arsenal,Away,2,4,0.3,4.4,Arsenal,Leicester City,4,2,4.4,0.3,      4-2,Loss,0,2,Loss,0,1.7,3,3,3.8,0,4.2,12.4,-8.2,17,      4-2,0
+7,Leicester City,Bournemouth,Home,1,0,0.8,2.1,Leicester City,Bournemouth,1,0,0.8,2.1,      1-0,Win,3,1,Win,3,0.19999999999999996,6,6,4,0,5,14.5,-9.5,15,      1-0,0
+8,Leicester City,Southampton,Away,3,2,3.1,2.1,Southampton,Leicester City,2,3,2.1,3.1,      2-3,Win,3,3,Win,3,-0.1,9,9,3.9,0,8.1,16.6,-8.5,14,      2-3,0
+9,Leicester City,Forest,Home,1,3,0.8,1.7,Leicester City,Forest,1,3,0.8,1.7,      1-3,Loss,0,1,Loss,0,0.19999999999999996,9,9,4.1,0,8.9,18.3,-9.4,15,      1-3,0
+10,Leicester City,Ipswich Town,Away,1,1,1.5,1,Ipswich Town,Leicester City,1,1,1,1.5,      1-1,Draw,1,1,Draw,1,-0.5,10,10,3.5999999999999996,0,10.4,19.3,-8.9,15,      1-1,0
+11,Leicester City,Manchester Utd,Away,0,3,0.6,0.8,Manchester Utd,Leicester City,3,0,0.8,0.6,      3-0,Loss,0,0,Loss,0,-0.6,10,10,3,0,11,20.1,-9.1,15,      3-0,0
+12,Leicester City,Chelsea,Home,1,2,1.1,2.7,Leicester City,Chelsea,1,2,1.1,2.7,      1-2,Loss,0,1,Loss,0,-0.1,10,10,2.9,0,12.1,22.8,-10.7,16,      1-2,0
+13,Leicester City,Brentford,Away,1,4,1.1,2.4,Brentford,Leicester City,4,1,2.4,1.1,      4-1,Loss,0,1,Loss,0,-0.1,10,10,2.8,0,13.2,25.2,-12,16,      4-1,0
+14,Leicester City,West Ham,Home,3,1,1.7,3,Leicester City,West Ham,3,1,1.7,3,      3-1,Win,3,3,Win,3,1.3,13,13,4.1,0,14.9,28.2,-13.3,16,      3-1,0
+15,Leicester City,Brighton,Home,2,2,1.3,1.5,Leicester City,Brighton,2,2,1.3,1.5,      2-2,Draw,1,2,Draw,1,0.7,14,14,4.8,0,16.2,29.7,-13.5,16,      2-2,0
+16,Leicester City,Newcastle Utd,Away,0,4,0.2,3.8,Newcastle Utd,Leicester City,4,0,3.8,0.2,      4-0,Loss,0,0,Loss,0,-0.2,14,14,4.6,0,16.4,33.5,-17.1,17,      4-0,0
+17,Leicester City,Wolves,Home,0,3,0.8,1.1,Leicester City,Wolves,0,3,0.8,1.1,      0-3,Loss,0,0,Loss,0,-0.8,14,14,3.8,0,17.2,34.6,-17.4,17,      0-3,0
+18,Leicester City,Liverpool,Away,1,3,0.3,2,Liverpool,Leicester City,3,1,2,0.3,      3-1,Loss,0,1,Loss,0,0.7,14,14,4.5,0,17.5,36.6,-19.1,18,      3-1,0
+19,Leicester City,Manchester City,Home,0,2,1.3,1.3,Leicester City,Manchester City,0,2,1.3,1.3,      0-2,Loss,0,1,Loss,0,-1.3,14,14,3.1999999999999993,0,18.8,37.9,-19.1,19,      1-2,0
+20,Leicester City,Aston Villa,Away,1,2,0.4,1.4,Aston Villa,Leicester City,2,1,1.4,0.4,      2-1,Loss,0,1,Loss,0,0.6,14,14,3.7999999999999994,0,19.2,39.3,-20.1,19,      2-1,0
+21,Leicester City,Crystal Palace,Home,0,2,1.7,1.8,Leicester City,Crystal Palace,0,2,1.7,1.8,      0-2,Loss,0,1,Loss,0,-1.7,14,14,2.0999999999999996,0,20.9,41.1,-20.2,19,      1-2,0
+22,Leicester City,Fulham,Home,0,2,0.6,2,Leicester City,Fulham,0,2,0.6,2,      0-2,Loss,0,0,Loss,0,-0.6,14,14,1.4999999999999996,0,21.5,43.1,-21.6,19,      0-2,0
+23,Leicester City,Tottenham,Away,2,1,1.6,1,Tottenham,Leicester City,1,2,1,1.6,      1-2,Win,3,2,Win,3,0.3999999999999999,17,17,1.8999999999999995,0,23.1,44.1,-21,17,      1-2,0
+24,Leicester City,Everton,Away,0,4,0.3,2.5,Everton,Leicester City,4,0,2.5,0.3,      4-0,Loss,0,0,Loss,0,-0.3,17,17,1.5999999999999996,0,23.400000000000002,46.6,-23.2,18,      4-0,0
+25,Leicester City,Arsenal,Home,0,2,0.2,1.4,Leicester City,Arsenal,0,2,0.2,1.4,      0-2,Loss,0,0,Loss,0,-0.2,17,17,1.3999999999999995,0,23.6,48,-24.4,19,      0-2,0
+26,Leicester City,Brentford,Home,0,4,0.5,1.5,Leicester City,Brentford,0,4,0.5,1.5,      0-4,Loss,0,0,Loss,0,-0.5,17,17,0.8999999999999996,0,24.1,49.5,-25.4,19,      0-4,0
+27,Leicester City,West Ham,Away,0,2,0.4,1.3,West Ham,Leicester City,2,0,1.3,0.4,      2-0,Loss,0,0,Loss,0,-0.4,17,17,0.49999999999999956,0,24.5,50.8,-26.3,19,      2-0,0
+28,Leicester City,Chelsea,Away,0,1,0.1,1.7,Chelsea,Leicester City,1,0,1.7,0.1,      1-0,Loss,0,0,Loss,0,-0.1,17,17,0.3999999999999996,0,24.6,52.5,-27.9,19,      1-0,0
+29,Leicester City,Manchester Utd,Home,0,3,1,0.9,Leicester City,Manchester Utd,0,3,1,0.9,      0-3,Loss,0,1,Loss,0,-1,17,17,-0.6,0,25.6,53.4,-27.8,19,      1-3,0
+30,Leicester City,Manchester City,Away,0,2,0.1,2.2,Manchester City,Leicester City,2,0,2.2,0.1,      2-0,Loss,0,0,Loss,0,-0.1,17,17,-0.7,0,25.7,55.6,-29.9,19,      2-0,0
+31,Leicester City,Newcastle Utd,Home,0,3,0.5,3.2,Leicester City,Newcastle Utd,0,3,0.5,3.2,      0-3,Loss,0,0,Loss,0,-0.5,17,17,-1.2,0,26.2,58.8,-32.6,19,      0-3,0
+32,Leicester City,Brighton,Away,2,2,1.5,3.8,Brighton,Leicester City,2,2,3.8,1.5,      2-2,Draw,1,2,Draw,1,0.5,18,18,-0.7,0,27.7,62.6,-34.9,19,      2-2,0
+33,Leicester City,Liverpool,Home,0,1,0.3,2.5,Leicester City,Liverpool,0,1,0.3,2.5,      0-1,Loss,0,0,Loss,0,-0.3,18,18,-1,0,28,65.1,-37.1,19,      0-1,0
+34,Leicester City,Wolves,Away,0,3,1.1,2,Wolves,Leicester City,3,0,2,1.1,      3-0,Loss,0,1,Loss,0,-1.1,18,18,-2.1,0,29.1,67.1,-38,19,      3-1,0
+35,Leicester City,Southampton,Home,2,0,1.4,0.5,Leicester City,Southampton,2,0,1.4,0.5,      2-0,Win,3,2,Win,3,0.6000000000000001,21,21,-1.5,0,30.5,67.6,-37.1,19,      2-0,0
+36,Leicester City,Forest,Away,2,2,1.1,1.3,Forest,Leicester City,2,2,1.3,1.1,      2-2,Draw,1,2,Draw,1,0.8999999999999999,22,22,-0.6,0,31.6,68.9,-37.3,19,      2-2,0
+37,Leicester City,Ipswich Town,Home,2,0,0.8,1.4,Leicester City,Ipswich Town,2,0,0.8,1.4,      2-0,Win,3,2,Win,3,1.2,25,25,0.5999999999999994,0,32.4,70.3,-37.9,18,      2-0,0
+38,Leicester City,Bournemouth,Away,0,2,0.3,1.6,Bournemouth,Leicester City,2,0,1.6,0.3,      2-0,Loss,0,0,Loss,0,-0.3,25,25,0.29999999999999943,0,32.7,71.9,-39.2,18,      2-0,0
+1,Liverpool,Ipswich Town,Away,2,0,2.6,0.5,Ipswich Town,Liverpool,0,2,0.5,2.6,      0-2,Win,3,2,Win,3,-0.6,3,3,-0.6,0,2.6,0.5,2.1,2,      0-2,0
+2,Liverpool,Brentford,Home,2,0,2.5,0.5,Liverpool,Brentford,2,0,2.5,0.5,      2-0,Win,3,2,Win,3,-0.5,6,6,-1.1,0,5.1,1,4.1,3,      2-0,0
+3,Liverpool,Manchester Utd,Away,3,0,1.8,1.4,Manchester Utd,Liverpool,0,3,1.4,1.8,      0-3,Win,3,3,Win,3,1.2,9,9,0.1,0,6.9,2.4,4.5,2,      0-3,0
+4,Liverpool,Forest,Home,0,1,0.9,0.4,Liverpool,Forest,0,1,0.9,0.4,      0-1,Loss,0,0,Loss,0,-0.9,9,9,-0.8,0,7.8,2.8,5,4,      0-1,0
+5,Liverpool,Bournemouth,Home,3,0,2,1.1,Liverpool,Bournemouth,3,0,2,1.1,      3-0,Win,3,3,Win,3,1,12,12,0.19999999999999984,0,9.8,3.9,5.9,2,      3-0,0
+6,Liverpool,Wolves,Away,2,1,2.5,0.6,Wolves,Liverpool,1,2,0.6,2.5,      1-2,Win,3,2,Win,3,-0.5,15,15,-0.3,0,12.3,4.5,7.800000000000001,1,      1-2,0
+7,Liverpool,Crystal Palace,Away,1,0,1.4,0.6,Crystal Palace,Liverpool,0,1,0.6,1.4,      0-1,Win,3,1,Win,3,-0.4,18,18,-0.7,0,13.7,5.1,8.6,1,      0-1,0
+8,Liverpool,Chelsea,Home,2,1,1.9,1,Liverpool,Chelsea,2,1,1.9,1,      2-1,Win,3,2,Win,3,0.10000000000000009,21,21,-0.6,0,15.6,6.1,9.5,1,      2-1,0
+9,Liverpool,Arsenal,Away,2,2,0.8,0.9,Arsenal,Liverpool,2,2,0.9,0.8,      2-2,Draw,1,2,Draw,1,1.2,22,22,0.6,0,16.4,7,9.399999999999999,2,      2-2,0
+10,Liverpool,Brighton,Home,2,1,1.6,1,Liverpool,Brighton,2,1,1.6,1,      2-1,Win,3,2,Win,3,0.3999999999999999,25,25,0.9999999999999999,0,18,8,10,1,      2-1,0
+11,Liverpool,Aston Villa,Home,2,0,2,1.2,Liverpool,Aston Villa,2,0,2,1.2,      2-0,Win,3,2,Win,3,0,28,28,0.9999999999999999,0,20,9.2,10.8,1,      2-0,0
+12,Liverpool,Southampton,Away,3,2,3.1,1.3,Southampton,Liverpool,2,3,1.3,3.1,      2-3,Win,3,3,Win,3,-0.1,31,31,0.8999999999999998,0,23.1,10.5,12.600000000000001,1,      2-3,0
+13,Liverpool,Manchester City,Home,2,0,3.4,0.8,Liverpool,Manchester City,2,0,3.4,0.8,      2-0,Win,3,3,Win,3,-1.4,34,34,-0.5,0,26.5,11.3,15.2,1,      3-0,0
+14,Liverpool,Newcastle Utd,Away,3,3,1.9,2.1,Newcastle Utd,Liverpool,3,3,2.1,1.9,      3-3,Draw,1,3,Draw,1,1.1,35,35,0.6,0,28.4,13.4,14.999999999999998,1,      3-3,0
+15,Liverpool,Everton,Away,2,2,0.6,1,Everton,Liverpool,2,2,1,0.6,      2-2,Draw,1,2,Draw,1,1.4,36,36,2,0,29,14.4,14.6,1,      2-2,0
+16,Liverpool,Fulham,Home,2,2,2.1,1.2,Liverpool,Fulham,2,2,2.1,1.2,      2-2,Draw,1,2,Draw,1,-0.1,37,37,1.9,0,31.1,15.6,15.500000000000002,1,      2-2,0
+17,Liverpool,Tottenham,Away,6,3,5.6,1.3,Tottenham,Liverpool,3,6,1.3,5.6,      3-6,Win,3,6,Win,3,0.40000000000000036,40,40,2.3000000000000003,0,36.7,16.9,19.800000000000004,1,      3-6,0
+18,Liverpool,Leicester City,Home,3,1,2,0.3,Liverpool,Leicester City,3,1,2,0.3,      3-1,Win,3,3,Win,3,1,43,43,3.3000000000000003,0,38.7,17.2,21.500000000000004,1,      3-1,0
+19,Liverpool,West Ham,Away,5,0,3.1,0.4,West Ham,Liverpool,0,5,0.4,3.1,      0-5,Win,3,5,Win,3,1.9,46,46,5.2,0,41.8,17.6,24.199999999999996,1,      0-5,0
+20,Liverpool,Manchester Utd,Home,2,2,2.7,1,Liverpool,Manchester Utd,2,2,2.7,1,      2-2,Draw,1,2,Draw,1,-0.7,47,47,4.5,0,44.5,18.6,25.9,1,      2-2,0
+21,Liverpool,Forest,Away,1,1,2,0.3,Forest,Liverpool,1,1,0.3,2,      1-1,Draw,1,2,Win,3,-1,48,50,3.5,-2,46.5,18.9,27.6,1,      1-2,1
+22,Liverpool,Brentford,Away,2,0,3.4,0.7,Brentford,Liverpool,0,2,0.7,3.4,      0-2,Win,3,3,Win,3,-1.4,51,53,2.1,-2,49.9,19.6,30.299999999999997,1,      0-3,0
+23,Liverpool,Ipswich Town,Home,4,1,2,0.5,Liverpool,Ipswich Town,4,1,2,0.5,      4-1,Win,3,4,Win,3,2,54,56,4.1,-2,51.9,20.1,31.799999999999997,1,      4-1,0
+24,Liverpool,Bournemouth,Away,2,0,2.5,1.6,Bournemouth,Liverpool,0,2,1.6,2.5,      0-2,Win,3,2,Win,3,-0.5,57,59,3.6,-2,54.4,21.7,32.7,1,      0-2,0
+25,Liverpool,Wolves,Home,2,1,1.7,1.5,Liverpool,Wolves,2,1,1.7,1.5,      2-1,Win,3,2,Win,3,0.30000000000000004,60,62,3.9000000000000004,-2,56.1,23.2,32.900000000000006,1,      2-1,0
+26,Liverpool,Manchester City,Away,2,0,0.7,0.6,Manchester City,Liverpool,0,2,0.6,0.7,      0-2,Win,3,2,Win,3,1.3,63,65,5.2,-2,56.8,23.8,33,1,      0-2,0
+27,Liverpool,Newcastle Utd,Home,2,0,1.7,0.2,Liverpool,Newcastle Utd,2,0,1.7,0.2,      2-0,Win,3,2,Win,3,0.30000000000000004,66,68,5.5,-2,58.5,24,34.5,1,      2-0,0
+28,Liverpool,Southampton,Home,3,1,3.9,0.4,Liverpool,Southampton,3,1,3.9,0.4,      3-1,Win,3,3,Win,3,-0.9,69,71,4.6000000000000005,-2,62.4,24.4,38,1,      3-1,0
+29,Liverpool,Aston Villa,Away,2,2,2.5,0.6,Aston Villa,Liverpool,2,2,0.6,2.5,      2-2,Draw,1,2,Draw,1,-0.5,70,72,4.1000000000000005,-2,64.9,25,39.900000000000006,1,      2-2,0
+30,Liverpool,Everton,Home,1,0,1.5,0.9,Liverpool,Everton,1,0,1.5,0.9,      1-0,Win,3,1,Win,3,-0.5,73,75,3.6000000000000005,-2,66.4,25.9,40.50000000000001,1,      1-0,0
+31,Liverpool,Fulham,Away,2,3,1.5,0.7,Fulham,Liverpool,3,2,0.7,1.5,      3-2,Loss,0,2,Loss,0,0.5,73,75,4.1000000000000005,-2,67.9,26.6,41.300000000000004,1,      3-2,0
+32,Liverpool,West Ham,Home,2,1,1.8,1.4,Liverpool,West Ham,2,1,1.8,1.4,      2-1,Win,3,2,Win,3,0.19999999999999996,76,78,4.300000000000001,-2,69.7,28,41.7,1,      2-1,0
+33,Liverpool,Leicester City,Away,1,0,2.5,0.3,Leicester City,Liverpool,0,1,0.3,2.5,      0-1,Win,3,2,Win,3,-1.5,79,81,2.8000000000000003,-2,72.2,28.3,43.900000000000006,1,      0-2,0
+34,Liverpool,Tottenham,Home,5,1,2.2,0.5,Liverpool,Tottenham,5,1,2.2,0.5,      5-1,Win,3,5,Win,3,2.8,82,84,5.6,-2,74.4,28.8,45.60000000000001,1,      5-1,0
+35,Liverpool,Chelsea,Away,1,3,1,3.1,Chelsea,Liverpool,3,1,3.1,1,      3-1,Loss,0,1,Loss,0,0,82,84,5.6,-2,75.4,31.9,43.50000000000001,1,      3-1,0
+36,Liverpool,Arsenal,Home,2,2,2.4,2.6,Liverpool,Arsenal,2,2,2.4,2.6,      2-2,Draw,1,2,Draw,1,-0.4,83,85,5.2,-2,77.8,34.5,43.3,1,      2-2,0
+37,Liverpool,Brighton,Away,2,3,2.2,2.2,Brighton,Liverpool,3,2,2.2,2.2,      3-2,Loss,0,2,Loss,0,-0.2,83,85,5,-2,80,36.7,43.3,1,      3-2,0
+38,Liverpool,Crystal Palace,Home,1,1,2.1,1.8,Liverpool,Crystal Palace,1,1,2.1,1.8,      1-1,Draw,1,2,Win,3,-1.1,84,88,3.9,-4,82.1,38.5,43.599999999999994,1,      2-1,1
+1,Manchester City,Chelsea,Away,2,0,0.8,1,Chelsea,Manchester City,0,2,1,0.8,      0-2,Win,3,2,Win,3,1.2,3,3,1.2,0,0.8,1,-0.2,2,      0-2,0
+2,Manchester City,Ipswich Town,Home,4,1,3.3,0.3,Manchester City,Ipswich Town,4,1,3.3,0.3,      4-1,Win,3,4,Win,3,0.7000000000000002,6,6,1.9000000000000001,0,4.1,1.3,2.8,1,      4-1,0
+3,Manchester City,West Ham,Away,3,1,3,0.7,West Ham,Manchester City,1,3,0.7,3,      1-3,Win,3,3,Win,3,0,9,9,1.9000000000000001,0,7.1,2,5.1,1,      1-3,0
+4,Manchester City,Brentford,Home,2,1,2.1,1,Manchester City,Brentford,2,1,2.1,1,      2-1,Win,3,2,Win,3,-0.1,12,12,1.8,0,9.2,3,6.199999999999999,1,      2-1,0
+5,Manchester City,Arsenal,Home,2,2,2.1,0.7,Manchester City,Arsenal,2,2,2.1,0.7,      2-2,Draw,1,2,Draw,1,-0.1,13,13,1.7,0,11.3,3.7,7.6000000000000005,1,      2-2,0
+6,Manchester City,Newcastle Utd,Away,1,1,0.9,1.6,Newcastle Utd,Manchester City,1,1,1.6,0.9,      1-1,Draw,1,1,Draw,1,0.1,14,14,1.7999999999999998,0,12.2,5.3,6.8999999999999995,2,      1-1,0
+7,Manchester City,Fulham,Home,3,2,1.6,2.6,Manchester City,Fulham,3,2,1.6,2.6,      3-2,Win,3,3,Win,3,1.4,17,17,3.1999999999999997,0,13.8,7.9,5.9,2,      3-2,0
+8,Manchester City,Wolves,Away,2,1,1.6,0.8,Wolves,Manchester City,1,2,0.8,1.6,      1-2,Win,3,2,Win,3,0.3999999999999999,20,20,3.5999999999999996,0,15.4,8.700000000000001,6.699999999999999,2,      1-2,0
+9,Manchester City,Southampton,Home,1,0,2.9,0.2,Manchester City,Southampton,1,0,2.9,0.2,      1-0,Win,3,2,Win,3,-1.9,23,23,1.6999999999999997,0,18.3,8.9,9.4,1,      2-0,0
+10,Manchester City,Bournemouth,Away,1,2,1.6,2,Bournemouth,Manchester City,2,1,2,1.6,      2-1,Loss,0,1,Loss,0,-0.6,23,23,1.0999999999999996,0,19.9,10.9,8.999999999999998,2,      2-1,0
+11,Manchester City,Brighton,Away,1,2,2.1,2.3,Brighton,Manchester City,2,1,2.3,2.1,      2-1,Loss,0,2,Draw,1,-1.1,23,24,-4.44E-16,-1,22,13.2,8.8,2,      2-2,1
+12,Manchester City,Tottenham,Home,0,4,2.1,2.5,Manchester City,Tottenham,0,4,2.1,2.5,      0-4,Loss,0,2,Loss,0,-2.1,23,24,-2.1,-1,24.1,15.7,8.400000000000002,2,      2-4,0
+13,Manchester City,Liverpool,Away,0,2,0.8,3.4,Liverpool,Manchester City,2,0,3.4,0.8,      2-0,Loss,0,0,Loss,0,-0.8,23,24,-2.9,-1,24.9,19.1,5.799999999999997,5,      2-0,0
+14,Manchester City,Forest,Home,3,0,2.4,1,Manchester City,Forest,3,0,2.4,1,      3-0,Win,3,3,Win,3,0.6000000000000001,26,27,-2.3,-1,27.3,20.1,7.199999999999999,4,      3-0,0
+15,Manchester City,Crystal Palace,Away,2,2,1.4,1.3,Crystal Palace,Manchester City,2,2,1.3,1.4,      2-2,Draw,1,2,Draw,1,0.6000000000000001,27,28,-1.7,-1,28.7,21.4,7.300000000000001,4,      2-2,0
+16,Manchester City,Manchester Utd,Home,1,2,0.9,2.1,Manchester City,Manchester Utd,1,2,0.9,2.1,      1-2,Loss,0,1,Loss,0,0.1,27,28,-1.6,-1,29.6,23.5,6.100000000000001,5,      1-2,0
+17,Manchester City,Aston Villa,Away,1,2,1,1.6,Aston Villa,Manchester City,2,1,1.6,1,      2-1,Loss,0,1,Loss,0,0,27,28,-1.6,-1,30.6,25.1,5.5,7,      2-1,0
+18,Manchester City,Everton,Home,1,1,2.1,0.7,Manchester City,Everton,1,1,2.1,0.7,      1-1,Draw,1,2,Win,3,-1.1,28,31,-2.7,-3,32.7,25.8,6.900000000000002,7,      2-1,1
+19,Manchester City,Leicester City,Away,2,0,1.3,1.3,Leicester City,Manchester City,0,2,1.3,1.3,      0-2,Win,3,2,Win,3,0.7,31,34,-2,-3,34,27.1,6.899999999999999,6,      0-2,0
+20,Manchester City,West Ham,Home,4,1,1.9,1.4,Manchester City,West Ham,4,1,1.9,1.4,      4-1,Win,3,4,Win,3,2.1,34,37,0.1,-3,35.9,28.5,7.399999999999999,6,      4-1,0
+21,Manchester City,Brentford,Away,2,2,2.2,2.5,Brentford,Manchester City,2,2,2.5,2.2,      2-2,Draw,1,2,Draw,1,-0.2,35,38,-0.1,-3,38.1,31,7.100000000000001,6,      2-2,0
+22,Manchester City,Ipswich Town,Away,6,0,3,0.5,Ipswich Town,Manchester City,0,6,0.5,3,      0-6,Win,3,6,Win,3,3,38,41,2.8999999999999995,-3,41.1,31.5,9.600000000000001,5,      0-6,0
+23,Manchester City,Chelsea,Home,3,1,2.2,1.8,Manchester City,Chelsea,3,1,2.2,1.8,      3-1,Win,3,3,Win,3,0.7999999999999998,41,44,3.6999999999999993,-3,43.3,33.3,10,4,      3-1,0
+24,Manchester City,Arsenal,Away,1,5,0.8,1,Arsenal,Manchester City,5,1,1,0.8,      5-1,Loss,0,1,Loss,0,0.19999999999999996,41,44,3.8999999999999995,-3,44.1,34.3,9.800000000000004,5,      5-1,0
+25,Manchester City,Newcastle Utd,Home,4,0,1.9,0.5,Manchester City,Newcastle Utd,4,0,1.9,0.5,      4-0,Win,3,4,Win,3,2.1,44,47,5.999999999999999,-3,46,34.8,11.200000000000003,4,      4-0,0
+26,Manchester City,Liverpool,Home,0,2,0.6,0.7,Manchester City,Liverpool,0,2,0.6,0.7,      0-2,Loss,0,0,Loss,0,-0.6,44,47,5.3999999999999995,-3,46.6,35.5,11.100000000000001,4,      0-2,0
+27,Manchester City,Tottenham,Away,1,0,2.1,1.3,Tottenham,Manchester City,0,1,1.3,2.1,      0-1,Win,3,2,Win,3,-1.1,47,50,4.299999999999999,-3,48.7,36.8,11.900000000000006,4,      0-2,0
+28,Manchester City,Forest,Away,0,1,0.9,0.7,Forest,Manchester City,1,0,0.7,0.9,      1-0,Loss,0,0,Loss,0,-0.9,47,50,3.399999999999999,-3,49.6,37.5,12.100000000000001,5,      1-0,0
+29,Manchester City,Brighton,Home,2,2,1.7,2,Manchester City,Brighton,2,2,1.7,2,      2-2,Draw,1,2,Draw,1,0.30000000000000004,48,51,3.699999999999999,-3,51.3,39.5,11.799999999999997,6,      2-2,0
+30,Manchester City,Leicester City,Home,2,0,2.2,0.1,Manchester City,Leicester City,2,0,2.2,0.1,      2-0,Win,3,2,Win,3,-0.2,51,54,3.4999999999999987,-3,53.5,39.6,13.899999999999999,6,      2-0,0
+31,Manchester City,Manchester Utd,Away,0,0,0.5,0.9,Manchester Utd,Manchester City,0,0,0.9,0.5,      0-0,Draw,1,0,Draw,1,-0.5,52,55,2.9999999999999987,-3,54,40.5,13.5,6,      0-0,0
+32,Manchester City,Crystal Palace,Home,5,2,3.7,1.8,Manchester City,Crystal Palace,5,2,3.7,1.8,      5-2,Win,3,5,Win,3,1.2999999999999998,55,58,4.299999999999999,-3,57.7,42.3,15.400000000000006,5,      5-2,0
+33,Manchester City,Everton,Away,2,0,2,0.9,Everton,Manchester City,0,2,0.9,2,      0-2,Win,3,2,Win,3,0,58,61,4.299999999999999,-3,59.7,43.2,16.5,5,      0-2,0
+34,Manchester City,Aston Villa,Home,2,1,1.3,1.8,Manchester City,Aston Villa,2,1,1.3,1.8,      2-1,Win,3,2,Win,3,0.7,61,64,4.999999999999998,-3,61,45,16,4,      2-1,0
+35,Manchester City,Wolves,Home,1,0,0.7,0.4,Manchester City,Wolves,1,0,0.7,0.4,      1-0,Win,3,1,Win,3,0.30000000000000004,64,67,5.299999999999999,-3,61.7,45.4,16.300000000000004,3,      1-0,0
+36,Manchester City,Southampton,Away,0,0,1.7,0.1,Southampton,Manchester City,0,0,0.1,1.7,      0-0,Draw,1,1,Win,3,-1.7,65,70,3.5999999999999988,-5,63.4,45.5,17.9,4,      0-1,1
+37,Manchester City,Bournemouth,Home,3,1,1.5,1.1,Manchester City,Bournemouth,3,1,1.5,1.1,      3-1,Win,3,3,Win,3,1.5,68,73,5.099999999999999,-5,64.9,46.6,18.300000000000004,3,      3-1,0
+38,Manchester City,Fulham,Away,2,0,3,1.3,Fulham,Manchester City,0,2,1.3,3,      0-2,Win,3,3,Win,3,-1,71,76,4.099999999999999,-5,67.9,47.9,20.000000000000007,3,      0-3,0
+1,Manchester Utd,Fulham,Home,1,0,2.4,0.4,Manchester Utd,Fulham,1,0,2.4,0.4,      1-0,Win,3,2,Win,3,-1.4,3,3,-1.4,0,2.4,0.4,2,7,      2-0,0
+2,Manchester Utd,Brighton,Away,1,2,1.4,2.1,Brighton,Manchester Utd,2,1,2.1,1.4,      2-1,Loss,0,1,Loss,0,-0.4,3,3,-1.8,0,3.8,2.5,1.2999999999999998,10,      2-1,0
+3,Manchester Utd,Liverpool,Home,0,3,1.4,1.8,Manchester Utd,Liverpool,0,3,1.4,1.8,      0-3,Loss,0,1,Loss,0,-1.4,3,3,-3.2,0,5.199999999999999,4.3,0.8999999999999995,14,      1-3,0
+4,Manchester Utd,Southampton,Away,3,0,2.6,1.1,Southampton,Manchester Utd,0,3,1.1,2.6,      0-3,Win,3,3,Win,3,0.3999999999999999,6,6,-2.8,0,7.8,5.4,2.3999999999999995,10,      0-3,0
+5,Manchester Utd,Crystal Palace,Away,0,0,1.6,1,Crystal Palace,Manchester Utd,0,0,1,1.6,      0-0,Draw,1,1,Win,3,-1.6,7,9,-4.4,-2,9.4,6.4,3,11,      0-1,1
+6,Manchester Utd,Tottenham,Home,0,3,1,4.4,Manchester Utd,Tottenham,0,3,1,4.4,      0-3,Loss,0,1,Loss,0,-1,7,9,-5.4,-2,10.4,10.8,-0.4,13,      1-3,0
+7,Manchester Utd,Aston Villa,Away,0,0,0.6,0.5,Aston Villa,Manchester Utd,0,0,0.5,0.6,      0-0,Draw,1,0,Draw,1,-0.6,8,10,-6,-2,11,11.3,-0.3,14,      0-0,0
+8,Manchester Utd,Brentford,Home,2,1,1.3,0.9,Manchester Utd,Brentford,2,1,1.3,0.9,      2-1,Win,3,2,Win,3,0.7,11,13,-5.3,-2,12.3,12.200000000000001,0.1,12,      2-1,0
+9,Manchester Utd,West Ham,Away,1,2,2.3,2.8,West Ham,Manchester Utd,2,1,2.8,2.3,      2-1,Loss,0,2,Draw,1,-1.3,11,14,-6.6,-3,14.6,15,-0.4,14,      2-2,1
+10,Manchester Utd,Chelsea,Home,1,1,2,1.1,Manchester Utd,Chelsea,1,1,2,1.1,      1-1,Draw,1,2,Win,3,-1,12,17,-7.6,-5,16.6,16.1,0.5,13,      2-1,1
+11,Manchester Utd,Leicester City,Home,3,0,0.8,0.6,Manchester Utd,Leicester City,3,0,0.8,0.6,      3-0,Win,3,3,Win,3,2.2,15,20,-5.4,-5,17.4,16.7,0.6999999999999993,13,      3-0,0
+12,Manchester Utd,Ipswich Town,Away,1,1,0.8,1.6,Ipswich Town,Manchester Utd,1,1,1.6,0.8,      1-1,Draw,1,1,Draw,1,0.19999999999999996,16,21,-5.2,-5,18.2,18.3,-0.1,12,      1-1,0
+13,Manchester Utd,Everton,Home,4,0,1.1,0.6,Manchester Utd,Everton,4,0,1.1,0.6,      4-0,Win,3,4,Win,3,2.9,19,24,-2.3,-5,19.3,18.900000000000002,0.3999999999999986,9,      4-0,0
+14,Manchester Utd,Arsenal,Away,0,2,0.2,2.1,Arsenal,Manchester Utd,2,0,2.1,0.2,      2-0,Loss,0,0,Loss,0,-0.2,19,24,-2.5,-5,19.5,21,-1.5,13,      2-0,0
+15,Manchester Utd,Forest,Home,2,3,1.6,0.8,Manchester Utd,Forest,2,3,1.6,0.8,      2-3,Loss,0,2,Loss,0,0.3999999999999999,19,24,-2.1,-5,21.1,21.8,-0.7,13,      2-3,0
+16,Manchester Utd,Manchester City,Away,2,1,2.1,0.9,Manchester City,Manchester Utd,1,2,0.9,2.1,      1-2,Win,3,2,Win,3,-0.1,22,27,-2.2,-5,23.2,22.7,0.5,13,      1-2,0
+17,Manchester Utd,Bournemouth,Home,0,3,2.2,1.6,Manchester Utd,Bournemouth,0,3,2.2,1.6,      0-3,Loss,0,2,Loss,0,-2.2,22,27,-4.4,-5,25.4,24.3,1.0999999999999979,13,      2-3,0
+18,Manchester Utd,Wolves,Away,0,2,0.4,0.9,Wolves,Manchester Utd,2,0,0.9,0.4,      2-0,Loss,0,0,Loss,0,-0.4,22,27,-4.8,-5,25.8,25.200000000000003,0.5999999999999979,14,      2-0,0
+19,Manchester Utd,Newcastle Utd,Home,0,2,0.8,1.9,Manchester Utd,Newcastle Utd,0,2,0.8,1.9,      0-2,Loss,0,0,Loss,0,-0.8,22,27,-5.6,-5,26.6,27.1,-0.5,14,      0-2,0
+20,Manchester Utd,Liverpool,Away,2,2,1,2.7,Liverpool,Manchester Utd,2,2,2.7,1,      2-2,Draw,1,2,Draw,1,1,23,28,-4.6,-5,27.6,29.8,-2.2,13,      2-2,0
+21,Manchester Utd,Southampton,Home,3,1,3.4,1.4,Manchester Utd,Southampton,3,1,3.4,1.4,      3-1,Win,3,3,Win,3,-0.4,26,31,-5,-5,31,31.200000000000003,-0.2,12,      3-1,0
+22,Manchester Utd,Brighton,Home,1,3,1.5,1.9,Manchester Utd,Brighton,1,3,1.5,1.9,      1-3,Loss,0,1,Loss,0,-0.5,26,31,-5.5,-5,32.5,33.1,-0.6,13,      1-3,0
+23,Manchester Utd,Fulham,Away,1,0,0.3,0.7,Fulham,Manchester Utd,0,1,0.7,0.3,      0-1,Win,3,1,Win,3,0.7,29,34,-4.8,-5,32.8,33.800000000000004,-1,12,      0-1,0
+24,Manchester Utd,Crystal Palace,Home,0,2,1.1,2.6,Manchester Utd,Crystal Palace,0,2,1.1,2.6,      0-2,Loss,0,1,Loss,0,-1.1,29,34,-5.9,-5,33.9,36.4,-2.5,13,      1-2,0
+25,Manchester Utd,Tottenham,Away,0,1,1.5,2.2,Tottenham,Manchester Utd,1,0,2.2,1.5,      1-0,Loss,0,1,Draw,1,-1.5,29,35,-7.4,-6,35.4,38.6,-3.2,15,      1-1,1
+26,Manchester Utd,Everton,Away,2,2,0.4,1.6,Everton,Manchester Utd,2,2,1.6,0.4,      2-2,Draw,1,2,Draw,1,1.6,30,36,-5.8,-6,35.8,40.2,-4.4,15,      2-2,0
+27,Manchester Utd,Ipswich Town,Home,3,2,0.7,1.4,Manchester Utd,Ipswich Town,3,2,0.7,1.4,      3-2,Win,3,3,Win,3,2.3,33,39,-3.5,-6,36.5,41.6,-5.1,14,      3-2,0
+28,Manchester Utd,Arsenal,Home,1,1,1.5,1.6,Manchester Utd,Arsenal,1,1,1.5,1.6,      1-1,Draw,1,1,Draw,1,-0.5,34,40,-4,-6,38,43.2,-5.2,14,      1-1,0
+29,Manchester Utd,Leicester City,Away,3,0,0.9,1,Leicester City,Manchester Utd,0,3,1,0.9,      0-3,Win,3,3,Win,3,2.1,37,43,-1.9,-6,38.9,44.2,-5.3,13,      0-3,0
+30,Manchester Utd,Forest,Away,0,1,1.6,0.5,Forest,Manchester Utd,1,0,0.5,1.6,      1-0,Loss,0,1,Draw,1,-1.6,37,44,-3.5,-7,40.5,44.7,-4.2,13,      1-1,1
+31,Manchester Utd,Manchester City,Home,0,0,0.9,0.5,Manchester Utd,Manchester City,0,0,0.9,0.5,      0-0,Draw,1,0,Draw,1,-0.9,38,45,-4.4,-7,41.4,45.2,-3.8,13,      0-0,0
+32,Manchester Utd,Newcastle Utd,Away,1,4,0.7,2.2,Newcastle Utd,Manchester Utd,4,1,2.2,0.7,      4-1,Loss,0,1,Loss,0,0.30000000000000004,38,45,-4.1,-7,42.1,47.4,-5.3,14,      4-1,0
+33,Manchester Utd,Wolves,Home,0,1,1.3,0.2,Manchester Utd,Wolves,0,1,1.3,0.2,      0-1,Loss,0,1,Draw,1,-1.3,38,46,-5.4,-8,43.4,47.6,-4.2,14,      1-1,1
+34,Manchester Utd,Bournemouth,Away,1,1,2.3,0.5,Bournemouth,Manchester Utd,1,1,0.5,2.3,      1-1,Draw,1,2,Win,3,-1.3,39,49,-6.7,-10,45.7,48.1,-2.4,14,      1-2,1
+35,Manchester Utd,Brentford,Away,3,4,1.5,2.8,Brentford,Manchester Utd,4,3,2.8,1.5,      4-3,Loss,0,3,Loss,0,1.5,39,49,-5.2,-10,47.2,50.9,-3.7,15,      4-3,0
+36,Manchester Utd,West Ham,Home,0,2,2.1,1.7,Manchester Utd,West Ham,0,2,2.1,1.7,      0-2,Loss,0,2,Draw,1,-2.1,39,50,-7.3,-11,49.3,52.6,-3.3,16,      2-2,1
+37,Manchester Utd,Chelsea,Away,0,1,0.3,0.8,Chelsea,Manchester Utd,1,0,0.8,0.3,      1-0,Loss,0,0,Loss,0,-0.3,39,50,-7.6,-11,49.6,53.4,-3.8,16,      1-0,0
+38,Manchester Utd,Aston Villa,Home,2,0,2.9,0.4,Manchester Utd,Aston Villa,2,0,2.9,0.4,      2-0,Win,3,2,Win,3,-0.9,42,53,-8.5,-11,52.5,53.800000000000004,-1.3,15,      2-0,0
+1,Newcastle Utd,Southampton,Home,1,0,0.3,1.8,Newcastle Utd,Southampton,1,0,0.3,1.8,      1-0,Win,3,1,Win,3,0.7,3,3,0.7,0,0.3,1.8,-1.5,7,      1-0,0
+2,Newcastle Utd,Bournemouth,Away,1,1,1.6,2.2,Bournemouth,Newcastle Utd,1,1,2.2,1.6,      1-1,Draw,1,1,Draw,1,-0.6,4,4,0.1,0,1.9000000000000001,4,-2.1,6,      1-1,0
+3,Newcastle Utd,Tottenham,Home,2,1,1.8,1.2,Newcastle Utd,Tottenham,2,1,1.8,1.2,      2-1,Win,3,2,Win,3,0.19999999999999996,7,7,0.2999999999999998,0,3.7,5.2,-1.5,5,      2-1,0
+4,Newcastle Utd,Wolves,Away,2,1,1.5,1.2,Wolves,Newcastle Utd,1,2,1.2,1.5,      1-2,Win,3,2,Win,3,0.5,10,10,0.7999999999999998,0,5.2,6.4,-1.2,3,      1-2,0
+5,Newcastle Utd,Fulham,Away,1,3,1.5,2.2,Fulham,Newcastle Utd,3,1,2.2,1.5,      3-1,Loss,0,1,Loss,0,-0.5,10,10,0.2999999999999998,0,6.7,8.6,-1.9,6,      3-1,0
+6,Newcastle Utd,Manchester City,Home,1,1,1.6,0.9,Newcastle Utd,Manchester City,1,1,1.6,0.9,      1-1,Draw,1,1,Draw,1,-0.6,11,11,-0.3,0,8.3,9.5,-1.2,7,      1-1,0
+7,Newcastle Utd,Everton,Away,0,0,2.1,0.7,Everton,Newcastle Utd,0,0,0.7,2.1,      0-0,Draw,1,2,Win,3,-2.1,12,14,-2.4,-2,10.4,10.2,0.20000000000000107,7,      0-2,1
+8,Newcastle Utd,Brighton,Home,0,1,2,1.1,Newcastle Utd,Brighton,0,1,2,1.1,      0-1,Loss,0,2,Win,3,-2,12,17,-4.4,-5,12.4,11.3,1.0999999999999996,9,      2-1,1
+9,Newcastle Utd,Chelsea,Away,1,2,1.8,1.6,Chelsea,Newcastle Utd,2,1,1.6,1.8,      2-1,Loss,0,1,Loss,0,-0.8,12,17,-5.2,-5,14.200000000000001,12.9,1.3000000000000007,12,      2-1,0
+10,Newcastle Utd,Arsenal,Home,1,0,0.5,1.1,Newcastle Utd,Arsenal,1,0,0.5,1.1,      1-0,Win,3,1,Win,3,0.5,15,20,-4.7,-5,14.700000000000001,14,0.7000000000000011,11,      1-0,0
+11,Newcastle Utd,Forest,Away,3,1,1.6,0.6,Forest,Newcastle Utd,1,3,0.6,1.6,      1-3,Win,3,3,Win,3,1.4,18,23,-3.3,-5,16.3,14.6,1.700000000000001,8,      1-3,0
+12,Newcastle Utd,West Ham,Home,0,2,1.6,0.9,Newcastle Utd,West Ham,0,2,1.6,0.9,      0-2,Loss,0,1,Loss,0,-1.6,18,23,-4.9,-5,17.900000000000002,15.5,2.400000000000002,10,      1-2,0
+13,Newcastle Utd,Crystal Palace,Away,1,1,0,1.7,Crystal Palace,Newcastle Utd,1,1,1.7,0,      1-1,Draw,1,1,Draw,1,1,19,24,-3.9,-5,17.900000000000002,17.2,0.7000000000000028,11,      1-1,0
+14,Newcastle Utd,Liverpool,Home,3,3,2.1,1.9,Newcastle Utd,Liverpool,3,3,2.1,1.9,      3-3,Draw,1,3,Draw,1,0.8999999999999999,20,25,-3,-5,20,19.1,0.8999999999999986,12,      3-3,0
+15,Newcastle Utd,Brentford,Away,2,4,1.5,1.2,Brentford,Newcastle Utd,4,2,1.2,1.5,      4-2,Loss,0,2,Loss,0,0.5,20,25,-2.5,-5,21.5,20.3,1.1999999999999993,12,      4-2,0
+16,Newcastle Utd,Leicester City,Home,4,0,3.8,0.2,Newcastle Utd,Leicester City,4,0,3.8,0.2,      4-0,Win,3,4,Win,3,0.20000000000000018,23,28,-2.3,-5,25.3,20.5,4.800000000000001,12,      4-0,0
+17,Newcastle Utd,Ipswich Town,Away,4,0,2.3,0.7,Ipswich Town,Newcastle Utd,0,4,0.7,2.3,      0-4,Win,3,4,Win,3,1.7000000000000002,26,31,-0.6,-5,27.6,21.2,6.400000000000002,8,      0-4,0
+18,Newcastle Utd,Aston Villa,Home,3,0,2.7,0.3,Newcastle Utd,Aston Villa,3,0,2.7,0.3,      3-0,Win,3,3,Win,3,0.2999999999999998,29,34,-0.3,-5,30.3,21.5,8.8,5,      3-0,0
+19,Newcastle Utd,Manchester Utd,Away,2,0,1.9,0.8,Manchester Utd,Newcastle Utd,0,2,0.8,1.9,      0-2,Win,3,2,Win,3,0.10000000000000009,32,37,-0.2,-5,32.2,22.3,9.900000000000002,5,      0-2,0
+20,Newcastle Utd,Tottenham,Away,2,1,2.5,0.9,Tottenham,Newcastle Utd,1,2,0.9,2.5,      1-2,Win,3,2,Win,3,-0.5,35,40,-0.7,-5,34.7,23.2,11.500000000000004,5,      1-2,0
+21,Newcastle Utd,Wolves,Home,3,0,2.1,1.6,Newcastle Utd,Wolves,3,0,2.1,1.6,      3-0,Win,3,3,Win,3,0.8999999999999999,38,43,0.1999999999999995,-5,36.8,24.8,11.999999999999996,4,      3-0,0
+22,Newcastle Utd,Bournemouth,Home,1,4,0.8,2,Newcastle Utd,Bournemouth,1,4,0.8,2,      1-4,Loss,0,1,Loss,0,0.19999999999999996,38,43,0.39999999999999947,-5,37.6,26.8,10.8,6,      1-4,0
+23,Newcastle Utd,Southampton,Away,3,1,2.9,0.8,Southampton,Newcastle Utd,1,3,0.8,2.9,      1-3,Win,3,3,Win,3,0.10000000000000009,41,46,0.49999999999999956,-5,40.5,27.6,12.899999999999999,5,      1-3,0
+24,Newcastle Utd,Fulham,Home,1,2,0.8,1.6,Newcastle Utd,Fulham,1,2,0.8,1.6,      1-2,Loss,0,1,Loss,0,0.19999999999999996,41,46,0.6999999999999995,-5,41.300000000000004,29.2,12.100000000000005,6,      1-2,0
+25,Newcastle Utd,Manchester City,Away,0,4,0.5,1.9,Manchester City,Newcastle Utd,4,0,1.9,0.5,      4-0,Loss,0,0,Loss,0,-0.5,41,46,0.1999999999999995,-5,41.800000000000004,31.1,10.700000000000003,7,      4-0,0
+26,Newcastle Utd,Forest,Home,4,3,2.9,1.7,Newcastle Utd,Forest,4,3,2.9,1.7,      4-3,Win,3,4,Win,3,1.1,44,49,1.2999999999999996,-5,44.7,32.8,11.900000000000006,5,      4-3,0
+27,Newcastle Utd,Liverpool,Away,0,2,0.2,1.7,Liverpool,Newcastle Utd,2,0,1.7,0.2,      2-0,Loss,0,0,Loss,0,-0.2,44,49,1.0999999999999996,-5,44.9,34.5,10.399999999999999,6,      2-0,0
+28,Newcastle Utd,West Ham,Away,1,0,1.4,0.7,West Ham,Newcastle Utd,0,1,0.7,1.4,      0-1,Win,3,1,Win,3,-0.4,47,52,0.6999999999999997,-5,46.300000000000004,35.2,11.100000000000001,6,      0-1,0
+29,Newcastle Utd,Crystal Palace,Home,5,0,1.5,2,Newcastle Utd,Crystal Palace,5,0,1.5,2,      5-0,Win,3,5,Win,3,3.5,50,55,4.199999999999999,-5,47.800000000000004,37.2,10.600000000000001,4,      5-0,0
+30,Newcastle Utd,Brentford,Home,2,1,1.3,1.5,Newcastle Utd,Brentford,2,1,1.3,1.5,      2-1,Win,3,2,Win,3,0.7,53,58,4.8999999999999995,-5,49.1,38.7,10.399999999999999,4,      2-1,0
+31,Newcastle Utd,Leicester City,Away,3,0,3.2,0.5,Leicester City,Newcastle Utd,0,3,0.5,3.2,      0-3,Win,3,3,Win,3,-0.2,56,61,4.699999999999999,-5,52.300000000000004,39.2,13.100000000000001,4,      0-3,0
+32,Newcastle Utd,Manchester Utd,Home,4,1,2.2,0.7,Newcastle Utd,Manchester Utd,4,1,2.2,0.7,      4-1,Win,3,4,Win,3,1.7999999999999998,59,64,6.499999999999999,-5,54.5,39.9,14.600000000000001,3,      4-1,0
+33,Newcastle Utd,Aston Villa,Away,1,4,1,2.2,Aston Villa,Newcastle Utd,4,1,2.2,1,      4-1,Loss,0,1,Loss,0,0,59,64,6.499999999999999,-5,55.5,42.1,13.399999999999999,4,      4-1,0
+34,Newcastle Utd,Ipswich Town,Home,3,0,2.4,0.1,Newcastle Utd,Ipswich Town,3,0,2.4,0.1,      3-0,Win,3,3,Win,3,0.6000000000000001,62,67,7.1,-5,57.9,42.2,15.699999999999996,3,      3-0,0
+35,Newcastle Utd,Brighton,Away,1,1,1.7,0.7,Brighton,Newcastle Utd,1,1,0.7,1.7,      1-1,Draw,1,1,Draw,1,-0.7,63,68,6.3999999999999995,-5,59.6,42.9,16.700000000000003,4,      1-1,0
+36,Newcastle Utd,Chelsea,Home,2,0,1.6,0.7,Newcastle Utd,Chelsea,2,0,1.6,0.7,      2-0,Win,3,2,Win,3,0.3999999999999999,66,71,6.799999999999999,-5,61.2,43.6,17.6,3,      2-0,0
+37,Newcastle Utd,Arsenal,Away,0,1,1.5,0.6,Arsenal,Newcastle Utd,1,0,0.6,1.5,      1-0,Loss,0,1,Draw,1,-1.5,66,72,5.299999999999999,-6,62.7,44.2,18.5,4,      1-1,1
+38,Newcastle Utd,Everton,Home,0,1,1.2,1.2,Newcastle Utd,Everton,0,1,1.2,1.2,      0-1,Loss,0,1,Draw,1,-1.2,66,73,4.1,-7,63.9,45.4,18.5,5,      1-1,1
+1,Southampton,Newcastle Utd,Away,0,1,1.8,0.3,Newcastle Utd,Southampton,1,0,0.3,1.8,      1-0,Loss,0,1,Draw,1,-1.8,0,1,-1.8,-1,1.8,0.3,1.5,15,      1-1,1
+2,Southampton,Forest,Home,0,1,0.1,2.2,Southampton,Forest,0,1,0.1,2.2,      0-1,Loss,0,0,Loss,0,-0.1,0,1,-1.9,-1,1.9000000000000001,2.5,-0.6,16,      0-1,0
+3,Southampton,Brentford,Away,1,3,1.5,2.8,Brentford,Southampton,3,1,2.8,1.5,      3-1,Loss,0,1,Loss,0,-0.5,0,1,-2.4,-1,3.4000000000000004,5.3,-1.9,19,      3-1,0
+4,Southampton,Manchester Utd,Home,0,3,1.1,2.6,Southampton,Manchester Utd,0,3,1.1,2.6,      0-3,Loss,0,1,Loss,0,-1.1,0,1,-3.5,-1,4.5,7.9,-3.4,19,      1-3,0
+5,Southampton,Ipswich Town,Home,1,1,2.4,1.6,Southampton,Ipswich Town,1,1,2.4,1.6,      1-1,Draw,1,2,Win,3,-1.4,1,4,-4.9,-3,6.9,9.5,-2.6,18,      2-1,1
+6,Southampton,Bournemouth,Away,1,3,0.6,1.3,Bournemouth,Southampton,3,1,1.3,0.6,      3-1,Loss,0,1,Loss,0,0.4,1,4,-4.5,-3,7.5,10.8,-3.3,19,      3-1,0
+7,Southampton,Arsenal,Away,1,3,0.6,2.8,Arsenal,Southampton,3,1,2.8,0.6,      3-1,Loss,0,1,Loss,0,0.4,1,4,-4.1,-3,8.1,13.6,-5.5,19,      3-1,0
+8,Southampton,Leicester City,Home,2,3,2.1,3.1,Southampton,Leicester City,2,3,2.1,3.1,      2-3,Loss,0,2,Loss,0,-0.1,1,4,-4.2,-3,10.2,16.7,-6.5,19,      2-3,0
+9,Southampton,Manchester City,Away,0,1,0.2,2.9,Manchester City,Southampton,1,0,2.9,0.2,      1-0,Loss,0,0,Loss,0,-0.2,1,4,-4.4,-3,10.4,19.6,-9.2,20,      1-0,0
+10,Southampton,Everton,Home,1,0,0.7,1.6,Southampton,Everton,1,0,0.7,1.6,      1-0,Win,3,1,Win,3,0.30000000000000004,4,7,-4.1,-3,11.1,21.2,-10.1,19,      1-0,0
+11,Southampton,Wolves,Away,0,2,0.6,1.3,Wolves,Southampton,2,0,1.3,0.6,      2-0,Loss,0,0,Loss,0,-0.6,4,7,-4.7,-3,11.7,22.5,-10.8,20,      2-0,0
+12,Southampton,Liverpool,Home,2,3,1.3,3.1,Southampton,Liverpool,2,3,1.3,3.1,      2-3,Loss,0,2,Loss,0,0.7,4,7,-4,-3,13,25.6,-12.6,20,      2-3,0
+13,Southampton,Brighton,Away,1,1,1,1.7,Brighton,Southampton,1,1,1.7,1,      1-1,Draw,1,1,Draw,1,0,5,8,-4,-3,14,27.3,-13.3,20,      1-1,0
+14,Southampton,Chelsea,Home,1,5,1.6,5.2,Southampton,Chelsea,1,5,1.6,5.2,      1-5,Loss,0,1,Loss,0,-0.6,5,8,-4.6,-3,15.6,32.5,-16.9,20,      1-5,0
+15,Southampton,Aston Villa,Away,0,1,0.3,2.3,Aston Villa,Southampton,1,0,2.3,0.3,      1-0,Loss,0,0,Loss,0,-0.3,5,8,-4.9,-3,15.9,34.8,-18.9,20,      1-0,0
+16,Southampton,Tottenham,Home,0,5,0.8,2.3,Southampton,Tottenham,0,5,0.8,2.3,      0-5,Loss,0,0,Loss,0,-0.8,5,8,-5.7,-3,16.7,37.1,-20.4,20,      0-5,0
+17,Southampton,Fulham,Away,0,0,0.3,0.9,Fulham,Southampton,0,0,0.9,0.3,      0-0,Draw,1,0,Draw,1,-0.3,6,9,-6,-3,17,38,-21,20,      0-0,0
+18,Southampton,West Ham,Home,0,1,1.4,1.7,Southampton,West Ham,0,1,1.4,1.7,      0-1,Loss,0,1,Draw,1,-1.4,6,10,-7.4,-4,18.4,39.7,-21.3,20,      1-1,1
+19,Southampton,Crystal Palace,Away,1,2,0.9,2,Crystal Palace,Southampton,2,1,2,0.9,      2-1,Loss,0,1,Loss,0,0.1,6,10,-7.3,-4,19.3,41.7,-22.4,20,      2-1,0
+20,Southampton,Brentford,Home,0,5,0.3,4.4,Southampton,Brentford,0,5,0.3,4.4,      0-5,Loss,0,0,Loss,0,-0.3,6,10,-7.6,-4,19.6,46.1,-26.5,20,      0-5,0
+21,Southampton,Manchester Utd,Away,1,3,1.4,3.4,Manchester Utd,Southampton,3,1,3.4,1.4,      3-1,Loss,0,1,Loss,0,-0.4,6,10,-8,-4,21,49.5,-28.5,20,      3-1,0
+22,Southampton,Forest,Away,2,3,0.9,1.8,Forest,Southampton,3,2,1.8,0.9,      3-2,Loss,0,2,Loss,0,1.1,6,10,-6.9,-4,21.9,51.3,-29.4,20,      3-2,0
+23,Southampton,Newcastle Utd,Home,1,3,0.8,2.9,Southampton,Newcastle Utd,1,3,0.8,2.9,      1-3,Loss,0,1,Loss,0,0.19999999999999996,6,10,-6.7,-4,22.7,54.2,-31.5,20,      1-3,0
+24,Southampton,Ipswich Town,Away,2,1,0.9,1.8,Ipswich Town,Southampton,1,2,1.8,0.9,      1-2,Win,3,2,Win,3,1.1,9,13,-5.6,-4,23.6,56,-32.4,20,      1-2,0
+25,Southampton,Bournemouth,Home,1,3,0.8,1.2,Southampton,Bournemouth,1,3,0.8,1.2,      1-3,Loss,0,1,Loss,0,0.19999999999999996,9,13,-5.4,-4,24.4,57.2,-32.8,20,      1-3,0
+26,Southampton,Brighton,Home,0,4,0.1,3.9,Southampton,Brighton,0,4,0.1,3.9,      0-4,Loss,0,0,Loss,0,-0.1,9,13,-5.5,-4,24.5,61.1,-36.6,20,      0-4,0
+27,Southampton,Chelsea,Away,0,4,0.7,2.4,Chelsea,Southampton,4,0,2.4,0.7,      4-0,Loss,0,0,Loss,0,-0.7,9,13,-6.2,-4,25.2,63.5,-38.3,20,      4-0,0
+28,Southampton,Liverpool,Away,1,3,0.4,3.9,Liverpool,Southampton,3,1,3.9,0.4,      3-1,Loss,0,1,Loss,0,0.6,9,13,-5.6,-4,25.6,67.4,-41.8,20,      3-1,0
+29,Southampton,Wolves,Home,1,2,1.3,0.4,Southampton,Wolves,1,2,1.3,0.4,      1-2,Loss,0,1,Loss,0,-0.3,9,13,-5.9,-4,26.9,67.8,-40.9,20,      1-2,0
+30,Southampton,Crystal Palace,Home,1,1,0.7,0.7,Southampton,Crystal Palace,1,1,0.7,0.7,      1-1,Draw,1,1,Draw,1,0.30000000000000004,10,14,-5.6,-4,27.6,68.5,-40.9,20,      1-1,0
+31,Southampton,Tottenham,Away,1,3,1,2.1,Tottenham,Southampton,3,1,2.1,1,      3-1,Loss,0,1,Loss,0,0,10,14,-5.6,-4,28.6,70.6,-42,20,      3-1,0
+32,Southampton,Aston Villa,Home,0,3,0.3,3,Southampton,Aston Villa,0,3,0.3,3,      0-3,Loss,0,0,Loss,0,-0.3,10,14,-5.9,-4,28.9,73.6,-44.7,20,      0-3,0
+33,Southampton,West Ham,Away,1,1,0.6,0.9,West Ham,Southampton,1,1,0.9,0.6,      1-1,Draw,1,1,Draw,1,0.4,11,15,-5.5,-4,29.5,74.5,-45,20,      1-1,0
+34,Southampton,Fulham,Home,1,2,0.6,2.4,Southampton,Fulham,1,2,0.6,2.4,      1-2,Loss,0,1,Loss,0,0.4,11,15,-5.1,-4,30.1,76.9,-46.8,20,      1-2,0
+35,Southampton,Leicester City,Away,0,2,0.5,1.4,Leicester City,Southampton,2,0,1.4,0.5,      2-0,Loss,0,0,Loss,0,-0.5,11,15,-5.6,-4,30.6,78.3,-47.7,20,      2-0,0
+36,Southampton,Manchester City,Home,0,0,0.1,1.7,Southampton,Manchester City,0,0,0.1,1.7,      0-0,Draw,1,0,Draw,1,-0.1,12,16,-5.7,-4,30.7,80,-49.3,20,      0-0,0
+37,Southampton,Everton,Away,0,2,1.2,2.7,Everton,Southampton,2,0,2.7,1.2,      2-0,Loss,0,1,Loss,0,-1.2,12,16,-6.9,-4,31.9,82.7,-50.8,20,      2-1,0
+38,Southampton,Arsenal,Home,1,2,0.6,2.3,Southampton,Arsenal,1,2,0.6,2.3,      1-2,Loss,0,1,Loss,0,0.4,12,16,-6.5,-4,32.5,85,-52.5,20,      1-2,0
+1,Tottenham,Leicester City,Away,1,1,1.2,1,Leicester City,Tottenham,1,1,1,1.2,      1-1,Draw,1,1,Draw,1,-0.2,1,1,-0.2,0,1.2,1,0.19999999999999996,9,      1-1,0
+2,Tottenham,Everton,Home,4,0,2.4,1,Tottenham,Everton,4,0,2.4,1,      4-0,Win,3,4,Win,3,1.6,4,4,1.4000000000000001,0,3.5999999999999996,2,1.5999999999999996,5,      4-0,0
+3,Tottenham,Newcastle Utd,Away,1,2,1.2,1.8,Newcastle Utd,Tottenham,2,1,1.8,1.2,      2-1,Loss,0,1,Loss,0,-0.2,4,4,1.2000000000000002,0,4.8,3.8,1,10,      2-1,0
+4,Tottenham,Arsenal,Home,0,1,0.7,0.7,Tottenham,Arsenal,0,1,0.7,0.7,      0-1,Loss,0,0,Loss,0,-0.7,4,4,0.5000000000000002,0,5.5,4.5,1,13,      0-1,0
+5,Tottenham,Brentford,Home,3,1,3.5,0.8,Tottenham,Brentford,3,1,3.5,0.8,      3-1,Win,3,3,Win,3,-0.5,7,7,2.220446049250313e-16,0,9,5.3,3.7,10,      3-1,0
+6,Tottenham,Manchester Utd,Away,3,0,4.4,1,Manchester Utd,Tottenham,0,3,1,4.4,      0-3,Win,3,4,Win,3,-1.4,10,10,-1.4,0,13.4,6.3,7.1000000000000005,8,      0-4,0
+7,Tottenham,Brighton,Away,2,3,1.3,1.8,Brighton,Tottenham,3,2,1.8,1.3,      3-2,Loss,0,2,Loss,0,0.7,10,10,-0.7,0,14.700000000000001,8.1,6.600000000000001,9,      3-2,0
+8,Tottenham,West Ham,Home,4,1,1.9,0.8,Tottenham,West Ham,4,1,1.9,0.8,      4-1,Win,3,4,Win,3,2.1,13,13,1.4,0,16.6,8.9,7.700000000000001,7,      4-1,0
+9,Tottenham,Crystal Palace,Away,0,1,0.7,0.8,Crystal Palace,Tottenham,1,0,0.8,0.7,      1-0,Loss,0,0,Loss,0,-0.7,13,13,0.7,0,17.3,9.7,7.600000000000001,8,      1-0,0
+10,Tottenham,Aston Villa,Home,4,1,2.4,1.8,Tottenham,Aston Villa,4,1,2.4,1.8,      4-1,Win,3,4,Win,3,1.6,16,16,2.3,0,19.7,11.5,8.2,7,      4-1,0
+11,Tottenham,Ipswich Town,Home,1,2,1.5,1.6,Tottenham,Ipswich Town,1,2,1.5,1.6,      1-2,Loss,0,1,Loss,0,-0.5,16,16,1.8,0,21.2,13.1,8.1,10,      1-2,0
+12,Tottenham,Manchester City,Away,4,0,2.5,2.1,Manchester City,Tottenham,0,4,2.1,2.5,      0-4,Win,3,4,Win,3,1.5,19,19,3.3,0,23.7,15.2,8.5,6,      0-4,0
+13,Tottenham,Fulham,Home,1,1,0.8,1.5,Tottenham,Fulham,1,1,0.8,1.5,      1-1,Draw,1,1,Draw,1,0.19999999999999996,20,20,3.5,0,24.5,16.7,7.800000000000001,7,      1-1,0
+14,Tottenham,Bournemouth,Away,0,1,0.9,3.5,Bournemouth,Tottenham,1,0,3.5,0.9,      1-0,Loss,0,0,Loss,0,-0.9,20,20,2.6,0,25.4,20.2,5.199999999999999,10,      1-0,0
+15,Tottenham,Chelsea,Home,3,4,2.8,2.8,Tottenham,Chelsea,3,4,2.8,2.8,      3-4,Loss,0,3,Loss,0,0.20000000000000018,20,20,2.8000000000000003,0,28.2,23,5.199999999999999,11,      3-4,0
+16,Tottenham,Southampton,Away,5,0,2.3,0.8,Southampton,Tottenham,0,5,0.8,2.3,      0-5,Win,3,5,Win,3,2.7,23,23,5.5,0,30.5,23.8,6.699999999999999,10,      0-5,0
+17,Tottenham,Liverpool,Home,3,6,1.3,5.6,Tottenham,Liverpool,3,6,1.3,5.6,      3-6,Loss,0,3,Loss,0,1.7,23,23,7.2,0,31.8,29.4,2.400000000000002,11,      3-6,0
+18,Tottenham,Forest,Away,0,1,0.9,1.1,Forest,Tottenham,1,0,1.1,0.9,      1-0,Loss,0,0,Loss,0,-0.9,23,23,6.300000000000001,0,32.7,30.5,2.200000000000003,12,      1-0,0
+19,Tottenham,Wolves,Home,2,2,2.2,0.7,Tottenham,Wolves,2,2,2.2,0.7,      2-2,Draw,1,2,Draw,1,-0.2,24,24,6.1000000000000005,0,34.9,31.2,3.6999999999999993,11,      2-2,0
+20,Tottenham,Newcastle Utd,Home,1,2,0.9,2.5,Tottenham,Newcastle Utd,1,2,0.9,2.5,      1-2,Loss,0,1,Loss,0,0.1,24,24,6.2,0,35.8,33.7,2.0999999999999943,12,      1-2,0
+21,Tottenham,Arsenal,Away,1,2,0.8,1.4,Arsenal,Tottenham,2,1,1.4,0.8,      2-1,Loss,0,1,Loss,0,0.19999999999999996,24,24,6.4,0,36.6,35.1,1.5,14,      2-1,0
+22,Tottenham,Everton,Away,2,3,1.1,1.8,Everton,Tottenham,3,2,1.8,1.1,      3-2,Loss,0,2,Loss,0,0.8999999999999999,24,24,7.3,0,37.7,36.9,0.8000000000000043,15,      3-2,0
+23,Tottenham,Leicester City,Home,1,2,1,1.6,Tottenham,Leicester City,1,2,1,1.6,      1-2,Loss,0,1,Loss,0,0,24,24,7.3,0,38.7,38.5,0.20000000000000284,15,      1-2,0
+24,Tottenham,Brentford,Away,2,0,0.8,2.1,Brentford,Tottenham,0,2,2.1,0.8,      0-2,Win,3,2,Win,3,1.2,27,27,8.5,0,39.5,40.6,-1.1,14,      0-2,0
+25,Tottenham,Manchester Utd,Home,1,0,2.2,1.5,Tottenham,Manchester Utd,1,0,2.2,1.5,      1-0,Win,3,2,Win,3,-1.2,30,30,7.3,0,41.7,42.1,-0.4,12,      2-0,0
+26,Tottenham,Ipswich Town,Away,4,1,1.7,1.1,Ipswich Town,Tottenham,1,4,1.1,1.7,      1-4,Win,3,4,Win,3,2.3,33,33,9.6,0,43.4,43.2,0.19999999999999574,12,      1-4,0
+27,Tottenham,Manchester City,Home,0,1,1.3,2.1,Tottenham,Manchester City,0,1,1.3,2.1,      0-1,Loss,0,1,Draw,1,-1.3,33,34,8.299999999999999,-1,44.7,45.3,-0.6,13,      1-1,1
+28,Tottenham,Bournemouth,Home,2,2,1.5,2.2,Tottenham,Bournemouth,2,2,1.5,2.2,      2-2,Draw,1,2,Draw,1,0.5,34,35,8.799999999999999,-1,46.2,47.5,-1.3,13,      2-2,0
+29,Tottenham,Fulham,Away,0,2,0.9,1,Fulham,Tottenham,2,0,1,0.9,      2-0,Loss,0,0,Loss,0,-0.9,34,35,7.8999999999999995,-1,47.1,48.5,-1.4,14,      2-0,0
+30,Tottenham,Chelsea,Away,0,1,0.9,1,Chelsea,Tottenham,1,0,1,0.9,      1-0,Loss,0,0,Loss,0,-0.9,34,35,7,-1,48,49.5,-1.5,14,      1-0,0
+31,Tottenham,Southampton,Home,3,1,2.1,1,Tottenham,Southampton,3,1,2.1,1,      3-1,Win,3,3,Win,3,0.8999999999999999,37,38,7.8999999999999995,-1,50.1,50.5,-0.4,14,      3-1,0
+32,Tottenham,Wolves,Away,2,4,2,2.4,Wolves,Tottenham,4,2,2.4,2,      4-2,Loss,0,2,Loss,0,0,37,38,7.8999999999999995,-1,52.1,52.9,-0.8,15,      4-2,0
+33,Tottenham,Forest,Home,1,2,2.1,0.5,Tottenham,Forest,1,2,2.1,0.5,      1-2,Loss,0,2,Draw,1,-1.1,37,39,6.799999999999999,-2,54.2,53.4,0.8000000000000043,16,      2-2,1
+34,Tottenham,Liverpool,Away,1,5,0.5,2.2,Liverpool,Tottenham,5,1,2.2,0.5,      5-1,Loss,0,1,Loss,0,0.5,37,39,7.299999999999999,-2,54.7,55.6,-0.9,16,      5-1,0
+35,Tottenham,West Ham,Away,1,1,0.8,0.8,West Ham,Tottenham,1,1,0.8,0.8,      1-1,Draw,1,1,Draw,1,0.19999999999999996,38,40,7.499999999999999,-2,55.5,56.4,-0.9,16,      1-1,0
+36,Tottenham,Crystal Palace,Home,0,2,0.7,3.4,Tottenham,Crystal Palace,0,2,0.7,3.4,      0-2,Loss,0,0,Loss,0,-0.7,38,40,6.799999999999999,-2,56.2,59.8,-3.6,17,      0-2,0
+37,Tottenham,Aston Villa,Away,0,2,0.5,1.4,Aston Villa,Tottenham,2,0,1.4,0.5,      2-0,Loss,0,0,Loss,0,-0.5,38,40,6.299999999999999,-2,56.7,61.2,-4.5,17,      2-0,0
+38,Tottenham,Brighton,Home,1,4,2,2.2,Tottenham,Brighton,1,4,2,2.2,      1-4,Loss,0,2,Loss,0,-1,38,40,5.299999999999999,-2,58.7,63.4,-4.7,17,      2-4,0
+1,West Ham,Aston Villa,Home,1,2,2.3,2,West Ham,Aston Villa,1,2,2.3,2,      1-2,Loss,0,2,Draw,1,-1.3,0,1,-1.3,-1,2.3,2,0.2999999999999998,13,      2-2,1
+2,West Ham,Crystal Palace,Away,2,0,1.4,1.3,Crystal Palace,West Ham,0,2,1.3,1.4,      0-2,Win,3,2,Win,3,0.6000000000000001,3,4,-0.7,-1,3.6999999999999997,3.3,0.3999999999999999,9,      0-2,0
+3,West Ham,Manchester City,Home,1,3,0.7,3,West Ham,Manchester City,1,3,0.7,3,      1-3,Loss,0,1,Loss,0,0.30000000000000004,3,4,-0.4,-1,4.3999999999999995,6.3,-1.9,13,      1-3,0
+4,West Ham,Fulham,Away,1,1,0.8,1.5,Fulham,West Ham,1,1,1.5,0.8,      1-1,Draw,1,1,Draw,1,0.19999999999999996,4,5,-0.2,-1,5.199999999999999,7.8,-2.6,14,      1-1,0
+5,West Ham,Chelsea,Home,0,3,0.9,2.2,West Ham,Chelsea,0,3,0.9,2.2,      0-3,Loss,0,0,Loss,0,-0.9,4,5,-1.1,-1,6.1,10,-3.9,14,      0-3,0
+6,West Ham,Brentford,Away,1,1,1,0.4,Brentford,West Ham,1,1,0.4,1,      1-1,Draw,1,1,Draw,1,0,5,6,-1.1,-1,7.1,10.4,-3.3,14,      1-1,0
+7,West Ham,Ipswich Town,Home,4,1,3.6,0.6,West Ham,Ipswich Town,4,1,3.6,0.6,      4-1,Win,3,4,Win,3,0.3999999999999999,8,9,-0.7,-1,10.7,11,-0.3,12,      4-1,0
+8,West Ham,Tottenham,Away,1,4,0.8,1.9,Tottenham,West Ham,4,1,1.9,0.8,      4-1,Loss,0,1,Loss,0,0.19999999999999996,8,9,-0.5,-1,11.5,12.9,-1.4,15,      4-1,0
+9,West Ham,Manchester Utd,Home,2,1,2.8,2.3,West Ham,Manchester Utd,2,1,2.8,2.3,      2-1,Win,3,2,Win,3,-0.8,11,12,-1.3,-1,14.3,15.2,-0.9,13,      2-1,0
+10,West Ham,Forest,Away,0,3,0.1,2.2,Forest,West Ham,3,0,2.2,0.1,      3-0,Loss,0,0,Loss,0,-0.1,11,12,-1.4,-1,14.4,17.4,-3,14,      3-0,0
+11,West Ham,Everton,Home,0,0,0.8,1.1,West Ham,Everton,0,0,0.8,1.1,      0-0,Draw,1,0,Draw,1,-0.8,12,13,-2.2,-1,15.2,18.5,-3.3,14,      0-0,0
+12,West Ham,Newcastle Utd,Away,2,0,0.9,1.6,Newcastle Utd,West Ham,0,2,1.6,0.9,      0-2,Win,3,2,Win,3,1.1,15,16,-1.1,-1,16.1,20.1,-4,14,      0-2,0
+13,West Ham,Arsenal,Home,2,5,1.5,3.5,West Ham,Arsenal,2,5,1.5,3.5,      2-5,Loss,0,2,Loss,0,0.5,15,16,-0.6,-1,17.6,23.6,-6,14,      2-5,0
+14,West Ham,Leicester City,Away,1,3,3,1.7,Leicester City,West Ham,3,1,1.7,3,      3-1,Loss,0,3,Draw,1,-2,15,17,-2.6,-2,20.6,25.3,-4.7,14,      3-3,1
+15,West Ham,Wolves,Home,2,1,1,1.4,West Ham,Wolves,2,1,1,1.4,      2-1,Win,3,2,Win,3,1,18,20,-1.6,-2,21.6,26.7,-5.1,14,      2-1,0
+16,West Ham,Bournemouth,Away,1,1,2.1,1.9,Bournemouth,West Ham,1,1,1.9,2.1,      1-1,Draw,1,2,Win,3,-1.1,19,23,-2.7,-4,23.7,28.6,-4.9,14,      1-2,1
+17,West Ham,Brighton,Home,1,1,1.2,0.9,West Ham,Brighton,1,1,1.2,0.9,      1-1,Draw,1,1,Draw,1,-0.2,20,24,-2.9,-4,24.9,29.5,-4.6,14,      1-1,0
+18,West Ham,Southampton,Away,1,0,1.7,1.4,Southampton,West Ham,0,1,1.4,1.7,      0-1,Win,3,1,Win,3,-0.7,23,27,-3.6,-4,26.6,30.9,-4.3,13,      0-1,0
+19,West Ham,Liverpool,Home,0,5,0.4,3.1,West Ham,Liverpool,0,5,0.4,3.1,      0-5,Loss,0,0,Loss,0,-0.4,23,27,-4,-4,27,34,-7,13,      0-5,0
+20,West Ham,Manchester City,Away,1,4,1.4,1.9,Manchester City,West Ham,4,1,1.9,1.4,      4-1,Loss,0,1,Loss,0,-0.4,23,27,-4.4,-4,28.4,35.9,-7.5,14,      4-1,0
+21,West Ham,Fulham,Home,3,2,1,1.7,West Ham,Fulham,3,2,1,1.7,      3-2,Win,3,3,Win,3,2,26,30,-2.4,-4,29.4,37.6,-8.2,13,      3-2,0
+22,West Ham,Crystal Palace,Home,0,2,0.3,1.3,West Ham,Crystal Palace,0,2,0.3,1.3,      0-2,Loss,0,0,Loss,0,-0.3,26,30,-2.7,-4,29.7,38.9,-9.2,14,      0-2,0
+23,West Ham,Aston Villa,Away,1,1,1.3,0.9,Aston Villa,West Ham,1,1,0.9,1.3,      1-1,Draw,1,1,Draw,1,-0.3,27,31,-3,-4,31,39.8,-8.8,14,      1-1,0
+24,West Ham,Chelsea,Away,1,2,1.2,1.6,Chelsea,West Ham,2,1,1.6,1.2,      2-1,Loss,0,1,Loss,0,-0.2,27,31,-3.2,-4,32.2,41.4,-9.2,16,      2-1,0
+25,West Ham,Brentford,Home,0,1,0.8,1.6,West Ham,Brentford,0,1,0.8,1.6,      0-1,Loss,0,0,Loss,0,-0.8,27,31,-4,-4,33,43,-10,16,      0-1,0
+26,West Ham,Arsenal,Away,1,0,1.1,1.2,Arsenal,West Ham,0,1,1.2,1.1,      0-1,Win,3,1,Win,3,-0.1,30,34,-4.1,-4,34.1,44.2,-10.1,16,      0-1,0
+27,West Ham,Leicester City,Home,2,0,1.3,0.4,West Ham,Leicester City,2,0,1.3,0.4,      2-0,Win,3,2,Win,3,0.7,33,37,-3.4,-4,35.4,44.6,-9.2,15,      2-0,0
+28,West Ham,Newcastle Utd,Home,0,1,0.7,1.4,West Ham,Newcastle Utd,0,1,0.7,1.4,      0-1,Loss,0,0,Loss,0,-0.7,33,37,-4.1,-4,36.1,46,-9.9,16,      0-1,0
+29,West Ham,Everton,Away,1,1,0.8,1,Everton,West Ham,1,1,1,0.8,      1-1,Draw,1,1,Draw,1,0.19999999999999996,34,38,-3.9,-4,36.9,47,-10.1,16,      1-1,0
+30,West Ham,Wolves,Away,0,1,1.3,1.2,Wolves,West Ham,1,0,1.2,1.3,      1-0,Loss,0,1,Draw,1,-1.3,34,39,-5.2,-5,38.2,48.2,-10,16,      1-1,1
+31,West Ham,Bournemouth,Home,2,2,0.7,2.1,West Ham,Bournemouth,2,2,0.7,2.1,      2-2,Draw,1,2,Draw,1,1.3,35,40,-3.9,-5,38.9,50.3,-11.4,16,      2-2,0
+32,West Ham,Liverpool,Away,1,2,1.4,1.8,Liverpool,West Ham,2,1,1.8,1.4,      2-1,Loss,0,1,Loss,0,-0.4,35,40,-4.3,-5,40.3,52.1,-11.8,17,      2-1,0
+33,West Ham,Southampton,Home,1,1,0.9,0.6,West Ham,Southampton,1,1,0.9,0.6,      1-1,Draw,1,1,Draw,1,0.1,36,41,-4.2,-5,41.2,52.7,-11.5,17,      1-1,0
+34,West Ham,Brighton,Away,2,3,1.3,1.3,Brighton,West Ham,3,2,1.3,1.3,      3-2,Loss,0,2,Loss,0,0.7,36,41,-3.5,-5,42.5,54,-11.5,17,      3-2,0
+35,West Ham,Tottenham,Home,1,1,0.8,0.8,West Ham,Tottenham,1,1,0.8,0.8,      1-1,Draw,1,1,Draw,1,0.19999999999999996,37,42,-3.3,-5,43.3,54.8,-11.5,17,      1-1,0
+36,West Ham,Manchester Utd,Away,2,0,1.7,2.1,Manchester Utd,West Ham,0,2,2.1,1.7,      0-2,Win,3,2,Win,3,0.30000000000000004,40,45,-3,-5,45,56.9,-11.9,15,      0-2,0
+37,West Ham,Forest,Home,1,2,1.1,1.9,West Ham,Forest,1,2,1.1,1.9,      1-2,Loss,0,1,Loss,0,-0.1,40,45,-3.1,-5,46.1,58.8,-12.7,15,      1-2,0
+38,West Ham,Ipswich Town,Away,3,1,1.1,0.7,Ipswich Town,West Ham,1,3,0.7,1.1,      1-3,Win,3,3,Win,3,1.9,43,48,-1.2,-5,47.2,59.5,-12.3,14,      1-3,0
+1,Wolves,Arsenal,Away,0,2,0.5,1.2,Arsenal,Wolves,2,0,1.2,0.5,      2-0,Loss,0,0,Loss,0,-0.5,0,0,-0.5,0,0.5,1.2,-0.7,17,      2-0,0
+2,Wolves,Chelsea,Home,2,6,1.9,1.6,Wolves,Chelsea,2,6,1.9,1.6,      2-6,Loss,0,2,Loss,0,0.10000000000000009,0,0,-0.4,0,2.4,2.8,-0.4,19,      2-6,0
+3,Wolves,Forest,Away,1,1,0.7,1,Forest,Wolves,1,1,1,0.7,      1-1,Draw,1,1,Draw,1,0.30000000000000004,1,1,-0.1,0,3.0999999999999996,3.8,-0.7,18,      1-1,0
+4,Wolves,Newcastle Utd,Home,1,2,1.2,1.5,Wolves,Newcastle Utd,1,2,1.2,1.5,      1-2,Loss,0,1,Loss,0,-0.2,1,1,-0.3,0,4.3,5.3,-1,18,      1-2,0
+5,Wolves,Aston Villa,Away,1,3,0.5,1.7,Aston Villa,Wolves,3,1,1.7,0.5,      3-1,Loss,0,1,Loss,0,0.5,1,1,0.20000000000000018,0,4.8,7,-2.2,19,      3-1,0
+6,Wolves,Liverpool,Home,1,2,0.6,2.5,Wolves,Liverpool,1,2,0.6,2.5,      1-2,Loss,0,1,Loss,0,0.4,1,1,0.6000000000000002,0,5.3999999999999995,9.5,-4.1,20,      1-2,0
+7,Wolves,Brentford,Away,3,5,1,4.2,Brentford,Wolves,5,3,4.2,1,      5-3,Loss,0,3,Loss,0,2,1,1,2.6,0,6.4,13.7,-7.3,20,      5-3,0
+8,Wolves,Manchester City,Home,1,2,0.8,1.6,Wolves,Manchester City,1,2,0.8,1.6,      1-2,Loss,0,1,Loss,0,0.19999999999999996,1,1,2.8,0,7.2,15.3,-8.1,20,      1-2,0
+9,Wolves,Brighton,Away,2,2,1.3,1.3,Brighton,Wolves,2,2,1.3,1.3,      2-2,Draw,1,2,Draw,1,0.7,2,2,3.5,0,8.5,16.6,-8.1,19,      2-2,0
+10,Wolves,Crystal Palace,Home,2,2,1.5,2.4,Wolves,Crystal Palace,2,2,1.5,2.4,      2-2,Draw,1,2,Draw,1,0.5,3,3,4,0,10,19,-9,20,      2-2,0
+11,Wolves,Southampton,Home,2,0,1.3,0.6,Wolves,Southampton,2,0,1.3,0.6,      2-0,Win,3,2,Win,3,0.7,6,6,4.7,0,11.3,19.6,-8.3,19,      2-0,0
+12,Wolves,Fulham,Away,4,1,1.3,1,Fulham,Wolves,1,4,1,1.3,      1-4,Win,3,4,Win,3,2.7,9,9,7.4,0,12.6,20.6,-8,17,      1-4,0
+13,Wolves,Bournemouth,Home,2,4,0.5,3.3,Wolves,Bournemouth,2,4,0.5,3.3,      2-4,Loss,0,2,Loss,0,1.5,9,9,8.9,0,13.1,23.9,-10.8,18,      2-4,0
+14,Wolves,Everton,Away,0,4,0.8,1,Everton,Wolves,4,0,1,0.8,      4-0,Loss,0,0,Loss,0,-0.8,9,9,8.1,0,13.9,24.9,-11,19,      4-0,0
+15,Wolves,West Ham,Away,1,2,1.4,1,West Ham,Wolves,2,1,1,1.4,      2-1,Loss,0,1,Loss,0,-0.4,9,9,7.7,0,15.3,25.9,-10.6,19,      2-1,0
+16,Wolves,Ipswich Town,Home,1,2,1.3,1.1,Wolves,Ipswich Town,1,2,1.3,1.1,      1-2,Loss,0,1,Loss,0,-0.3,9,9,7.4,0,16.6,27,-10.4,19,      1-2,0
+17,Wolves,Leicester City,Away,3,0,1.1,0.8,Leicester City,Wolves,0,3,0.8,1.1,      0-3,Win,3,3,Win,3,1.9,12,12,9.3,0,17.7,27.8,-10.1,18,      0-3,0
+18,Wolves,Manchester Utd,Home,2,0,0.9,0.4,Wolves,Manchester Utd,2,0,0.9,0.4,      2-0,Win,3,2,Win,3,1.1,15,15,10.4,0,18.6,28.2,-9.6,17,      2-0,0
+19,Wolves,Tottenham,Away,2,2,0.7,2.2,Tottenham,Wolves,2,2,2.2,0.7,      2-2,Draw,1,2,Draw,1,1.3,16,16,11.700000000000001,0,19.3,30.4,-11.1,17,      2-2,0
+20,Wolves,Forest,Home,0,3,1.5,2.1,Wolves,Forest,0,3,1.5,2.1,      0-3,Loss,0,1,Loss,0,-1.5,16,16,10.200000000000001,0,20.8,32.5,-11.7,17,      1-3,0
+21,Wolves,Newcastle Utd,Away,0,3,1.6,2.1,Newcastle Utd,Wolves,3,0,2.1,1.6,      3-0,Loss,0,1,Loss,0,-1.6,16,16,8.6,0,22.4,34.6,-12.2,17,      3-1,0
+22,Wolves,Chelsea,Away,1,3,0.8,3.1,Chelsea,Wolves,3,1,3.1,0.8,      3-1,Loss,0,1,Loss,0,0.19999999999999996,16,16,8.8,0,23.2,37.7,-14.5,17,      3-1,0
+23,Wolves,Arsenal,Home,0,1,0.7,1,Wolves,Arsenal,0,1,0.7,1,      0-1,Loss,0,0,Loss,0,-0.7,16,16,8.1,0,23.9,38.7,-14.8,18,      0-1,0
+24,Wolves,Aston Villa,Home,2,0,1.6,0.4,Wolves,Aston Villa,2,0,1.6,0.4,      2-0,Win,3,2,Win,3,0.3999999999999999,19,19,8.5,0,25.5,39.1,-13.6,17,      2-0,0
+25,Wolves,Liverpool,Away,1,2,1.5,1.7,Liverpool,Wolves,2,1,1.7,1.5,      2-1,Loss,0,1,Loss,0,-0.5,19,19,8,0,27,40.8,-13.8,17,      2-1,0
+26,Wolves,Bournemouth,Away,1,0,2,0.9,Bournemouth,Wolves,0,1,0.9,2,      0-1,Win,3,2,Win,3,-1,22,22,7,0,29,41.7,-12.7,17,      0-2,0
+27,Wolves,Fulham,Home,1,2,1.3,1.7,Wolves,Fulham,1,2,1.3,1.7,      1-2,Loss,0,1,Loss,0,-0.3,22,22,6.7,0,30.3,43.4,-13.1,17,      1-2,0
+28,Wolves,Everton,Home,1,1,0.8,1.2,Wolves,Everton,1,1,0.8,1.2,      1-1,Draw,1,1,Draw,1,0.19999999999999996,23,23,6.9,0,31.1,44.6,-13.5,17,      1-1,0
+29,Wolves,Southampton,Away,2,1,0.4,1.3,Southampton,Wolves,1,2,1.3,0.4,      1-2,Win,3,2,Win,3,1.6,26,26,8.5,0,31.5,45.9,-14.4,17,      1-2,0
+30,Wolves,West Ham,Home,1,0,1.2,1.3,Wolves,West Ham,1,0,1.2,1.3,      1-0,Win,3,1,Win,3,-0.2,29,29,8.3,0,32.7,47.2,-14.5,17,      1-0,0
+31,Wolves,Ipswich Town,Away,2,1,2.6,0.8,Ipswich Town,Wolves,1,2,0.8,2.6,      1-2,Win,3,2,Win,3,-0.6,32,32,7.7,0,35.3,48,-12.7,17,      1-2,0
+32,Wolves,Tottenham,Home,4,2,2.4,2,Wolves,Tottenham,4,2,2.4,2,      4-2,Win,3,4,Win,3,1.6,35,35,9.3,0,37.7,50,-12.3,16,      4-2,0
+33,Wolves,Manchester Utd,Away,1,0,0.2,1.3,Manchester Utd,Wolves,0,1,1.3,0.2,      0-1,Win,3,1,Win,3,0.8,38,38,10.1,0,37.9,51.300000000000004,-13.4,15,      0-1,0
+34,Wolves,Leicester City,Home,3,0,2,1.1,Wolves,Leicester City,3,0,2,1.1,      3-0,Win,3,3,Win,3,1,41,41,11.1,0,39.9,52.4,-12.5,13,      3-0,0
+35,Wolves,Manchester City,Away,0,1,0.4,0.7,Manchester City,Wolves,1,0,0.7,0.4,      1-0,Loss,0,0,Loss,0,-0.4,41,41,10.700000000000001,0,40.300000000000004,53.1,-12.8,13,      1-0,0
+36,Wolves,Brighton,Home,0,2,0.9,1.6,Wolves,Brighton,0,2,0.9,1.6,      0-2,Loss,0,0,Loss,0,-0.9,41,41,9.8,0,41.2,54.7,-13.5,14,      0-2,0
+37,Wolves,Crystal Palace,Away,2,4,1.4,1.7,Crystal Palace,Wolves,4,2,1.7,1.4,      4-2,Loss,0,2,Loss,0,0.6000000000000001,41,41,10.4,0,42.6,56.4,-13.8,14,      4-2,0
+38,Wolves,Brentford,Home,1,1,1,1.4,Wolves,Brentford,1,1,1,1.4,      1-1,Draw,1,1,Draw,1,0,42,42,10.4,0,43.6,57.800000000000004,-14.2,16,      1-1,0
